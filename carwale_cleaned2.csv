@@ -1,0 +1,2470 @@
+,price,year,kms,fuel,city,tags,starting_emi,company,car_name,cc
+0,476000.0,2016,79710,Petrol,Delhi,No Tag,7904,Maruti Suzuki,Baleno  ,1.2
+1,560000.0,2014,67000,Petrol,Delhi,Home Test Drive,9299,Hyundai,Verna  ,1.6
+2,670000.0,2017,78184,Diesel,Delhi,Home Test Drive,11126,Maruti Suzuki,Vitara Brezza,
+3,1790000.0,2019,42046,Petrol,Gurgaon,No Tag,,MG,Hector  ,1.5
+4,315000.0,2015,67738,CNG,Delhi,Great Price,5231,Maruti Suzuki,Wagon R,1.0
+5,3500000.0,2019,42500,Diesel,Delhi,No Tag,58123,BMW,3 Series,
+6,3025000.0,2022,10000,Diesel,Delhi,No Tag,50235,Toyota,Innova  ,
+7,4740000.0,2020,33000,Diesel,Delhi,Home Test Drive,78715,Volvo,S90  ,
+8,265000.0,2014,65952,CNG,Delhi,Home Test Drive,4400,Maruti Suzuki,Alto  ,
+9,580000.0,2019,58702,Petrol,Delhi,Home Test Drive,9631,Maruti Suzuki,Swift  ,
+10,525000.0,2019,44620,Petrol,Delhi,Home Test Drive,8718,Hyundai,Grand i10,1.2
+11,825000.0,2017,41468,Petrol,Delhi,Home Test Drive,,Maruti Suzuki,Ciaz  ,1.4
+12,2300000.0,2018,57948,Diesel,Delhi,Home Test Drive,38195,BMW,X1  ,
+13,731000.0,2017,29370,Petrol,Delhi,Home Test Drive,12139,Honda,City  ,
+14,760000.0,2020,4719,Petrol,Delhi,Home Test Drive,12621,Honda,Amaze  ,1.2
+15,825000.0,2014,65949,Petrol,Delhi,Home Test Drive,13700,Toyota,Corolla Altis,1.8
+16,1155000.0,2021,25523,CNG,Delhi,Home Test Drive,19180,Maruti Suzuki,Ertiga  ,
+17,300000.0,2016,10600,Petrol,Delhi,No Tag,4982,Renault,Kwid  ,
+18,595000.0,2019,40946,Petrol,Delhi,No Tag,9880,Volkswagen,Ameo  ,1.2
+19,510000.0,2015,61053,Petrol,Delhi,Home Test Drive,8469,Maruti Suzuki,Baleno  ,1.2
+20,1710000.0,2018,57962,Diesel,Delhi,Home Test Drive,28397,Toyota,Innova  ,
+21,660000.0,2019,28003,Petrol,Delhi,Home Test Drive,10960,Honda,Amaze  ,1.2
+22,535000.0,2017,52007,Diesel,Delhi,Home Test Drive,8884,Maruti Suzuki,Swift  ,
+23,578000.0,2014,47565,Petrol,Delhi,Home Test Drive,9598,Honda,City  ,1.5
+24,575000.0,2018,40028,Petrol,Delhi,Home Test Drive,9548,Maruti Suzuki,Baleno  ,1.2
+25,495000.0,2018,59790,Petrol,Delhi,Home Test Drive,8220,Hyundai,Grand i10,1.2
+26,775000.0,2018,55346,Diesel,Delhi,No Tag,,Ford,EcoSport  ,1.5
+27,625000.0,2018,37002,Petrol,Delhi,Home Test Drive,10379,Hyundai,Elite i20,1.2
+28,595000.0,2018,69205,Petrol,Noida,Home Test Drive,9880,Honda,Jazz  ,
+29,1175000.0,2020,32576,Petrol,Delhi,Home Test Drive,19512,Maruti Suzuki,XL6  ,
+30,625000.0,2016,61283,Petrol,Noida,No Tag,10379,Maruti Suzuki,Ciaz  ,
+31,625000.0,2020,41785,Petrol,Noida,No Tag,10379,Tata,Tiago  ,
+32,555000.0,2015,28875,Petrol,Noida,No Tag,9216,Honda,Mobilio  ,
+33,935000.0,2017,68679,Petrol,Delhi,Home Test Drive,,Hyundai,Creta  ,1.6
+34,500000.0,2019,11564,Petrol,Delhi,Home Test Drive,,Hyundai,Santro  ,
+35,725000.0,2018,31747,Petrol,Delhi,Home Test Drive,12039,Honda,Amaze  ,1.2
+36,535000.0,2015,34025,Petrol,Delhi,Home Test Drive,8884,Honda,Jazz  ,
+37,2950000.0,2019,57602,Diesel,Delhi,Home Test Drive,48989,Ford,Endeavour  ,
+38,595000.0,2015,75057,Petrol,Noida,No Tag,9880,Maruti Suzuki,Ciaz  ,
+39,1290000.0,2021,6731,Petrol,Delhi,Home Test Drive,21422,Honda,City  ,
+40,895000.0,2015,52000,Diesel,Delhi,No Tag,14862,Mahindra,XUV500  ,
+41,795000.0,2021,9286,Petrol,Delhi,No Tag,13202,Tata,Altroz  ,
+42,1025000.0,2020,15000,Petrol,Delhi,No Tag,17021,Maruti Suzuki,Ciaz  ,1.5
+43,1525000.0,2021,12000,Petrol,Delhi,No Tag,25325,MG,Astor  ,1.5
+44,770000.0,2022,3200,Petrol,Delhi,Home Test Drive,12787,Renault,Triber  ,
+45,491000.0,2012,52000,Petrol,Delhi,Home Test Drive,,Honda,City  ,1.5
+46,900000.0,2019,47000,Petrol,Delhi,Great Price,14946,Volkswagen,GTI  ,1.8
+47,1875000.0,2018,70000,Diesel,Delhi,Home Test Drive,31137,Toyota,Innova  ,
+48,13500000.0,2021,20000,Diesel,Delhi,Home Test Drive,,Mercedes-Benz,GLS  ,
+49,2175000.0,2016,44000,Diesel,Delhi,Just Arrived,36119,BMW,3 Series,
+50,1724000.0,2020,23000,Petrol,Delhi,Home Test Drive,28629,Kia,Seltos  ,1.4
+51,675000.0,2018,67000,Diesel,Delhi,Home Test Drive,11209,Tata,Nexon  ,
+52,699000.0,2017,15441,Petrol,Delhi,Home Test Drive,11608,Honda,Jazz  ,
+53,13500000.0,2021,21000,Diesel,Delhi,Home Test Drive,,Mercedes-Benz,GLS  ,
+54,1125000.0,2020,41716,Petrol,Delhi,Home Test Drive,18682,Honda,City  ,
+55,1550000.0,2015,81000,Diesel,Delhi,Home Test Drive,25740,Audi,Q3  ,
+56,390000.0,2014,74000,Petrol,Delhi,Home Test Drive,6476,Honda,Amaze  ,1.2
+57,1390000.0,2018,99000,Diesel,Delhi,Home Test Drive,23083,Mahindra,XUV500  ,
+58,13500000.0,2021,20500,Diesel,Delhi,Home Test Drive,,Mercedes-Benz,GLS  ,
+59,995000.0,2017,29995,Diesel,Delhi,No Tag,16523,Hyundai,Verna  ,1.6
+60,675000.0,2016,48000,Petrol,Delhi,No Tag,11209,Honda,City  ,
+61,799000.0,2018,26000,Petrol,Delhi,Home Test Drive,13268,Honda,WR-V  ,
+62,860000.0,2014,108000,Diesel,Delhi,Home Test Drive,14281,Toyota,Innova  ,
+63,635000.0,2018,37000,Petrol,Delhi,Home Test Drive,10545,Maruti Suzuki,Baleno  ,1.2
+64,1290000.0,2019,51000,Petrol,Delhi,Home Test Drive,21422,Hyundai,Creta  ,1.6
+65,3099000.0,2018,25160,Diesel,Delhi,Home Test Drive,51464,Ford,Endeavour  ,
+66,590000.0,2019,39000,Petrol,Delhi,Home Test Drive,9797,Maruti Suzuki,Wagon R,1.2
+67,1579000.0,2015,73000,Diesel,Delhi,Home Test Drive,26221,Audi,Q3  ,2.0
+68,1325000.0,2017,43000,Petrol,Delhi,Home Test Drive,22003,Skoda,Octavia  ,1.8
+69,645000.0,2015,42000,Petrol,Delhi,No Tag,10711,Honda,City  ,
+70,5990000.0,2020,40000,Diesel,Delhi,Home Test Drive,,Land,Rover  ,
+71,469000.0,2015,69000,Petrol,Delhi,Home Test Drive,7788,Volkswagen,Polo  ,1.2
+72,749000.0,2018,37000,Diesel,Delhi,No Tag,12438,Mahindra,TUV300  ,
+73,665000.0,2016,68000,Petrol,Delhi,Home Test Drive,11043,Maruti Suzuki,Ciaz  ,
+74,930000.0,2010,46000,Petrol,Delhi,Home Test Drive,,Mercedes-Benz,E-Class  ,
+75,1190000.0,2014,61000,Diesel,Delhi,Home Test Drive,19761,Audi,A4  ,2.0
+76,5300000.0,2022,45000,Petrol,Delhi,Home Test Drive,88015,Mercedes-Benz,GLC  ,
+77,1240000.0,2018,49000,Petrol,Delhi,Home Test Drive,20592,Hyundai,Creta  ,1.6
+78,4900000.0,2019,5100,Petrol,Delhi,Home Test Drive,,Audi,A3  ,
+79,4900000.0,2019,5100,Petrol,Delhi,Home Test Drive,,Audi,A3  ,
+80,1240000.0,2018,49000,Petrol,Delhi,Home Test Drive,20592,Hyundai,Creta  ,1.6
+81,6000000.0,2020,41000,Diesel,Delhi,No Tag,,Land,Rover  ,
+82,375000.0,2020,30000,Petrol,Noida,No Tag,6227,Maruti Suzuki,Alto  ,
+83,5750000.0,2021,7000,Petrol,Delhi,Home Test Drive,95488,BMW,3 Series,
+84,595000.0,2017,62000,Petrol,Delhi,Home Test Drive,9880,Honda,Jazz  ,
+85,7100000.0,2022,6000,Diesel,Delhi,Home Test Drive,1.18 L,Mercedes-Benz,GLC  ,
+86,5190000.0,2018,40000,Petrol,Delhi,Home Test Drive,,Mercedes-Benz,E-Class  ,
+87,2999000.0,2018,55000,Diesel,Delhi,No Tag,49803,Ford,Endeavour  ,
+88,570000.0,2017,53000,Diesel,Gurgaon,Great Price,9465,Maruti Suzuki,Ciaz  ,
+89,220000.0,2013,82500,Petrol,Gurgaon,No Tag,3653,Hyundai,Eon  ,
+90,585000.0,2015,74000,Petrol,Delhi,No Tag,9714,Maruti Suzuki,Ciaz  ,
+91,2395000.0,2018,69000,Diesel,Delhi,Home Test Drive,39773,Audi,Q3  ,
+92,570000.0,2018,73252,Diesel,Gurgaon,Great Price,9465,Maruti Suzuki,Dzire  ,
+93,465000.0,2015,47000,Diesel,Delhi,Great Price,7722,Renault,Duster  ,
+94,535000.0,2017,66500,Diesel,Delhi,Home Test Drive,8884,Ford,EcoSport  ,1.5
+95,290000.0,2012,66920,Petrol,Delhi,Great Price,,Toyota,Etios  ,
+96,277000.0,2016,57329,Petrol,Delhi,Home Test Drive,4600,Maruti Suzuki,Alto  ,
+97,1100000.0,2017,14000,Diesel,Delhi,Home Test Drive,18267,Mahindra,Scorpio  ,
+98,725000.0,2016,32809,Petrol,Delhi,Home Test Drive,12039,Honda,City  ,
+99,830000.0,2015,58000,Petrol,Delhi,Home Test Drive,13783,Hyundai,Creta  ,1.6
+100,495000.0,2015,61000,Petrol,Noida,No Tag,8220,Maruti Suzuki,Swift  ,
+101,280000.0,2011,53000,Petrol,Delhi,Home Test Drive,,Toyota,Etios  ,
+102,375000.0,2014,59623,Petrol,Delhi,Home Test Drive,6227,Honda,Amaze  ,1.2
+103,210000.0,2010,50900,Petrol,Gurgaon,Great Price,,Hyundai,i20  ,1.2
+104,574000.0,2015,85990,Petrol,Delhi,No Tag,9532,Maruti Suzuki,Ertiga  ,
+105,660000.0,2017,76716,Diesel,Delhi,Home Test Drive,10960,Renault,Duster  ,
+106,685000.0,2017,71797,Diesel,Delhi,Home Test Drive,11375,Maruti Suzuki,Ertiga  ,
+107,490000.0,2020,46531,Petrol,Delhi,Home Test Drive,8137,Renault,Triber  ,
+108,375000.0,2015,70685,Petrol,Delhi,No Tag,6227,Toyota,Etios  ,
+109,370000.0,2019,56027,Petrol,Gurgaon,No Tag,6144,Maruti Suzuki,Alto  ,
+110,490000.0,2014,69000,Petrol,Delhi,Home Test Drive,8137,Hyundai,i20  ,1.2
+111,660000.0,2019,56000,Petrol,Delhi,Home Test Drive,10960,Honda,Amaze  ,1.2
+112,1025000.0,2019,32000,Petrol,Delhi,Home Test Drive,17021,Honda,City  ,
+113,1199000.0,2014,55000,Diesel,Delhi,Home Test Drive,19911,Audi,A4  ,2.0
+114,430000.0,2015,78254,Diesel,Gurgaon,Great Price,7140,Nissan,Terrano  ,
+115,990000.0,2022,29000,Diesel,Gurgaon,No Tag,16440,Tata,Nexon  ,
+116,248000.0,2012,29854,Petrol,Delhi,Home Test Drive,,Honda,Brio  ,
+117,470000.0,2018,70800,Petrol,Gurgaon,No Tag,7805,Toyota,Etios  ,
+118,790000.0,2019,46000,Diesel,Delhi,No Tag,13119,Maruti Suzuki,Vitara Brezza,
+119,950000.0,2011,78000,Petrol,Delhi,Home Test Drive,,Mercedes-Benz,C-Class  ,
+120,799000.0,2018,56410,Diesel,Delhi,Home Test Drive,13268,Ford,EcoSport  ,1.5
+121,400000.0,2017,18000,Petrol,Delhi,Home Test Drive,6642,Maruti Suzuki,Wagon R,1.0
+122,385000.0,2016,51000,CNG,Noida,No Tag,6393,Maruti Suzuki,Wagon R,1.0
+123,4500000.0,2019,34000,Diesel,Delhi,Home Test Drive,74730,BMW,5 Series,
+124,269000.0,2012,81963,Petrol,Gurgaon,No Tag,,Honda,Brio  ,
+125,890000.0,2016,48657,Petrol,Delhi,No Tag,14779,Hyundai,Creta  ,1.6
+126,1875000.0,2020,27000,Petrol,Delhi,Home Test Drive,31137,MG,Hector  ,1.5
+127,270000.0,2011,68000,Petrol,Delhi,Home Test Drive,,Honda,Brio  ,
+128,285000.0,2012,72000,Petrol,Delhi,Home Test Drive,,Honda,Brio  ,
+129,6050000.0,2020,40500,Diesel,Delhi,Home Test Drive,,Land,Rover  ,
+130,9900000.0,2019,11000,Petrol,Delhi,Home Test Drive,,Porsche,718  ,
+131,175000.0,2012,63250,Petrol,Delhi,Great Price,,Maruti Suzuki,Alto  ,
+132,1070000.0,2020,45550,Petrol,Gurgaon,No Tag,17769,Honda,City  ,
+133,1860000.0,2018,72000,Diesel,Delhi,No Tag,30888,Volvo,S60  ,
+134,2545000.0,2021,16000,Petrol,Delhi,Home Test Drive,42264,Jeep,Compass 80,1.4
+135,245000.0,2008,63000,Petrol,Delhi,Home Test Drive,,Toyota,Corolla Altis,1.8
+136,1990000.0,2015,69000,Diesel,Delhi,Great Price,33047,BMW,5 Series,
+137,1680000.0,2019,20000,Petrol,Delhi,Home Test Drive,27899,Jeep,Compass Longitude,1.4
+138,1750000.0,2021,29000,Petrol,Delhi,Home Test Drive,29061,MG,Hector  ,1.5
+139,1570000.0,2021,12000,Petrol,Delhi,Home Test Drive,26072,Hyundai,Creta  ,1.5
+140,4900000.0,2019,4900,Petrol,Delhi,Home Test Drive,,Audi,A3  ,
+141,350000.0,2013,52555,Petrol,Delhi,No Tag,,Toyota,Etios  ,
+142,1450000.0,2015,47000,Diesel,Delhi,No Tag,24079,Audi,A3  ,
+143,770000.0,2022,5000,Petrol,Delhi,No Tag,12787,Tata,Tiago  ,
+144,982000.0,2016,68000,Petrol,Delhi,No Tag,16307,Toyota,Corolla Altis,
+145,5190000.0,2018,41000,Petrol,Delhi,No Tag,,Mercedes-Benz,E-Class  ,
+146,689000.0,2018,70000,Petrol,Delhi,Home Test Drive,11442,Renault,Duster  ,
+147,625000.0,2021,35000,CNG,Noida,No Tag,10379,Maruti Suzuki,Wagon R,1.0
+148,865000.0,2018,49000,Petrol,Noida,No Tag,14364,Honda,City  ,
+149,435000.0,2010,77000,Petrol,Delhi,Home Test Drive,,Honda,Accord  ,
+150,585000.0,2019,56000,CNG,Noida,No Tag,9714,Maruti Suzuki,Wagon R,1.0
+151,249000.0,2014,67000,CNG,Delhi,Home Test Drive,4135,Maruti Suzuki,Estilo  ,
+152,395000.0,2015,56000,Petrol,Noida,No Tag,6559,Maruti Suzuki,Celerio  ,
+153,299000.0,2012,34000,Petrol,Noida,No Tag,,Honda,Brio  ,
+154,465000.0,2016,50787,Petrol + 1,Delhi,Home Test Drive,7722,Hyundai,Grand i10,1.2
+155,2150000.0,2015,95000,Diesel,Delhi,Home Test Drive,35704,BMW,5 Series,
+156,585000.0,2015,62000,Petrol,Noida,No Tag,9714,Maruti Suzuki,Ciaz  ,
+157,495000.0,2015,80000,Petrol,Noida,No Tag,8220,Hyundai,Elite i20,1.2
+158,295000.0,2018,36000,Petrol,Noida,No Tag,4898,Maruti Suzuki,Alto  ,
+159,430000.0,2013,58000,Petrol,Delhi,Home Test Drive,7140,Ford,EcoSport  ,1.0
+160,695000.0,2018,56000,Petrol,Delhi,Home Test Drive,11541,Tata,Nexon  ,
+161,755000.0,2017,34000,Petrol,Noida,No Tag,12538,Tata,Nexon  ,
+162,395000.0,2014,62000,Petrol,Noida,No Tag,6559,Hyundai,Xcent  ,1.2
+163,381000.0,2013,34000,Petrol,Delhi,Home Test Drive,6327,Honda,Amaze  ,1.2
+164,275000.0,2014,62000,Petrol,Delhi,Home Test Drive,4566,Hyundai,i10  ,1.2
+165,565000.0,2017,66000,Petrol,Noida,No Tag,9382,Maruti Suzuki,Baleno  ,1.2
+166,535000.0,2017,65000,Petrol,Noida,No Tag,8884,Ford,Aspire  ,1.2
+167,865000.0,2015,116000,Diesel,Noida,No Tag,14364,Mahindra,XUV500  ,
+168,575000.0,2014,80000,Petrol,Noida,No Tag,9548,Honda,City  ,
+169,784000.0,2018,60000,Petrol,Delhi,No Tag,13019,Maruti Suzuki,Ciaz  ,1.5
+170,590000.0,2020,36000,Petrol,Delhi,Home Test Drive,9797,Maruti Suzuki,Swift  ,
+171,2999000.0,2018,45000,Diesel,Delhi,Home Test Drive,49803,Ford,Endeavour  ,
+172,385000.0,2014,63000,Petrol,Noida,No Tag,6393,Maruti Suzuki,Celerio  ,
+173,455000.0,2014,57000,Diesel,Delhi,Home Test Drive,7556,Honda,City  ,
+174,545000.0,2016,76000,Petrol,Noida,No Tag,9050,Maruti Suzuki,Baleno  ,1.2
+175,625000.0,2017,30000,Petrol,Noida,No Tag,10379,Ford,EcoSport  ,1.5
+176,340000.0,2018,43000,Petrol,Noida,No Tag,5646,Hyundai,Eon  ,
+177,695000.0,2018,59000,Petrol,Noida,No Tag,11541,Tata,Nexon  ,
+178,495000.0,2015,52000,Petrol,Noida,No Tag,,Honda,Jazz  ,
+179,545000.0,2017,61000,Petrol,Noida,No Tag,9050,Maruti Suzuki,Baleno  ,1.2
+180,445000.0,2018,57000,Petrol,Noida,No Tag,7389,Tata,Tiago  ,
+181,395000.0,2015,66000,Petrol,Noida,No Tag,6559,Maruti Suzuki,Celerio  ,
+182,695000.0,2015,87100,Diesel,Delhi,No Tag,11541,Hyundai,Creta  ,1.4
+183,385000.0,2015,62000,Petrol,Noida,No Tag,6393,Maruti Suzuki,Celerio  ,
+184,875000.0,2018,50000,Petrol,Delhi,No Tag,14530,Toyota,Yaris  ,
+185,450000.0,2011,65000,Petrol,Delhi,Home Test Drive,,Skoda,Superb  ,
+186,2045000.0,2022,45000,Diesel,Delhi,No Tag,33960,Tata,Harrier  ,
+187,485000.0,2014,56000,Petrol,Noida,No Tag,8054,Hyundai,Elite i20,1.2
+188,595000.0,2015,52000,Petrol,Noida,No Tag,9880,Maruti Suzuki,Ciaz  ,
+189,285000.0,2009,82000,Petrol,Noida,No Tag,,Honda,City  ,1.5
+190,295000.0,2012,58000,Petrol,Noida,No Tag,,Nissan,Sunny  ,
+191,325000.0,2010,77000,Petrol,Noida,No Tag,,Honda,City  ,1.5
+192,725000.0,2020,27000,Petrol,Noida,No Tag,12039,Maruti Suzuki,Baleno  ,1.2
+193,950000.0,2010,70000,Petrol,Delhi,No Tag,,BMW,5 Series,
+194,390000.0,2015,60700,Diesel,Gurgaon,Great Price,6476,Maruti Suzuki,Swift  ,
+195,285000.0,2014,55200,Petrol,Delhi,Great Price,4732,Honda,Brio  ,
+196,655000.0,2017,68500,Diesel,Delhi,Great Price,10877,Maruti Suzuki,Vitara Brezza,
+197,475000.0,2019,47000,Petrol,Noida,No Tag,7888,Tata,Tiago  ,
+198,275000.0,2011,70000,Petrol,Noida,No Tag,,Toyota,Etios  ,
+199,969000.0,2022,4900,Petrol,Delhi,Home Test Drive,16091,Maruti Suzuki,Baleno  ,1.2
+200,645000.0,2018,52000,Diesel,Noida,No Tag,10711,Maruti Suzuki,Dzire  ,
+201,285000.0,2011,71000,Petrol,Noida,No Tag,,Honda,Brio  ,
+202,365000.0,2013,64000,Petrol,Noida,No Tag,6061,Hyundai,i20  ,1.2
+203,1710000.0,2022,18000,Diesel,Delhi,Home Test Drive,28397,Tata,Harrier  ,
+204,421000.0,2013,78000,Petrol,Delhi,No Tag,,Skoda,Laura  ,1.8
+205,2780000.0,2018,77000,Diesel,Delhi,No Tag,46166,Ford,Endeavour  ,
+206,1050000.0,2017,62000,Diesel,Delhi,Home Test Drive,17437,Mahindra,XUV500  ,
+207,480000.0,2016,35262,Petrol,Delhi,Quality Report,7971,Honda,Jazz  ,
+208,449000.0,2015,21504,Diesel,Delhi,No Tag,7456,Honda,Amaze  ,1.5
+209,793000.0,2020,15122,Petrol,Delhi,No Tag,13169,Tata,Altroz  ,
+210,660000.0,2017,51665,Diesel,Delhi,No Tag,10960,Ford,EcoSport  ,1.5
+211,651000.0,2020,17164,Petrol,Delhi,Quality Report,10810,Maruti Suzuki,Baleno  ,1.2
+212,298000.0,2018,52514,Petrol,Delhi,Quality Report,4948,Maruti Suzuki,Alto  ,
+213,319000.0,2018,24752,Petrol,Delhi,Quality Report,5297,Maruti Suzuki,Alto  ,
+214,486000.0,2016,91788,Petrol,Delhi,Quality Report,8070,Nissan,Terrano  ,
+215,433000.0,2017,62844,CNG,Delhi,No Tag,7190,Maruti Suzuki,Celerio  ,
+216,366000.0,2019,19906,Petrol,Delhi,No Tag,6078,Renault,Kwid  ,
+217,1316000.0,2019,95022,Diesel,Delhi,No Tag,21854,Mahindra,XUV500  ,
+218,742000.0,2019,69222,Diesel,Delhi,No Tag,12322,Honda,Amaze  ,1.5
+219,561000.0,2019,16820,Petrol,Delhi,No Tag,9316,Maruti Suzuki,Swift  ,
+220,345000.0,2015,48726,Petrol,Delhi,No Tag,5729,Hyundai,i10  ,
+221,935000.0,2019,74766,Diesel,Delhi,No Tag,15527,Maruti Suzuki,Vitara Brezza,
+222,937000.0,2019,40155,Diesel,Delhi,No Tag,15560,Maruti Suzuki,Vitara Brezza,
+223,768000.0,2020,23776,Petrol,Delhi,No Tag,12753,Tata,Altroz  ,
+224,690000.0,2018,61790,Diesel,Delhi,No Tag,11458,Maruti Suzuki,Ciaz  ,1.3
+225,706000.0,2018,74566,Petrol,Delhi,No Tag,11724,Renault,Duster  ,
+226,577000.0,2014,93831,Petrol,Delhi,No Tag,9582,Maruti Suzuki,Ertiga  ,
+227,432000.0,2016,45936,Petrol,Delhi,No Tag,7174,Maruti Suzuki,Celerio  ,
+228,660000.0,2018,82887,Diesel,Delhi,No Tag,10960,Maruti Suzuki,Dzire  ,
+229,579000.0,2021,16865,CNG,Delhi,No Tag,9615,Maruti Suzuki,Celerio  ,
+230,1567000.0,2021,18575,Petrol,Delhi,No Tag,26022,Mahindra,Thar  ,
+231,559000.0,2018,55117,Petrol,Delhi,No Tag,9283,Hyundai,Elite i20,1.2
+232,404000.0,2016,40429,Petrol,Delhi,No Tag,6709,Maruti Suzuki,Celerio  ,
+233,687000.0,2016,28166,Petrol,Delhi,No Tag,11408,Honda,City  ,
+234,523000.0,2015,43051,Petrol,Delhi,No Tag,8685,Hyundai,i20  ,1.2
+235,396000.0,2016,79267,Petrol,Delhi,No Tag,6576,Maruti Suzuki,Swift  ,
+236,978000.0,2020,18699,Petrol,Delhi,No Tag,16241,Maruti Suzuki,Ciaz  ,1.5
+237,1338000.0,2019,57814,Diesel,Delhi,No Tag,22219,Mahindra,XUV500  ,
+238,462000.0,2015,21461,Petrol,Delhi,No Tag,7672,Maruti Suzuki,Swift  ,
+239,502000.0,2013,45177,Petrol,Delhi,Quality Report,8336,Honda,City  ,1.5
+240,271000.0,2016,26466,Petrol,Delhi,Quality Report,4500,Maruti Suzuki,Alto  ,
+241,455000.0,2021,64,Petrol,Delhi,Quality Report,7556,Maruti Suzuki,S-Presso  ,
+242,336000.0,2018,25770,Petrol,Delhi,No Tag,5579,Maruti Suzuki,Alto  ,
+243,584000.0,2019,59759,Petrol,Delhi,No Tag,9698,Maruti Suzuki,Ignis  ,1.2
+244,552000.0,2019,68017,Petrol,Delhi,No Tag,9166,Maruti Suzuki,Swift  ,
+245,562000.0,2017,28062,Petrol,Delhi,No Tag,9332,Maruti Suzuki,Dzire  ,
+246,718000.0,2021,16511,Petrol,Delhi,No Tag,11923,Toyota,Glanza  ,
+247,580000.0,2015,64682,Petrol,Mumbai,Home Test Drive,9631,Honda,City  ,
+248,1490000.0,2015,44000,Diesel,Mumbai,Home Test Drive,24743,Volvo,V40  ,
+249,2700000.0,2016,61100,Diesel,Mumbai,No Tag,44838,BMW,3 Series,
+250,310000.0,2014,66498,Petrol,Mumbai,Home Test Drive,5148,Hyundai,i10  ,1.2
+251,525000.0,2020,34000,Petrol,Mumbai,No Tag,,Tata,Tiago  ,
+252,465000.0,2015,34000,Petrol,Mumbai,No Tag,,Volkswagen,Polo  ,1.2
+253,5375000.0,2019,32000,Petrol,Mumbai,Home Test Drive,89260,BMW,6 Series,
+254,4375000.0,2016,45000,Diesel,Mumbai,Home Test Drive,,BMW,X5  ,
+255,920000.0,2018,22117,Petrol,Mumbai,Home Test Drive,15278,Honda,City  ,
+256,4200000.0,2021,11725,Petrol,Mumbai,Home Test Drive,69748,MINI,Cooper  ,
+257,1190000.0,2018,50824,Petrol,Mumbai,Home Test Drive,19761,Hyundai,Creta  ,1.6
+258,625000.0,2017,24982,Diesel,Mumbai,Home Test Drive,10379,Maruti Suzuki,Swift  ,
+259,3100000.0,2021,19742,Diesel,Mumbai,Home Test Drive,,Toyota,Innova  ,
+260,1375000.0,2018,35483,Diesel,Mumbai,No Tag,22834,Jeep,Compass Limited,2.0
+261,1150000.0,2021,10417,Petrol,Mumbai,Home Test Drive,19097,Maruti Suzuki,Ertiga  ,
+262,525000.0,2020,10691,Petrol,Mumbai,Home Test Drive,8718,Renault,Kwid  ,1.0
+263,645000.0,2018,12597,Petrol,Mumbai,Home Test Drive,10711,Hyundai,Elite i20,1.2
+264,445000.0,2016,24608,Petrol,Mumbai,Home Test Drive,7389,Maruti Suzuki,Celerio  ,
+265,711000.0,2015,66684,Petrol,Mumbai,Home Test Drive,11807,Honda,City  ,
+266,750000.0,2020,19790,Petrol,Mumbai,Home Test Drive,12455,Renault,Triber  ,
+267,395000.0,2016,42398,Petrol,Mumbai,Home Test Drive,6559,Maruti Suzuki,Celerio  ,
+268,585000.0,2017,43308,Petrol,Mumbai,Home Test Drive,9714,Maruti Suzuki,Baleno  ,1.0
+269,715000.0,2015,46404,Petrol,Mumbai,Home Test Drive,11873,Honda,City  ,
+270,1051000.0,2020,31848,Petrol,Mumbai,Home Test Drive,17453,Maruti Suzuki,XL6  ,
+271,845000.0,2019,22237,Petrol,Mumbai,Home Test Drive,,Mahindra,XUV300  ,1.2
+272,440000.0,2014,32682,Petrol,Mumbai,Home Test Drive,7306,Maruti Suzuki,Swift  ,
+273,565000.0,2019,18378,Petrol,Mumbai,Home Test Drive,9382,Maruti Suzuki,Wagon R,1.2
+274,2051000.0,2021,19774,Diesel,Mumbai,Home Test Drive,34060,Tata,Safari  ,
+275,1290000.0,2018,28480,Petrol,Mumbai,Home Test Drive,21422,Hyundai,Creta  ,1.6
+276,1145000.0,2020,10516,Petrol,Mumbai,Home Test Drive,,Hyundai,Venue  ,1.0
+277,730000.0,2020,7230,Petrol,Mumbai,Home Test Drive,12122,Hyundai,Grand i10,1.2
+278,651000.0,2019,38549,Petrol,Mumbai,Home Test Drive,10810,Maruti Suzuki,Baleno  ,1.2
+279,721000.0,2015,48164,Petrol,Mumbai,Home Test Drive,11973,Honda,City  ,
+280,725000.0,2021,19669,Petrol,Mumbai,Home Test Drive,12039,Renault,Triber  ,
+281,510000.0,2020,32320,Petrol,Mumbai,Home Test Drive,,Renault,Kwid  ,1.0
+282,845000.0,2019,22237,Petrol,Mumbai,Home Test Drive,,Mahindra,XUV300  ,1.2
+283,440000.0,2014,32682,Petrol,Mumbai,Home Test Drive,7306,Maruti Suzuki,Swift  ,
+284,565000.0,2019,18378,Petrol,Mumbai,Home Test Drive,9382,Maruti Suzuki,Wagon R,1.2
+285,1525000.0,2021,18450,Diesel,Mumbai,No Tag,25325,Kia,Sonet  ,1.5
+286,3900000.0,2019,15971,Petrol,Mumbai,No Tag,,Mercedes-Benz,C-Class  ,
+287,1290000.0,2019,33415,Petrol,Mumbai,Home Test Drive,21422,Hyundai,Creta  ,1.6
+288,780000.0,2016,59354,Petrol,Mumbai,Home Test Drive,12953,Honda,City  ,
+289,4100000.0,2020,16524,Petrol,Mumbai,Home Test Drive,68087,Volvo,XC40  ,
+290,6500000.0,2022,9664,Petrol,Mumbai,Home Test Drive,1.08 L,BMW,5 Series,
+291,425000.0,2014,55498,Diesel,Mumbai,Home Test Drive,7057,Maruti Suzuki,Ritz  ,
+292,570000.0,2015,77707,Petrol,Mumbai,No Tag,9465,Maruti Suzuki,Baleno  ,1.2
+293,935000.0,2017,36176,Petrol,Mumbai,Home Test Drive,,Honda,City  ,
+294,1251000.0,2018,58678,Petrol,Mumbai,Home Test Drive,20774,Hyundai,Creta  ,1.6
+295,851000.0,2018,31476,Petrol,Mumbai,Home Test Drive,14132,Skoda,Rapid  ,1.6
+296,675000.0,2017,31262,Petrol,Mumbai,Home Test Drive,11209,Honda,WR-V  ,
+297,620000.0,2018,25710,Petrol,Mumbai,Home Test Drive,10296,Maruti Suzuki,Swift  ,
+298,321000.0,2016,47658,CNG,Mumbai,Home Test Drive,5330,Maruti Suzuki,Alto  ,
+299,1125000.0,2017,44240,Diesel,Mumbai,Home Test Drive,18682,Hyundai,Creta  ,1.6
+300,951000.0,2019,57911,Diesel,Mumbai,Home Test Drive,15792,Maruti Suzuki,Vitara Brezza,
+301,1751000.0,2015,98561,Diesel,Mumbai,Home Test Drive,29078,Toyota,Fortuner  ,
+302,1995000.0,2022,11500,Petrol,Mumbai,Home Test Drive,33130,MG,Hector  ,1.5
+303,1085000.0,2019,21252,Petrol,Mumbai,Home Test Drive,18018,Hyundai,Venue  ,1.0
+304,450000.0,2017,22428,Petrol,Mumbai,Home Test Drive,7473,Hyundai,Grand i10,1.2
+305,1251000.0,2018,58678,Petrol,Mumbai,Home Test Drive,20774,Hyundai,Creta  ,1.6
+306,851000.0,2018,31476,Petrol,Mumbai,Home Test Drive,14132,Skoda,Rapid  ,1.6
+307,2190000.0,2021,18771,Diesel,Mumbai,Home Test Drive,36368,Tata,Harrier  ,
+308,1995000.0,2022,11500,Petrol,Mumbai,Home Test Drive,33130,MG,Hector  ,1.5
+309,675000.0,2017,31262,Petrol,Mumbai,Home Test Drive,11209,Honda,WR-V  ,
+310,1751000.0,2015,98561,Diesel,Mumbai,Home Test Drive,29078,Toyota,Fortuner  ,
+311,2195000.0,2018,36283,Diesel,Mumbai,Home Test Drive,36451,Toyota,Innova  ,
+312,2150000.0,2021,30717,Diesel,Mumbai,Home Test Drive,35704,Tata,Harrier  ,
+313,975000.0,2019,27432,Petrol,Mumbai,Home Test Drive,,Maruti Suzuki,Ciaz  ,1.5
+314,1825000.0,2016,94212,Diesel,Mumbai,Home Test Drive,30307,Toyota,Innova  ,
+315,845000.0,2019,15883,Petrol,Mumbai,No Tag,,Mahindra,XUV300  ,1.2
+316,540000.0,2016,29145,Petrol,Mumbai,No Tag,8967,Hyundai,Grand i10,1.2
+317,395000.0,2016,18196,Petrol,Mumbai,No Tag,6559,Maruti Suzuki,Wagon R,1.0
+318,1250000.0,2022,1759,Petrol,Mumbai,Home Test Drive,,Kia,Sonet  ,1.0
+319,685000.0,2016,48520,Petrol,Mumbai,Home Test Drive,,Ford,EcoSport  ,1.5
+320,1045000.0,2017,58567,Petrol,Mumbai,No Tag,17353,Hyundai,Creta  ,1.6
+321,565000.0,2016,24445,Petrol,Mumbai,Home Test Drive,9382,Honda,Amaze  ,1.2
+322,860000.0,2021,6416,Petrol,Mumbai,Home Test Drive,14281,Maruti Suzuki,Baleno  ,1.2
+323,875000.0,2019,37505,Petrol,Mumbai,Home Test Drive,14530,Ford,EcoSport  ,1.5
+324,900000.0,2022,875,Petrol,Mumbai,Home Test Drive,14946,Maruti Suzuki,Swift  ,
+325,445000.0,2015,32324,Petrol,Mumbai,No Tag,7389,Honda,Amaze  ,1.2
+326,1511000.0,2021,7795,Petrol,Mumbai,No Tag,25092,Honda,City  ,
+327,875000.0,2019,37505,Petrol,Mumbai,Home Test Drive,14530,Ford,EcoSport  ,1.5
+328,891000.0,2018,35077,Petrol,Mumbai,Home Test Drive,14796,Honda,City  ,
+329,1100000.0,2017,66188,Diesel,Mumbai,Home Test Drive,18267,Hyundai,Creta  ,1.6
+330,575000.0,2015,51878,Petrol,Mumbai,Home Test Drive,9548,Honda,City  ,
+331,590000.0,2018,18054,Petrol,Mumbai,Home Test Drive,9797,Maruti Suzuki,Swift  ,
+332,675000.0,2019,69904,Petrol,Mumbai,Home Test Drive,11209,Maruti Suzuki,Baleno  ,1.2
+333,791000.0,2022,7029,CNG,Mumbai,Home Test Drive,13135,Hyundai,Grand i10,1.2
+334,1090000.0,2018,45657,Petrol,Mumbai,Home Test Drive,18101,Hyundai,Creta  ,1.6
+335,765000.0,2022,11988,CNG,Mumbai,Home Test Drive,12704,Hyundai,Grand i10,1.2
+336,475000.0,2018,23178,Petrol,Mumbai,Home Test Drive,7888,Maruti Suzuki,Wagon R,1.0
+337,320000.0,2019,1391,Petrol,Mumbai,Home Test Drive,5314,Datsun,redi-GO  ,1.0
+338,525000.0,2014,43247,Petrol,Mumbai,Home Test Drive,,Honda,City  ,
+339,390000.0,2017,36512,Petrol,Mumbai,Home Test Drive,6476,Maruti Suzuki,Wagon R,1.0
+340,4695000.0,2021,16869,Diesel,Mumbai,Home Test Drive,,Toyota,Fortuner  ,
+341,2425000.0,2018,32296,Diesel,Mumbai,Home Test Drive,,Mahindra,Alturas  ,
+342,911000.0,2021,18843,Petrol,Mumbai,Home Test Drive,15128,Hyundai,Venue  ,1.2
+343,711000.0,2016,46276,Diesel,Mumbai,Home Test Drive,11807,Maruti Suzuki,S-Cross  ,1.3
+344,1921000.0,2017,56199,Diesel,Mumbai,Home Test Drive,31901,Toyota,Innova  ,
+345,845000.0,2017,28679,Petrol,Mumbai,Home Test Drive,14032,Hyundai,Creta  ,1.6
+346,1175000.0,2017,40523,Petrol,Mumbai,Home Test Drive,,Hyundai,Elantra  ,2.0
+347,751000.0,2018,24154,Petrol,Mumbai,Home Test Drive,12471,Maruti Suzuki,Ciaz  ,1.4
+348,1025000.0,2017,59873,Diesel,Mumbai,Home Test Drive,17021,Hyundai,Creta  ,1.6
+349,775000.0,2016,33630,Petrol,Mumbai,Home Test Drive,12870,Honda,City  ,
+350,535000.0,2015,43917,Petrol,Mumbai,Home Test Drive,8884,Hyundai,Elite i20,1.2
+351,390000.0,2017,36512,Petrol,Mumbai,Home Test Drive,6476,Maruti Suzuki,Wagon R,1.0
+352,4695000.0,2021,16869,Diesel,Mumbai,Home Test Drive,,Toyota,Fortuner  ,
+353,1175000.0,2017,40523,Petrol,Mumbai,Home Test Drive,,Hyundai,Elantra  ,2.0
+354,845000.0,2017,28679,Petrol,Mumbai,Home Test Drive,14032,Hyundai,Creta  ,1.6
+355,800000.0,2021,2864,Petrol,Mumbai,No Tag,,Maruti Suzuki,Swift  ,
+356,3900000.0,2019,14675,Petrol,Mumbai,No Tag,64766,Mercedes-Benz,C-Class  ,
+357,520000.0,2019,44445,Petrol,Mumbai,No Tag,8635,Tata,Tiago  ,
+358,525000.0,2015,68766,Petrol,Mumbai,Home Test Drive,,Hyundai,Elite i20,1.2
+359,495000.0,2015,41017,Petrol,Mumbai,Home Test Drive,,Hyundai,Grand i10,1.2
+360,1290000.0,2018,34954,Petrol,Mumbai,Home Test Drive,,Hyundai,Creta  ,1.6
+361,465000.0,2020,2066,Petrol,Mumbai,Home Test Drive,,Renault,Kwid  ,1.0
+362,975000.0,2017,27942,Petrol,Mumbai,Home Test Drive,16191,Honda,City  ,
+363,525000.0,2015,53261,Petrol,Mumbai,Home Test Drive,8718,Honda,Jazz  ,
+364,640000.0,2016,37065,Petrol,Mumbai,Home Test Drive,10628,Maruti Suzuki,Ciaz  ,
+365,480000.0,2015,31172,Petrol,Mumbai,Home Test Drive,7971,Honda,Amaze  ,1.2
+366,675000.0,2015,37337,Petrol,Mumbai,Home Test Drive,11209,Hyundai,Verna  ,1.6
+367,1895000.0,2019,12238,Petrol,Mumbai,Home Test Drive,31469,Honda,Civic  ,
+368,1395000.0,2020,45753,Petrol,Mumbai,Home Test Drive,23166,Honda,City  ,
+369,2695000.0,2019,25708,Diesel,Mumbai,Home Test Drive,44755,Mahindra,Alturas  ,
+370,1395000.0,2019,36489,Petrol,Mumbai,Home Test Drive,23166,Hyundai,Creta  ,1.6
+371,415000.0,2017,33177,Petrol,Mumbai,Home Test Drive,,Ford,Aspire  ,1.2
+372,525000.0,2017,71931,Petrol,Mumbai,Home Test Drive,8718,Honda,Jazz  ,
+373,1700000.0,2019,28449,Petrol,Mumbai,No Tag,,Jeep,Compass Limited,1.4
+374,1325000.0,2019,81473,Diesel,Mumbai,Home Test Drive,22003,Tata,Harrier  ,
+375,415000.0,2017,33177,Petrol,Mumbai,Home Test Drive,,Ford,Aspire  ,1.2
+376,545000.0,2016,22191,Petrol,Mumbai,Home Test Drive,9050,Maruti Suzuki,Baleno  ,1.2
+377,1325000.0,2019,81473,Diesel,Mumbai,Home Test Drive,22003,Tata,Harrier  ,
+378,695000.0,2017,30669,Petrol,Mumbai,Home Test Drive,11541,Honda,City  ,
+379,790000.0,2018,56823,Petrol,Mumbai,Home Test Drive,13119,Maruti Suzuki,Ciaz  ,1.4
+380,895000.0,2020,5016,Petrol,Mumbai,Home Test Drive,14862,Honda,Amaze  ,1.2
+381,3495000.0,2022,12867,Diesel,Mumbai,Home Test Drive,,Jeep,Compass Trailhawk,2.0
+382,1011000.0,2020,28022,Petrol,Mumbai,Home Test Drive,16789,Hyundai,Venue  ,1.0
+383,1675000.0,2017,49416,Petrol,Mumbai,Home Test Drive,27816,Skoda,Superb  ,
+384,2780000.0,2022,12500,Diesel,Mumbai,Home Test Drive,46166,Mahindra,XUV700  ,
+385,700000.0,2017,59988,Petrol,Mumbai,Home Test Drive,11624,Maruti Suzuki,Dzire  ,
+386,620000.0,2016,30228,Petrol,Mumbai,Home Test Drive,10296,Maruti Suzuki,Ciaz  ,
+387,700000.0,2019,17787,Petrol,Mumbai,Home Test Drive,11624,Honda,Jazz  ,
+388,775000.0,2016,76314,Petrol,Mumbai,No Tag,12870,Honda,BR-V  ,
+389,4445000.0,2022,9785,Diesel,Mumbai,Home Test Drive,73816,Toyota,Fortuner  ,
+390,2545000.0,2022,3898,Diesel,Mumbai,Home Test Drive,42264,Toyota,Innova  ,
+391,675000.0,2018,11332,Petrol,Mumbai,No Tag,11209,Maruti Suzuki,Swift  ,
+392,2400000.0,2021,22387,Diesel,Mumbai,Home Test Drive,39856,Tata,Safari  ,
+393,575000.0,2017,30028,Petrol,Mumbai,Home Test Drive,9548,Hyundai,Grand i10,1.2
+394,799000.0,2017,14896,Petrol,Mumbai,Home Test Drive,13268,Maruti Suzuki,Ciaz  ,1.4
+395,455000.0,2015,79017,Petrol,Mumbai,Home Test Drive,7556,Hyundai,Grand i10,1.2
+396,1375000.0,2017,54351,Petrol,Mumbai,No Tag,22834,Jeep,Compass Limited,1.4
+397,625000.0,2016,62926,Petrol,Mumbai,Home Test Drive,10379,Ford,EcoSport  ,1.5
+398,825000.0,2019,41243,Petrol,Mumbai,Home Test Drive,13700,Hyundai,Elite i20,1.2
+399,795000.0,2018,36512,Petrol,Mumbai,Home Test Drive,,Honda,City  ,
+400,1175000.0,2015,74012,Petrol,Mumbai,No Tag,,Honda,CR-V  ,
+401,690000.0,2016,45689,Petrol,Mumbai,No Tag,,Volkswagen,Vento  ,1.2
+402,530000.0,2018,22222,Petrol,Mumbai,No Tag,8801,Hyundai,Grand i10,1.2
+403,450000.0,2013,63400,Diesel,Mumbai,Home Test Drive,,Volkswagen,Vento  ,
+404,590000.0,2015,55331,Petrol,Mumbai,Home Test Drive,9797,Honda,City  ,
+405,460000.0,2015,75236,Petrol + 1,Mumbai,Home Test Drive,7639,Maruti Suzuki,Swift  ,
+406,500000.0,2016,46847,Petrol,Mumbai,Home Test Drive,8303,Honda,Amaze  ,1.2
+407,670000.0,2017,14655,Petrol,Mumbai,No Tag,11126,Honda,Jazz  ,
+408,625000.0,2015,52284,Petrol,Mumbai,Home Test Drive,,Honda,City  ,
+409,775000.0,2016,55991,Petrol,Mumbai,Home Test Drive,12870,Honda,City  ,
+410,425000.0,2015,25457,Petrol,Mumbai,Home Test Drive,7057,Maruti Suzuki,Wagon R,1.0
+411,680000.0,2016,80815,Petrol,Mumbai,Home Test Drive,11292,Honda,City  ,
+412,1545000.0,2018,36345,Petrol,Mumbai,Quality Report,25657,Skoda,Octavia  ,1.8
+413,790000.0,2018,111390,Diesel,Mumbai,Quality Report,13119,Volkswagen,Vento  ,1.5
+414,4285000.0,2021,20542,Diesel,Mumbai,No Tag,71159,MG,Gloster  ,2.0
+415,2300000.0,2021,7500,Electric,Mumbai,Home Test Drive,38195,MG,ZS  ,
+416,1750000.0,2019,29000,Petrol,Mumbai,No Tag,29061,Honda,Civic  ,
+417,1750000.0,2018,70000,Diesel,Mumbai,Home Test Drive,29061,Toyota,Innova  ,
+418,6500000.0,2022,14000,Petrol,Mumbai,Home Test Drive,1.08 L,BMW,X3  ,
+419,495000.0,2014,42000,Petrol,Mumbai,No Tag,8220,Volkswagen,Jetta  ,
+420,1265000.0,2018,33500,Petrol,Mumbai,Home Test Drive,21007,Hyundai,Creta  ,1.6
+421,495000.0,2016,33000,Petrol,Mumbai,Home Test Drive,8220,Honda,Jazz  ,
+422,7150000.0,2022,750,Electric,Mumbai,Newly Launched,1.19 L,BMW,i4  ,
+423,1265000.0,2018,33500,Petrol,Mumbai,Home Test Drive,21007,Hyundai,Creta  ,1.6
+424,495000.0,2016,33000,Petrol,Mumbai,Home Test Drive,8220,Honda,Jazz  ,
+425,425000.0,2016,31500,Petrol,Mumbai,Home Test Drive,7057,Honda,Amaze  ,1.2
+426,450000.0,2014,28000,Petrol,Mumbai,No Tag,7473,Hyundai,Grand i10,1.2
+427,835000.0,2018,12500,Petrol,Mumbai,No Tag,13866,Maruti Suzuki,Ciaz  ,1.4
+428,521000.0,2015,59226,Petrol,Mumbai,No Tag,8652,Hyundai,Elite i20,1.2
+429,2950000.0,2019,24541,Diesel,Mumbai,Home Test Drive,48989,Mercedes-Benz,GLA  ,
+430,625000.0,2017,37000,Petrol,Mumbai,No Tag,,Honda,Jazz  ,
+431,325000.0,2012,19500,Petrol,Mumbai,No Tag,,Volkswagen,Polo  ,1.6
+432,4850000.0,2018,17000,Diesel,Mumbai,Home Test Drive,80542,Mercedes-Benz,E-Class  ,
+433,595000.0,2018,27000,Petrol,Mumbai,Home Test Drive,9880,Tata,Tigor  ,
+434,1475000.0,2021,11000,Petrol,Mumbai,Home Test Drive,24494,Hyundai,Creta  ,1.6
+435,695000.0,2017,28500,Diesel,Mumbai,Home Test Drive,11541,Renault,Lodgy  ,
+436,875000.0,2016,35000,Diesel,Mumbai,No Tag,14530,Chevrolet,Cruze  ,
+437,3690000.0,2019,15000,Diesel,Mumbai,No Tag,61278,Volvo,XC40  ,
+438,5175000.0,2019,32000,Petrol,Mumbai,No Tag,85939,BMW,6 Series,
+439,445000.0,2011,39000,Petrol,Mumbai,No Tag,,Honda,Accord  ,
+440,6500000.0,2017,35000,Diesel,Mumbai,Home Test Drive,1.08 L,Mercedes-Benz,GLS  ,
+441,4500000.0,2020,12700,Diesel,Mumbai,Home Test Drive,74730,BMW,3 Series,
+442,6665000.0,2019,35000,Diesel,Mumbai,Home Test Drive,,Audi,Q7  ,
+443,795000.0,2018,9000,Petrol,Mumbai,No Tag,13202,Tata,Nexon  ,
+444,1650000.0,2021,5000,Petrol,Mumbai,Home Test Drive,,Volkswagen,Taigun  ,1.0
+445,1490000.0,2015,44000,Diesel,Mumbai,Home Test Drive,24743,Volvo,V40  ,
+446,795000.0,2018,27000,Petrol,Mumbai,Home Test Drive,13202,Volkswagen,Vento  ,
+447,1650000.0,2021,5000,Petrol,Mumbai,Home Test Drive,,Volkswagen,Taigun  ,1.0
+448,1490000.0,2015,44000,Diesel,Mumbai,Home Test Drive,24743,Volvo,V40  ,
+449,1595000.0,2022,5000,Petrol,Mumbai,No Tag,26487,Kia,Carens  ,1.4
+450,2425000.0,2018,32000,Diesel,Mumbai,No Tag,40271,Mahindra,Alturas  ,
+451,6650000.0,2019,35000,Diesel,Mumbai,No Tag,1.1 L,Audi,Q7  ,
+452,4325000.0,2016,45000,Diesel,Mumbai,No Tag,71823,BMW,X5  ,
+453,1890000.0,2015,58000,Diesel,Mumbai,No Tag,31386,Mercedes-Benz,E-Class  ,
+454,5175000.0,2019,32000,Petrol,Mumbai,No Tag,,BMW,6 Series,
+455,650000.0,2021,2300,Petrol,Mumbai,Home Test Drive,10794,Tata,Tiago  ,
+456,1475000.0,2020,33600,Diesel,Mumbai,No Tag,24494,Kia,Seltos  ,1.5
+457,765000.0,2015,45000,Petrol,Mumbai,No Tag,12704,Toyota,Corolla Altis,
+458,5400000.0,2019,58426,Diesel,Mumbai,No Tag,89676,Mercedes-Benz,GLE  ,
+459,625000.0,2018,15000,Petrol,Mumbai,No Tag,10379,Maruti Suzuki,Ignis  ,1.2
+460,645000.0,2015,60000,Petrol,Mumbai,No Tag,10711,Honda,City  ,
+461,1325000.0,2021,1500,Petrol,Mumbai,No Tag,22003,Honda,City  ,
+462,1125000.0,2021,18000,Petrol,Mumbai,No Tag,18682,Maruti Suzuki,S-Cross  ,
+463,415000.0,2012,21000,Petrol,Mumbai,No Tag,,Hyundai,i20  ,1.4
+464,515000.0,2017,28000,Petrol,Mumbai,No Tag,8552,Hyundai,Grand i10,1.2
+465,3975000.0,2017,27000,Diesel,Mumbai,Home Test Drive,66011,Mercedes-Benz,GLC  ,
+466,1140000.0,2021,6272,Petrol,Mumbai,Home Test Drive,18931,Toyota,Urban Cruiser,
+467,625000.0,2016,53094,Petrol,Mumbai,Home Test Drive,,Volkswagen,Vento  ,1.2
+468,1675000.0,2014,55000,Diesel,Mumbai,No Tag,27816,Audi,Q3  ,
+469,1075000.0,2020,25000,Petrol,Mumbai,No Tag,17852,Tata,Nexon  ,
+470,1340000.0,2021,11000,Petrol,Mumbai,No Tag,22252,Honda,City  ,
+471,1475000.0,2012,86000,Diesel,Mumbai,No Tag,,Toyota,Fortuner  ,
+472,565000.0,2017,48000,Petrol,Mumbai,Home Test Drive,9382,Skoda,Rapid  ,1.6
+473,3475000.0,2018,62000,Diesel,Mumbai,Home Test Drive,57708,Toyota,Fortuner  ,
+474,650000.0,2020,13000,Petrol,Mumbai,Home Test Drive,,Tata,Altroz  ,
+475,2150000.0,2015,76000,Diesel,Mumbai,No Tag,35704,Audi,Q5  ,
+476,699000.0,2016,35000,Petrol,Mumbai,No Tag,11608,Honda,City  ,
+477,5400000.0,2021,2100,Petrol,Mumbai,Home Test Drive,89676,MINI,Cooper  ,2.0
+478,345000.0,2011,50667,Petrol,Mumbai,No Tag,,Volkswagen,Vento  ,
+479,299000.0,2013,64983,Diesel,Mumbai,No Tag,4965,Ford,Figo  ,1.4
+480,1699000.0,2017,38950,Petrol,Mumbai,No Tag,28214,Skoda,Superb  ,
+481,330000.0,2012,79676,Diesel,Mumbai,No Tag,,Volkswagen,Vento  ,
+482,1090000.0,2016,71395,Petrol,Mumbai,No Tag,18101,Hyundai,Elantra  ,2.0
+483,511000.0,2014,62225,Diesel,Mumbai,No Tag,8486,Ford,EcoSport  ,1.5
+484,790000.0,2016,61225,Petrol,Mumbai,No Tag,13119,Honda,BR-V  ,
+485,580000.0,2017,56152,Petrol,Mumbai,No Tag,9631,Hyundai,Elite i20,1.2
+486,2700000.0,2022,15116,Diesel,Mumbai,No Tag,44838,Mahindra,XUV700  ,
+487,1851000.0,2017,65452,Diesel,Mumbai,No Tag,30738,Toyota,Innova  ,
+488,4250000.0,2021,18500,Petrol,Mumbai,Home Test Drive,70578,Toyota,Camry  ,
+489,625000.0,2018,44500,Diesel,Mumbai,Great Price,,Volkswagen,Ameo  ,1.5
+490,1325000.0,2016,40000,Petrol,Mumbai,Great Price,22003,Honda,CR-V  ,
+491,690000.0,2018,40244,Petrol,Mumbai,No Tag,11458,Maruti Suzuki,Baleno  ,1.2
+492,290000.0,2011,61270,Petrol,Mumbai,No Tag,,Maruti Suzuki,Swift  ,1.2
+493,749000.0,2015,138488,Petrol,Mumbai,No Tag,12438,Hyundai,Creta  ,1.6
+494,3149000.0,2018,73644,Diesel,Mumbai,No Tag,52294,Toyota,Fortuner  ,
+495,540000.0,2014,70047,Petrol,Navi Mumbai,Home Test Drive,8967,Honda,City  ,
+496,645000.0,2016,48510,Petrol,Navi Mumbai,Home Test Drive,10711,Volkswagen,Polo  ,
+497,1900000.0,2015,58000,Diesel,Navi Mumbai,No Tag,31552,Mercedes-Benz,E-Class  ,
+498,555000.0,2015,48000,Petrol,Navi Mumbai,No Tag,9216,Maruti Suzuki,Ciaz  ,
+499,649000.0,2022,16000,CNG,Navi Mumbai,No Tag,10777,Maruti Suzuki,Wagon R,1.0
+500,990000.0,2020,23000,Petrol,Navi Mumbai,No Tag,16440,Hyundai,Venue  ,1.0
+501,570000.0,2016,37068,Petrol,Navi Mumbai,Great Price,9465,Maruti Suzuki,Ciaz  ,
+502,299000.0,2011,79000,Petrol,Navi Mumbai,No Tag,,Hyundai,i10  ,1.2
+503,1350000.0,2020,73342,Diesel,Navi Mumbai,Home Test Drive,22419,Mahindra,XUV500  ,
+504,1350000.0,2018,22987,Petrol,Navi Mumbai,Home Test Drive,22419,Hyundai,Creta  ,1.6
+505,690000.0,2017,45983,Petrol,Navi Mumbai,Home Test Drive,11458,Maruti Suzuki,Ciaz  ,1.4
+506,530000.0,2016,41307,Petrol,Navi Mumbai,Home Test Drive,8801,Honda,Jazz  ,
+507,875000.0,2017,70000,Diesel,Navi Mumbai,No Tag,14530,Maruti Suzuki,S-Cross  ,1.6
+508,395000.0,2015,33000,Petrol,Navi Mumbai,No Tag,6559,Honda,Amaze  ,1.2
+509,419000.0,2012,95000,Diesel,Navi Mumbai,No Tag,,Toyota,Etios  ,
+510,399000.0,2015,34000,Petrol,Navi Mumbai,No Tag,6626,Honda,Amaze  ,1.2
+511,498000.0,2017,56000,Petrol,Navi Mumbai,No Tag,8270,Maruti Suzuki,Baleno  ,1.2
+512,1979000.0,2018,38000,Diesel,Navi Mumbai,No Tag,32864,Toyota,Innova  ,
+513,499000.0,2017,57000,Petrol,Navi Mumbai,No Tag,8286,Maruti Suzuki,Baleno  ,1.2
+514,1979000.0,2021,32000,Petrol,Navi Mumbai,No Tag,32864,MG,Hector  ,1.5
+515,539000.0,2017,60000,Diesel,Navi Mumbai,No Tag,8951,Tata,Tigor  ,
+516,529000.0,2017,59000,Diesel,Navi Mumbai,No Tag,8784,Tata,Tigor  ,
+517,1970000.0,2021,31000,Petrol,Navi Mumbai,No Tag,32715,MG,Hector  ,1.5
+518,2650000.0,2017,65500,Diesel,Navi Mumbai,No Tag,44007,BMW,3 Series,
+519,1980000.0,2018,38000,Diesel,Navi Mumbai,No Tag,32881,Toyota,Innova  ,
+520,549000.0,2015,200000,Diesel,Navi Mumbai,No Tag,9117,Honda,Jazz  ,
+521,798000.0,2017,70000,Diesel,Navi Mumbai,No Tag,13252,Maruti Suzuki,S-Cross  ,1.3
+522,369000.0,2015,74000,CNG,Navi Mumbai,No Tag,6127,Maruti Suzuki,Wagon R,1.0
+523,549000.0,2019,29000,Petrol,Navi Mumbai,No Tag,9117,Maruti Suzuki,Celerio  ,
+524,1050000.0,2012,69000,Petrol,Navi Mumbai,No Tag,,Mercedes-Benz,E-Class  ,
+525,549000.0,2017,109000,Diesel,Navi Mumbai,No Tag,9117,Volkswagen,Ameo  ,1.5
+526,429000.0,2011,429000,Petrol,Navi Mumbai,No Tag,,Toyota,Corolla Altis,1.8
+527,1850000.0,2016,71000,Petrol,Navi Mumbai,No Tag,30722,Mercedes-Benz,GLA  ,
+528,539000.0,2019,29000,CNG,Navi Mumbai,No Tag,8951,Maruti Suzuki,Celerio  ,
+529,569000.0,2019,26000,Petrol,Navi Mumbai,No Tag,9449,Maruti Suzuki,Celerio  ,
+530,839000.0,2017,86000,CNG,Navi Mumbai,No Tag,13933,Maruti Suzuki,Ertiga  ,
+531,129000.0,2007,95000,Petrol,Navi Mumbai,No Tag,,Maruti Suzuki,Estilo  ,
+532,3650000.0,2016,42000,Petrol,Navi Mumbai,No Tag,60614,Mercedes-Benz,GLC  ,
+533,2450000.0,2016,68500,Diesel,Navi Mumbai,No Tag,40686,BMW,3 Series,
+534,799000.0,2016,72000,Diesel,Navi Mumbai,No Tag,13268,Maruti Suzuki,Ertiga  ,
+535,798000.0,2016,71000,Diesel,Navi Mumbai,No Tag,13252,Maruti Suzuki,Ertiga  ,
+536,7990000.0,2017,56000,CNG,Navi Mumbai,No Tag,1.33 L,Maruti Suzuki,Ertiga  ,
+537,419000.0,2011,42000,Petrol,Navi Mumbai,No Tag,,Toyota,Corolla Altis,1.8
+538,2575000.0,2017,31200,Petrol,Navi Mumbai,No Tag,42762,Mercedes-Benz,C-Class  ,
+539,1050000.0,2011,67000,Petrol,Navi Mumbai,No Tag,,Audi,Q5  ,2.0
+540,699000.0,2020,12000,Petrol,Navi Mumbai,No Tag,11608,Maruti Suzuki,Baleno  ,1.2
+541,129000.0,2007,94000,Petrol,Navi Mumbai,No Tag,,Maruti Suzuki,Estilo  ,
+542,1700000.0,2014,87000,Diesel,Navi Mumbai,No Tag,28231,BMW,X3  ,
+543,2550000.0,2016,48000,Diesel,Navi Mumbai,No Tag,42347,BMW,5 Series,
+544,695000.0,2020,11500,Petrol,Navi Mumbai,No Tag,11541,Maruti Suzuki,Baleno  ,1.2
+545,219000.0,2011,32000,Petrol,Navi Mumbai,No Tag,,Hyundai,i20  ,1.2
+546,759000.0,2021,33000,CNG,Navi Mumbai,No Tag,12604,Hyundai,Aura  ,1.2
+547,1079000.0,2019,94000,Diesel,Navi Mumbai,No Tag,17918,Hyundai,Creta  ,1.4
+548,618000.0,2016,118000,Diesel,Navi Mumbai,No Tag,10262,Maruti Suzuki,Swift  ,
+549,1079000.0,2019,94000,Diesel,Navi Mumbai,No Tag,17918,Hyundai,Creta  ,1.4
+550,759000.0,2021,33000,CNG,Navi Mumbai,No Tag,12604,Hyundai,Aura  ,1.2
+551,419000.0,2014,129000,Diesel,Navi Mumbai,No Tag,6958,Toyota,Etios  ,
+552,3850000.0,2017,54000,Diesel,Navi Mumbai,No Tag,63935,Mercedes-Benz,E-Class  ,
+553,619000.0,2016,119000,Diesel,Navi Mumbai,No Tag,10279,Maruti Suzuki,Swift  ,
+554,2475000.0,2016,54600,Diesel,Navi Mumbai,No Tag,41101,BMW,3 Series,
+555,1480000.0,2016,57000,Petrol,Navi Mumbai,No Tag,24577,Mercedes-Benz,B-Class  ,
+556,1850000.0,2015,72500,Diesel,Navi Mumbai,No Tag,30722,Audi,Q3  ,
+557,2350000.0,2017,57000,Diesel,Navi Mumbai,No Tag,39025,BMW,X1  ,
+558,2475000.0,2017,33600,Petrol,Navi Mumbai,No Tag,41101,Mercedes-Benz,CLA  ,
+559,1200000.0,2014,51000,Diesel,Navi Mumbai,No Tag,19928,Mercedes-Benz,C-Class  ,
+560,1275000.0,2014,65000,Diesel,Navi Mumbai,No Tag,21173,BMW,3 Series,
+561,3775000.0,2016,51000,Diesel,Navi Mumbai,No Tag,62690,Mercedes-Benz,GLE  ,
+562,5350000.0,2016,56300,Diesel,Navi Mumbai,No Tag,88845,Porsche,Cayenne  ,
+563,4375000.0,2018,35500,Petrol,Navi Mumbai,No Tag,72654,BMW,5 Series,
+564,229000.0,2011,30000,Petrol,Navi Mumbai,No Tag,,Hyundai,i20  ,1.2
+565,429000.0,2018,78000,Petrol,Navi Mumbai,No Tag,7124,Maruti Suzuki,Wagon R,1.0
+566,1275000.0,2014,73500,Diesel,Navi Mumbai,No Tag,21173,Volvo,V40  ,
+567,3950000.0,2016,78000,Diesel,Navi Mumbai,No Tag,65596,Audi,Q7  ,
+568,3950000.0,2016,75000,Diesel,Navi Mumbai,No Tag,65596,Audi,Q7  ,
+569,2150000.0,2016,44800,Diesel,Navi Mumbai,No Tag,35704,Mercedes-Benz,GLA  ,
+570,6150000.0,2017,47000,Diesel,Navi Mumbai,No Tag,1.02 L,BMW,7 Series,
+571,2250000.0,2012,68000,Diesel,Navi Mumbai,No Tag,,Audi,A8  ,
+572,3050000.0,2017,48000,Diesel,Navi Mumbai,No Tag,50650,Land,Rover  ,
+573,5350000.0,2016,56300,Diesel,Navi Mumbai,No Tag,88845,Porsche,Cayenne  ,
+574,4375000.0,2018,35500,Petrol,Navi Mumbai,No Tag,72654,BMW,5 Series,
+575,429000.0,2018,78000,Petrol,Navi Mumbai,No Tag,7124,Maruti Suzuki,Wagon R,1.0
+576,229000.0,2011,30000,Petrol,Navi Mumbai,No Tag,,Hyundai,i20  ,1.2
+577,2650000.0,2018,43000,Diesel,Navi Mumbai,No Tag,44007,Mercedes-Benz,GLA  ,
+578,298000.0,2011,78000,Petrol,Navi Mumbai,No Tag,,Hyundai,i10  ,1.2
+579,1079000.0,2019,94000,Diesel,Navi Mumbai,No Tag,17918,Hyundai,Creta  ,1.4
+580,2750000.0,2017,38000,Petrol,Navi Mumbai,No Tag,45668,Mercedes-Benz,C-Class  ,
+581,2350000.0,2017,30500,Petrol,Navi Mumbai,No Tag,39025,Jaguar,XE  ,
+582,6500000.0,2018,11000,Petrol,Navi Mumbai,No Tag,1.08 L,Audi,S5  ,
+583,3750000.0,2017,49000,Petrol,Navi Mumbai,No Tag,62275,Mercedes-Benz,GLC  ,
+584,1350000.0,2015,45600,Petrol,Navi Mumbai,No Tag,22419,Audi,A3  ,
+585,2550000.0,2017,48000,Diesel,Navi Mumbai,No Tag,42347,Audi,A4  ,
+586,4180000.0,2018,57000,Diesel,Navi Mumbai,No Tag,69415,Mercedes-Benz,E-Class  ,
+587,7100000.0,2021,32500,Diesel,Navi Mumbai,No Tag,1.18 L,Mercedes-Benz,E-Class  ,
+588,2850000.0,2020,11800,Diesel,Navi Mumbai,No Tag,47329,Audi,A3  ,
+589,1925000.0,2016,64000,Diesel,Navi Mumbai,No Tag,31967,Mercedes-Benz,GLA  ,
+590,3475000.0,2015,68000,Diesel,Navi Mumbai,No Tag,57708,Jaguar,XJ  ,
+591,1875000.0,2016,45000,Diesel,Navi Mumbai,No Tag,31137,BMW,3 Series,
+592,2050000.0,2015,55000,Diesel,Navi Mumbai,No Tag,34043,Mercedes-Benz,E-Class  ,
+593,425000.0,2018,77000,Petrol,Navi Mumbai,No Tag,7057,Maruti Suzuki,Wagon R,1.0
+594,648000.0,2022,15500,CNG,Navi Mumbai,No Tag,10761,Maruti Suzuki,Wagon R,1.0
+595,279000.0,2010,46000,Petrol,Navi Mumbai,No Tag,,Hyundai,i20  ,1.2
+596,2550000.0,2017,43500,Diesel,Navi Mumbai,No Tag,42347,Audi,A4  ,
+597,899000.0,2019,43000,Diesel,Navi Mumbai,No Tag,14929,Maruti Suzuki,Swift  ,
+598,6750000.0,2009,95000,Petrol,Navi Mumbai,No Tag,,Bentley,Continental  ,
+599,2975000.0,2019,19500,Petrol,Navi Mumbai,No Tag,49404,Mercedes-Benz,GLA  ,
+600,2475000.0,2018,24500,Petrol,Navi Mumbai,No Tag,41101,Audi,A3  ,
+601,6150000.0,2017,44000,Diesel,Navi Mumbai,No Tag,1.02 L,BMW,7 Series,
+602,2900000.0,2019,29000,Diesel,Navi Mumbai,No Tag,48159,Mercedes-Benz,CLA  ,
+603,1750000.0,2012,87000,Diesel,Navi Mumbai,No Tag,,Audi,Q7  ,
+604,6150000.0,2015,60000,Diesel,Navi Mumbai,No Tag,1.02 L,Renault,Duster  ,
+605,619000.0,2015,59000,Diesel,Navi Mumbai,No Tag,10279,Renault,Duster  ,
+606,3650000.0,2016,72500,Diesel,Navi Mumbai,No Tag,60614,Mercedes-Benz,GLE  ,
+607,725000.0,2013,13000,Diesel,Navi Mumbai,No Tag,12039,Nissan,Evalia  ,
+608,2450000.0,2016,63000,Diesel,Navi Mumbai,No Tag,40686,BMW,3 Series,
+609,3200000.0,2012,81000,Petrol,Navi Mumbai,No Tag,53141,Porsche,Cayenne  ,
+610,850000.0,2020,44710,Petrol,Navi Mumbai,No Tag,14115,Hyundai,Venue  ,1.0
+611,375000.0,2016,82373,Petrol,Navi Mumbai,No Tag,6227,Maruti Suzuki,Wagon R,1.0
+612,170000.0,2014,59332,Petrol,Navi Mumbai,Home Test Drive,2823,Datsun,GO  ,
+613,650000.0,2015,59941,Petrol,Navi Mumbai,Home Test Drive,10794,Honda,City  ,
+614,1900000.0,2020,18841,Diesel,Navi Mumbai,No Tag,31552,MG,Hector  ,2.0
+615,250000.0,2010,124251,Petrol,Navi Mumbai,Home Test Drive,,Honda,City  ,1.5
+616,1950000.0,2021,20106,Diesel,Navi Mumbai,No Tag,32383,MG,Hector  ,2.0
+617,3855000.0,2019,18000,Petrol,Navi Mumbai,No Tag,64018,Toyota,Camry  ,
+618,1051000.0,2018,34000,Petrol,Navi Mumbai,No Tag,17453,Honda,City  ,
+619,440000.0,2013,62715,Petrol,Navi Mumbai,Great Price,7306,Toyota,Corolla Altis,
+620,1950000.0,2022,3900,Petrol,Navi Mumbai,No Tag,32383,Skoda,Slavia  ,1.5
+621,1950000.0,2022,3900,Petrol,Navi Mumbai,No Tag,32383,Skoda,Slavia  ,1.5
+622,1700000.0,2020,25896,Diesel,Navi Mumbai,No Tag,28231,MG,Hector  ,2.0
+623,2375000.0,2010,161000,Diesel,Navi Mumbai,No Tag,,Toyota,Land  ,
+624,1950000.0,2022,4000,Petrol,Navi Mumbai,No Tag,32383,Skoda,Kushaq  ,1.5
+625,270000.0,2010,113635,Petrol,Navi Mumbai,Great Price,,Toyota,Corolla Altis,1.8
+626,4075000.0,2021,28000,Diesel,Navi Mumbai,No Tag,67672,Toyota,Fortuner  ,
+627,1750000.0,2021,9761,Petrol,Navi Mumbai,No Tag,29061,MG,Hector  ,1.5
+628,520000.0,2017,51966,Petrol,Navi Mumbai,Great Price,8635,Maruti Suzuki,Baleno  ,1.2
+629,790000.0,2017,39000,Petrol,Navi Mumbai,No Tag,13119,Skoda,Rapid  ,1.6
+630,545000.0,2013,109000,Diesel,Navi Mumbai,No Tag,9050,Toyota,Corolla Altis,
+631,1775000.0,2015,43359,Petrol,Navi Mumbai,No Tag,29476,Mercedes-Benz,GLA  ,
+632,3050000.0,2019,59000,Diesel,Navi Mumbai,Home Test Drive,50650,BMW,X1  ,
+633,2299000.0,2021,38000,Diesel,Navi Mumbai,No Tag,38178,Tata,Harrier  ,
+634,2275000.0,2013,70000,Diesel,Navi Mumbai,Home Test Drive,37780,Mercedes-Benz,M-Class  ,
+635,2450000.0,2016,60000,Diesel,Navi Mumbai,No Tag,40686,Audi,A6  ,
+636,1590000.0,2021,17000,Petrol,Navi Mumbai,No Tag,26404,Skoda,Kushaq  ,1.5
+637,2675000.0,2019,58000,Diesel,Navi Mumbai,Home Test Drive,44422,Volkswagen,Tiguan  ,
+638,7500000.0,2017,22000,Diesel,Navi Mumbai,No Tag,1.25 L,BMW,7 Series,
+639,498000.0,2018,70000,Petrol,Navi Mumbai,No Tag,,Maruti Suzuki,Celerio  ,
+640,610000.0,2017,38674,Petrol,Navi Mumbai,No Tag,10130,Maruti Suzuki,Swift  ,
+641,575000.0,2020,51121,Petrol,Navi Mumbai,No Tag,9548,Maruti Suzuki,Wagon R,1.0
+642,445000.0,2017,68421,CNG,Navi Mumbai,No Tag,7389,Maruti Suzuki,Wagon R,1.0
+643,720000.0,2018,41189,Petrol,Navi Mumbai,No Tag,11956,Maruti Suzuki,Dzire  ,
+644,730000.0,2020,30251,Petrol,Navi Mumbai,No Tag,12122,Maruti Suzuki,Dzire  ,
+645,730000.0,2020,30251,Petrol,Navi Mumbai,No Tag,12122,Maruti Suzuki,Dzire  ,
+646,720000.0,2018,41189,Petrol,Navi Mumbai,No Tag,11956,Maruti Suzuki,Dzire  ,
+647,420000.0,2017,89656,CNG,Navi Mumbai,No Tag,6974,Maruti Suzuki,Wagon R,1.0
+648,320000.0,2013,69891,CNG,Navi Mumbai,No Tag,5314,Maruti Suzuki,Wagon R,1.0
+649,340000.0,2014,46349,Petrol,Navi Mumbai,No Tag,5646,Maruti Suzuki,Wagon R,1.0
+650,420000.0,2016,16398,Petrol,Navi Mumbai,No Tag,6974,Maruti Suzuki,Wagon R,1.0
+651,659000.0,2016,60000,Petrol,Navi Mumbai,No Tag,10943,Maruti Suzuki,Ciaz  ,
+652,485000.0,2014,32652,Petrol,Navi Mumbai,No Tag,8054,Honda,Mobilio  ,
+653,210000.0,2010,125000,Petrol,Navi Mumbai,No Tag,,Maruti Suzuki,SX4  ,
+654,540000.0,2018,44000,Petrol,Navi Mumbai,No Tag,8967,Hyundai,Grand i10,1.2
+655,575000.0,2020,49652,CNG,Navi Mumbai,No Tag,9548,Maruti Suzuki,Wagon R,1.0
+656,395000.0,2016,51123,Petrol,Navi Mumbai,No Tag,6559,Honda,Brio  ,
+657,425000.0,2012,71565,Petrol,Navi Mumbai,Home Test Drive,,Maruti Suzuki,Swift  ,
+658,220000.0,2008,104000,Petrol,Navi Mumbai,No Tag,,Maruti Suzuki,Swift  ,
+659,235000.0,2010,91178,Petrol,Navi Mumbai,No Tag,,Maruti Suzuki,Swift  ,
+660,185000.0,2011,58000,CNG,Navi Mumbai,No Tag,,Maruti Suzuki,Alto  ,
+661,170000.0,2010,93000,Petrol,Navi Mumbai,No Tag,,Maruti Suzuki,Estilo  ,
+662,615000.0,2014,87123,CNG,Navi Mumbai,No Tag,10213,Maruti Suzuki,Ertiga  ,
+663,375000.0,2013,67000,Petrol,Navi Mumbai,No Tag,6227,Maruti Suzuki,Swift  ,
+664,545000.0,2016,21652,Petrol,Navi Mumbai,No Tag,9050,Volkswagen,Polo  ,1.2
+665,195000.0,2011,62813,Petrol,Navi Mumbai,No Tag,,Maruti Suzuki,Alto  ,
+666,235000.0,2010,67123,Petrol,Navi Mumbai,No Tag,,Maruti Suzuki,Swift  ,
+667,365000.0,2012,42122,Petrol,Navi Mumbai,No Tag,,Hyundai,i20  ,1.2
+668,150000.0,2007,82000,Petrol,Navi Mumbai,No Tag,,Maruti Suzuki,SX4  ,
+669,285000.0,2011,64000,Petrol,Navi Mumbai,No Tag,,Volkswagen,Vento  ,
+670,665000.0,2017,42123,Petrol,Navi Mumbai,No Tag,11043,Maruti Suzuki,Ciaz  ,
+671,575000.0,2020,65123,CNG,Navi Mumbai,No Tag,9548,Maruti Suzuki,Celerio  ,
+672,560000.0,2014,119732,Diesel,Navi Mumbai,Home Test Drive,9299,Honda,Mobilio  ,
+673,430000.0,2015,26000,Petrol,Navi Mumbai,No Tag,7140,Hyundai,Grand i10,1.2
+674,375000.0,2014,45123,Petrol,Navi Mumbai,No Tag,6227,Tata,Zest  ,
+675,125000.0,2007,58000,CNG,Navi Mumbai,No Tag,,Maruti Suzuki,Alto  ,
+676,299000.0,2013,69000,CNG,Navi Mumbai,No Tag,4965,Maruti Suzuki,Wagon R,1.0
+677,725000.0,2017,75793,Diesel,Navi Mumbai,No Tag,12039,Maruti Suzuki,Vitara Brezza,
+678,870000.0,2017,46133,Diesel,Navi Mumbai,No Tag,14447,Hyundai,Creta  ,1.4
+679,2010000.0,2021,9357,Electric,Navi Mumbai,Home Test Drive,33379,MG,ZS  ,
+680,290000.0,2011,37970,Petrol,Navi Mumbai,Great Price,,Honda,City  ,1.5
+681,495000.0,2017,25000,Petrol,Navi Mumbai,No Tag,8220,Maruti Suzuki,Ignis  ,1.2
+682,425000.0,2012,25000,Diesel,Navi Mumbai,No Tag,,Volkswagen,Vento  ,
+683,2750000.0,2017,44000,Diesel,Navi Mumbai,Home Test Drive,45668,Ford,Endeavour  ,
+684,3775000.0,2018,53000,Diesel,Navi Mumbai,Great Price,,Land,Rover  ,
+685,2350000.0,2010,161000,Diesel,Navi Mumbai,Great Price,,Toyota,Land  ,
+686,1875000.0,2016,64300,Diesel,Navi Mumbai,Home Test Drive,31137,BMW,X1  ,
+687,1050000.0,2012,26700,Petrol,Navi Mumbai,No Tag,17437,Audi,A6  ,
+688,435000.0,2012,28500,Petrol,Navi Mumbai,No Tag,,Maruti Suzuki,Swift  ,
+689,435000.0,2017,3537,Diesel,Navi Mumbai,No Tag,7223,Tata,Tiago  ,
+690,900000.0,2019,29422,Diesel,Navi Mumbai,No Tag,14946,Maruti Suzuki,Vitara Brezza,
+691,580000.0,2020,48578,Petrol,Navi Mumbai,No Tag,9631,Maruti Suzuki,Wagon R,1.2
+692,310000.0,2015,140873,Petrol,Navi Mumbai,No Tag,5148,Maruti Suzuki,Wagon R,1.0
+693,310000.0,2015,140873,Petrol,Navi Mumbai,No Tag,5148,Maruti Suzuki,Wagon R,1.0
+694,480000.0,2019,25854,Petrol,Navi Mumbai,No Tag,7971,Hyundai,Santro  ,
+695,315000.0,2013,64412,CNG,Navi Mumbai,No Tag,5231,Maruti Suzuki,Wagon R,1.0
+696,95000.0,2008,94322,Petrol,Navi Mumbai,No Tag,,Maruti Suzuki,Estilo  ,
+697,210000.0,2012,33000,Petrol,Navi Mumbai,No Tag,,Maruti Suzuki,Alto  ,
+698,575000.0,2017,11414,Petrol,Navi Mumbai,No Tag,9548,Hyundai,Elite i20,1.2
+699,1575000.0,2018,28406,Petrol,Navi Mumbai,No Tag,26155,Jeep,Compass Limited,1.4
+700,495000.0,2020,47285,CNG,Navi Mumbai,No Tag,8220,Maruti Suzuki,Eeco  ,
+701,380000.0,2019,16529,Petrol,Navi Mumbai,No Tag,6310,Renault,Kwid  ,1.0
+702,545000.0,2017,26289,Petrol,Navi Mumbai,No Tag,9050,Honda,Jazz  ,
+703,775000.0,2018,18910,Petrol,Navi Mumbai,No Tag,12870,Honda,City  ,
+704,495000.0,2017,57222,Petrol,Navi Mumbai,No Tag,8220,Hyundai,Elite i20,1.2
+705,580000.0,2020,41320,Petrol,Navi Mumbai,No Tag,9631,Maruti Suzuki,Wagon R,1.0
+706,550000.0,2015,74703,Petrol,Navi Mumbai,No Tag,9133,Honda,City  ,
+707,750000.0,2020,12736,Petrol,Navi Mumbai,No Tag,12455,Maruti Suzuki,Dzire  ,
+708,420000.0,2013,62500,Petrol,Navi Mumbai,No Tag,6974,Maruti Suzuki,Swift  ,
+709,690000.0,2019,16635,Petrol,Navi Mumbai,No Tag,11458,Skoda,Rapid  ,1.6
+710,600000.0,2018,73239,Petrol,Navi Mumbai,No Tag,9964,Maruti Suzuki,Dzire  ,
+711,725000.0,2017,19690,Petrol,Navi Mumbai,No Tag,12039,Maruti Suzuki,Ciaz  ,
+712,460000.0,2021,30830,Petrol,Navi Mumbai,No Tag,7639,Maruti Suzuki,S-Presso  ,
+713,435000.0,2016,38553,Petrol,Navi Mumbai,No Tag,7223,Ford,Figo  ,1.2
+714,320000.0,2013,64807,Diesel,Navi Mumbai,No Tag,5314,Honda,Amaze  ,1.5
+715,340000.0,2014,75963,CNG,Navi Mumbai,No Tag,5646,Maruti Suzuki,Wagon R,1.0
+716,520000.0,2015,64101,Petrol,Navi Mumbai,No Tag,8635,Maruti Suzuki,Swift  ,
+717,310000.0,2012,116211,Petrol,Navi Mumbai,No Tag,5148,Maruti Suzuki,Wagon R,1.0
+718,495000.0,2017,56327,Petrol,Navi Mumbai,No Tag,8220,Maruti Suzuki,Swift  ,
+719,510000.0,2016,42751,Petrol,Navi Mumbai,No Tag,8469,Hyundai,Elite i20,1.2
+720,540000.0,2020,30811,Petrol,Navi Mumbai,No Tag,8967,Maruti Suzuki,Celerio  ,
+721,425000.0,2013,75000,Diesel,Navi Mumbai,No Tag,7057,Hyundai,Verna  ,1.6
+722,710000.0,2016,97986,Diesel,Navi Mumbai,No Tag,11790,Maruti Suzuki,S-Cross  ,1.6
+723,425000.0,2010,91000,Petrol,Navi Mumbai,No Tag,,Honda,Accord  ,
+724,555000.0,2018,24000,Petrol,Navi Mumbai,No Tag,,Tata,Tiago  ,
+725,550000.0,2014,58500,Petrol,Navi Mumbai,No Tag,9133,Maruti Suzuki,Ciaz  ,
+726,1725000.0,2013,72100,Petrol,Navi Mumbai,No Tag,,MINI,Cooper  ,
+727,675000.0,2013,93000,Petrol,Navi Mumbai,No Tag,,Hyundai,Sonata  ,
+728,920000.0,2018,22117,Petrol,Mumbai,Home Test Drive,15278,Honda,City  ,
+729,1190000.0,2018,50824,Petrol,Mumbai,Home Test Drive,19761,Hyundai,Creta  ,1.6
+730,625000.0,2017,24982,Diesel,Mumbai,Home Test Drive,10379,Maruti Suzuki,Swift  ,
+731,4200000.0,2021,11725,Petrol,Mumbai,Home Test Drive,69748,MINI,Cooper  ,
+732,3100000.0,2021,19742,Diesel,Mumbai,Home Test Drive,,Toyota,Innova  ,
+733,711000.0,2015,66684,Petrol,Mumbai,Home Test Drive,11807,Honda,City  ,
+734,750000.0,2020,19790,Petrol,Mumbai,Home Test Drive,12455,Renault,Triber  ,
+735,395000.0,2016,42398,Petrol,Mumbai,Home Test Drive,6559,Maruti Suzuki,Celerio  ,
+736,715000.0,2015,46404,Petrol,Mumbai,Home Test Drive,11873,Honda,City  ,
+737,565000.0,2019,18378,Petrol,Mumbai,Home Test Drive,9382,Maruti Suzuki,Wagon R,1.2
+738,525000.0,2020,10691,Petrol,Mumbai,Home Test Drive,8718,Renault,Kwid  ,1.0
+739,645000.0,2018,12597,Petrol,Mumbai,Home Test Drive,10711,Hyundai,Elite i20,1.2
+740,445000.0,2016,24608,Petrol,Mumbai,Home Test Drive,7389,Maruti Suzuki,Celerio  ,
+741,540000.0,2016,41179,Petrol,Thane,No Tag,8967,Hyundai,Grand i10,1.2
+742,525000.0,2018,10800,Petrol,Thane,No Tag,8718,Hyundai,Grand i10,1.2
+743,311000.0,2012,59959,Petrol,Thane,No Tag,,Maruti Suzuki,Swift  ,
+744,315000.0,2013,66493,Petrol,Thane,No Tag,5231,Hyundai,i10  ,1.2
+745,255000.0,2016,30055,Petrol,Thane,No Tag,,Datsun,redi-GO  ,
+746,650000.0,2016,38499,Petrol,Thane,No Tag,,Hyundai,Verna  ,1.6
+747,1175000.0,2019,25090,Diesel,Thane,No Tag,19512,Tata,Hexa  ,
+748,1881000.0,2017,43236,Diesel,Thane,No Tag,31237,Toyota,Innova  ,
+749,575000.0,2015,38002,Petrol,Thane,No Tag,9548,Maruti Suzuki,Swift  ,
+750,1150000.0,2021,13120,CNG,Thane,No Tag,19097,Maruti Suzuki,Ertiga  ,
+751,1350000.0,2022,7675,CNG,Thane,No Tag,22419,Maruti Suzuki,Ertiga  ,
+752,1120000.0,2020,7717,CNG,Thane,No Tag,18599,Maruti Suzuki,Ertiga  ,
+753,1151000.0,2021,16692,CNG,Thane,No Tag,19114,Maruti Suzuki,Ertiga  ,
+754,790000.0,2017,23493,Petrol,Thane,No Tag,13119,Hyundai,Verna  ,1.6
+755,540000.0,2015,19652,Petrol,Thane,No Tag,8967,Toyota,Etios  ,
+756,635000.0,2018,22859,Petrol,Thane,No Tag,10545,Hyundai,Elite i20,1.2
+757,725000.0,2021,9850,Petrol,Thane,No Tag,12039,Maruti Suzuki,Dzire  ,
+758,675000.0,2017,32530,Petrol,Thane,No Tag,11209,Maruti Suzuki,Baleno  ,1.2
+759,651000.0,2016,22767,Petrol,Thane,No Tag,10810,Maruti Suzuki,Ciaz  ,
+760,799000.0,2017,41865,Diesel,Thane,No Tag,13268,Maruti Suzuki,S-Cross  ,1.3
+761,1099000.0,2022,10408,Petrol,Thane,No Tag,18250,Hyundai,Venue  ,1.0
+762,570000.0,2019,39519,CNG,Thane,No Tag,9465,Maruti Suzuki,Wagon R,1.0
+763,435000.0,2015,39270,Petrol,Thane,No Tag,,Hyundai,Grand i10,1.2
+764,665000.0,2020,10952,Petrol,Thane,No Tag,11043,Maruti Suzuki,Swift  ,
+765,2100000.0,2020,51713,Diesel,Thane,No Tag,34874,Toyota,Innova  ,
+766,1450000.0,2019,25223,Petrol,Thane,No Tag,24079,Hyundai,Creta  ,1.6
+767,599000.0,2021,21462,CNG,Thane,No Tag,9947,Maruti Suzuki,Eeco  ,
+768,595000.0,2016,67474,Petrol,Thane,No Tag,,Honda,Jazz  ,
+769,765000.0,2021,10906,Petrol,Thane,No Tag,12704,Maruti Suzuki,Swift  ,
+770,1445000.0,2020,37321,Petrol,Thane,No Tag,23996,Hyundai,Creta  ,1.6
+771,895000.0,2018,29632,Diesel,Thane,No Tag,14862,Mahindra,Marazzo  ,
+772,1135000.0,2019,36549,Petrol,Thane,No Tag,18848,Honda,City  ,
+773,635000.0,2017,38766,Petrol,Thane,No Tag,10545,Maruti Suzuki,Ciaz  ,1.4
+774,555000.0,2015,86321,Petrol,Thane,No Tag,9216,Honda,City  ,
+775,635000.0,2017,32011,Petrol,Thane,No Tag,10545,Hyundai,Elite i20,1.2
+776,495000.0,2014,93004,Petrol,Thane,No Tag,8220,Hyundai,Elite i20,1.2
+777,595000.0,2017,44849,Petrol,Thane,No Tag,9880,Ford,EcoSport  ,1.5
+778,745000.0,2017,33246,Petrol,Thane,No Tag,12371,Honda,City  ,
+779,475000.0,2013,88017,Diesel,Thane,No Tag,7888,Nissan,Terrano  ,
+780,595000.0,2014,46200,Petrol,Thane,No Tag,9880,Honda,City  ,
+781,680000.0,2019,42687,Petrol,Thane,No Tag,11292,Hyundai,Elite i20,1.2
+782,525000.0,2018,41235,Petrol,Thane,No Tag,8718,Maruti Suzuki,Ignis  ,1.2
+783,740000.0,2017,48275,Petrol,Thane,No Tag,12288,Maruti Suzuki,Ciaz  ,1.4
+784,435000.0,2018,19509,Petrol,Thane,No Tag,7223,Renault,Kwid  ,1.0
+785,715000.0,2015,70750,Petrol,Thane,No Tag,11873,Hyundai,Elantra  ,1.8
+786,735000.0,2015,68917,CNG,Thane,No Tag,12205,Maruti Suzuki,Ertiga  ,
+787,610000.0,2017,45545,Petrol,Thane,No Tag,10130,Hyundai,Elite i20,1.2
+788,1025000.0,2020,24087,Petrol,Thane,No Tag,,Hyundai,Venue  ,1.0
+789,415000.0,2014,78852,Petrol,Thane,No Tag,6891,Hyundai,Xcent  ,1.2
+790,425000.0,2013,68287,Petrol,Thane,No Tag,7057,Honda,Amaze  ,1.2
+791,575000.0,2014,60469,Petrol,Thane,No Tag,9548,Maruti Suzuki,Ciaz  ,
+792,845000.0,2017,49011,Petrol,Thane,No Tag,14032,Honda,City  ,
+793,645000.0,2015,90266,Petrol,Thane,No Tag,10711,Toyota,Corolla Altis,
+794,745000.0,2017,45989,Petrol,Thane,No Tag,12371,Maruti Suzuki,Ciaz  ,1.4
+795,645000.0,2015,90266,Petrol,Thane,No Tag,10711,Toyota,Corolla Altis,
+796,495000.0,2013,52068,Petrol,Thane,No Tag,8220,Hyundai,Verna  ,1.6
+797,295000.0,2013,43423,Petrol,Thane,No Tag,4898,Nissan,Micra  ,
+798,745000.0,2017,45989,Petrol,Thane,No Tag,12371,Maruti Suzuki,Ciaz  ,1.4
+799,315000.0,2012,45759,Petrol,Thane,No Tag,,Toyota,Etios  ,
+800,1395000.0,2017,45221,Petrol,Thane,No Tag,,Jeep,Compass Limited,1.4
+801,395000.0,2015,28375,Petrol,Thane,No Tag,6559,Honda,Amaze  ,1.2
+802,445000.0,2017,46721,CNG,Thane,No Tag,7389,Maruti Suzuki,Wagon R,1.0
+803,485000.0,2012,83728,Diesel,Thane,No Tag,,Hyundai,Verna  ,1.6
+804,1195000.0,2012,63906,Petrol,Thane,No Tag,,Mercedes-Benz,E-Class  ,
+805,395000.0,2012,68434,Petrol,Thane,No Tag,,Honda,City  ,1.5
+806,545000.0,2017,52537,Diesel,Thane,No Tag,9050,Nissan,Sunny  ,
+807,845000.0,2018,64123,Diesel,Thane,No Tag,14032,Maruti Suzuki,Vitara Brezza,
+808,415000.0,2019,17265,CNG,Thane,No Tag,6891,Maruti Suzuki,Alto  ,
+809,515000.0,2018,52561,Petrol,Thane,No Tag,8552,Maruti Suzuki,Ignis  ,1.2
+810,645000.0,2016,42483,Petrol,Thane,No Tag,10711,Honda,BR-V  ,
+811,725000.0,2020,12251,Petrol,Thane,No Tag,12039,Maruti Suzuki,Baleno  ,1.2
+812,755000.0,2018,28300,Diesel,Thane,No Tag,12538,Maruti Suzuki,Dzire  ,
+813,595000.0,2016,48023,Petrol,Thane,No Tag,9880,Ford,EcoSport  ,1.5
+814,315000.0,2012,92073,Petrol,Thane,No Tag,,Nissan,Sunny  ,
+815,695000.0,2017,67182,Petrol,Thane,No Tag,11541,Skoda,Rapid  ,1.6
+816,435000.0,2014,77545,Diesel,Thane,No Tag,7223,Hyundai,Grand i10,
+817,795000.0,2018,53416,Petrol,Thane,No Tag,,Honda,City  ,
+818,825000.0,2018,27650,Petrol,Thane,No Tag,13700,Ford,EcoSport  ,1.5
+819,795000.0,2019,33369,Petrol,Thane,No Tag,13202,Tata,Nexon  ,
+820,825000.0,2018,27650,Petrol,Thane,No Tag,13700,Ford,EcoSport  ,1.5
+821,1095000.0,2019,43442,Diesel,Thane,No Tag,18184,Mahindra,XUV300  ,1.5
+822,285000.0,2016,40265,Petrol,Thane,No Tag,,Datsun,GO  ,
+823,695000.0,2020,38511,Petrol,Thane,No Tag,11541,Maruti Suzuki,Baleno  ,1.2
+824,645000.0,2016,64959,Petrol,Thane,No Tag,,Skoda,Rapid  ,1.6
+825,575000.0,2016,70616,Petrol,Thane,No Tag,9548,Ford,EcoSport  ,1.5
+826,335000.0,2014,41223,Petrol,Thane,No Tag,5563,Hyundai,i10  ,
+827,385000.0,2016,36100,Petrol,Thane,No Tag,,Maruti Suzuki,Alto  ,
+828,625000.0,2015,28180,Petrol,Thane,No Tag,,Volkswagen,Vento  ,
+829,675000.0,2018,15655,Petrol,Thane,No Tag,,Honda,Amaze  ,1.2
+830,445000.0,2013,72612,Petrol,Thane,No Tag,,Renault,Duster  ,
+831,610000.0,2016,74981,Petrol,Thane,No Tag,10130,Hyundai,i20  ,1.2
+832,515000.0,2018,58723,Petrol,Thane,No Tag,,Hyundai,Grand i10,1.2
+833,265000.0,2010,71321,Petrol,Thane,No Tag,,Maruti Suzuki,SX4  ,
+834,435000.0,2017,28600,Petrol,Thane,No Tag,,Ford,Figo  ,1.2
+835,585000.0,2015,46109,Petrol,Thane,No Tag,,Hyundai,Verna  ,1.6
+836,765000.0,2018,41907,Petrol,Thane,No Tag,,Ford,EcoSport  ,1.5
+837,315000.0,2013,66493,Petrol,Thane,No Tag,5231,Hyundai,i10  ,1.2
+838,911000.0,2020,12600,Petrol,Thane,No Tag,15128,Hyundai,Venue  ,1.2
+839,465000.0,2016,44115,Petrol,Thane,No Tag,,Maruti Suzuki,Celerio  ,
+840,315000.0,2016,3483,Petrol,Thane,No Tag,,Datsun,GO  ,
+841,785000.0,2016,71252,CNG,Thane,No Tag,,Maruti Suzuki,Ertiga  ,
+842,495000.0,2014,63598,Petrol,Thane,No Tag,,Maruti Suzuki,Swift  ,
+843,495000.0,2014,63598,Petrol,Thane,No Tag,,Maruti Suzuki,Swift  ,
+844,865000.0,2016,57970,Petrol,Thane,No Tag,14364,Hyundai,Creta  ,1.6
+845,1151000.0,2021,8600,Petrol,Thane,No Tag,19114,Kia,Sonet  ,1.0
+846,435000.0,2015,57321,CNG,Thane,No Tag,7223,Maruti Suzuki,Celerio  ,
+847,1899000.0,2016,63400,Diesel,Thane,No Tag,31536,Toyota,Innova  ,
+848,911000.0,2017,45900,Diesel,Thane,No Tag,15128,Hyundai,Verna  ,1.6
+849,525000.0,2018,8534,Petrol,Thane,No Tag,,Maruti Suzuki,Celerio  ,
+850,320000.0,2013,26300,Petrol,Thane,No Tag,5314,Maruti Suzuki,Wagon R,1.0
+851,700000.0,2017,19000,Petrol,Thane,No Tag,11624,Honda,Jazz  ,
+852,951000.0,2015,55000,Diesel,Thane,No Tag,15792,Hyundai,Creta  ,1.6
+853,529000.0,2014,69147,Diesel,Thane,No Tag,8784,Maruti Suzuki,Swift  ,
+854,459000.0,2015,9513,Petrol,Thane,Home Test Drive,7622,Maruti Suzuki,Swift  ,
+855,1499000.0,2020,15107,Diesel,Thane,Home Test Drive,24893,Tata,Harrier  ,
+856,1099000.0,2016,69249,Diesel,Thane,Home Test Drive,18250,Mahindra,XUV500  ,
+857,749000.0,2020,12279,Petrol,Thane,Home Test Drive,12438,Maruti Suzuki,Baleno  ,1.2
+858,449000.0,2017,47170,Petrol,Thane,Home Test Drive,7456,Maruti Suzuki,Celerio  ,
+859,629000.0,2017,34482,Petrol,Thane,Home Test Drive,10445,Renault,Duster  ,
+860,399000.0,2015,24378,Petrol,Thane,No Tag,,Hyundai,Grand i10,1.2
+861,649000.0,2015,32078,Petrol,Thane,Home Test Drive,10777,Honda,City  ,
+862,829000.0,2018,70261,Diesel,Thane,Home Test Drive,13766,Maruti Suzuki,S-Cross  ,1.3
+863,1099000.0,2014,65226,Diesel,Thane,Home Test Drive,18250,Toyota,Innova  ,
+864,359000.0,2015,55121,CNG,Thane,Home Test Drive,5961,Maruti Suzuki,Wagon R,1.0
+865,475000.0,2014,83297,Petrol,Thane,Great Price,7888,Honda,City  ,
+866,731000.0,2019,24645,Petrol,Thane,No Tag,12139,Maruti Suzuki,Baleno  ,1.2
+867,731000.0,2019,24645,Petrol,Thane,No Tag,12139,Maruti Suzuki,Baleno  ,1.2
+868,1091000.0,2017,52348,Diesel,Thane,No Tag,18117,Tata,Hexa  ,
+869,2040000.0,2018,49439,Diesel,Thane,No Tag,33877,Toyota,Innova  ,
+870,675000.0,2015,66608,Petrol,Thane,No Tag,11209,Honda,City  ,
+871,1425000.0,2019,30811,Petrol,Thane,No Tag,23664,Hyundai,Creta  ,1.6
+872,1460000.0,2019,37295,Petrol,Thane,No Tag,24245,Kia,Seltos  ,1.4
+873,1850000.0,2020,35438,Diesel,Thane,No Tag,30722,Tata,Harrier  ,
+874,595000.0,2013,78000,Diesel,Thane,No Tag,9880,Skoda,Laura  ,2.0
+875,2360000.0,2021,22360,Diesel,Thane,No Tag,39191,Tata,Safari  ,
+876,1460000.0,2014,68795,Diesel,Thane,No Tag,24245,BMW,X1  ,
+877,460000.0,2013,77394,Petrol,Thane,No Tag,7639,Hyundai,Verna  ,1.6
+878,1190000.0,2018,32459,Petrol,Thane,No Tag,19761,Hyundai,Creta  ,1.6
+879,1890000.0,2018,48969,Diesel,Thane,No Tag,31386,Toyota,Innova  ,
+880,960000.0,2019,38545,Diesel,Thane,No Tag,15942,Tata,Nexon  ,
+881,325000.0,2016,24921,Petrol,Thane,No Tag,5397,Datsun,GO  ,
+882,1050000.0,2016,48397,Diesel,Thane,No Tag,17437,Hyundai,Creta  ,1.6
+883,1935000.0,2022,18583,Petrol,Thane,No Tag,32133,Hyundai,Creta  ,1.4
+884,821000.0,2021,14698,Diesel,Thane,No Tag,13634,Tata,Altroz  ,
+885,470000.0,2018,26659,CNG,Thane,No Tag,7805,Maruti Suzuki,Wagon R,1.0
+886,1540000.0,2019,43922,Diesel,Thane,No Tag,25574,Jeep,Compass Longitude,2.0
+887,1049000.0,2018,53254,Petrol,Thane,No Tag,17420,Hyundai,Creta  ,1.6
+888,465000.0,2015,53776,Petrol,Thane,No Tag,7722,Hyundai,Elite i20,1.2
+889,840000.0,2021,13264,Petrol,Thane,No Tag,13949,Nissan,Magnite  ,
+890,535000.0,2016,20858,Petrol,Thane,No Tag,8884,Volkswagen,Polo  ,1.2
+891,840000.0,2021,13264,Petrol,Thane,No Tag,13949,Nissan,Magnite  ,
+892,535000.0,2016,20858,Petrol,Thane,No Tag,8884,Volkswagen,Polo  ,1.2
+893,569000.0,2020,27385,Petrol,Thane,No Tag,9449,Tata,Tiago  ,
+894,475000.0,2014,60966,Diesel,Thane,No Tag,7888,Renault,Duster  ,
+895,1090000.0,2018,51607,Petrol,Thane,No Tag,18101,Hyundai,Creta  ,1.6
+896,449000.0,2014,52958,Petrol,Thane,No Tag,7456,Hyundai,Grand i10,1.2
+897,649000.0,2015,66795,Petrol,Thane,No Tag,10777,Honda,City  ,
+898,1399000.0,2019,31010,Diesel,Thane,No Tag,23232,Tata,Harrier  ,
+899,695000.0,2017,31732,Petrol,Thane,No Tag,11541,Honda,City  ,
+900,825000.0,2018,48174,Diesel,Thane,No Tag,13700,Maruti Suzuki,Vitara Brezza,
+901,519000.0,2016,27012,Petrol,Thane,No Tag,8618,Hyundai,Grand i10,1.2
+902,1349000.0,2018,87312,Diesel,Thane,No Tag,22402,Mahindra,XUV500  ,
+903,315000.0,2012,45759,Petrol,Thane,No Tag,,Toyota,Etios  ,
+904,525000.0,2017,41235,Petrol,Thane,No Tag,8718,Maruti Suzuki,Ignis  ,1.2
+905,595000.0,2015,45982,Petrol,Thane,No Tag,9880,Hyundai,i20  ,1.2
+906,349000.0,2015,59553,Petrol,Thane,Great Price,5795,Maruti Suzuki,Celerio  ,
+907,299000.0,2013,71144,CNG,Thane,No Tag,4965,Maruti Suzuki,Wagon R,1.0
+908,569000.0,2015,78990,Diesel,Thane,Great Price,9449,Nissan,Terrano  ,
+909,479000.0,2015,42269,Petrol,Thane,Great Price,7954,Volkswagen,Vento  ,1.2
+910,785000.0,2019,19991,Petrol,Thane,No Tag,13036,Hyundai,Elite i20,1.2
+911,489000.0,2019,67653,CNG,Thane,No Tag,8120,Maruti Suzuki,Celerio  ,
+912,375000.0,2013,47018,Petrol,Thane,Great Price,6227,Skoda,Rapid  ,1.6
+913,589000.0,2015,35411,Petrol,Thane,No Tag,9781,Honda,City  ,
+914,369000.0,2013,64198,Petrol,Thane,No Tag,6127,Maruti Suzuki,Swift  ,
+915,375000.0,2013,47018,Petrol,Thane,Great Price,6227,Skoda,Rapid  ,1.6
+916,339000.0,2017,59962,Petrol,Thane,No Tag,5629,Renault,Kwid  ,1.0
+917,739000.0,2016,54429,Diesel,Thane,No Tag,12272,Renault,Duster  ,
+918,379000.0,2017,51959,CNG,Thane,Great Price,6293,Maruti Suzuki,Celerio  ,
+919,409000.0,2013,62000,Petrol,Thane,Great Price,6792,Honda,City  ,1.5
+920,745000.0,2017,33951,Petrol,Thane,No Tag,12371,Honda,WR-V  ,
+921,1099000.0,2019,40701,Diesel,Thane,No Tag,18250,Mahindra,Marazzo  ,
+922,375000.0,2014,44449,Petrol,Thane,Great Price,6227,Honda,Amaze  ,1.2
+923,475000.0,2016,10434,Petrol,Thane,Great Price,7888,Honda,Amaze  ,1.2
+924,899000.0,2018,21540,Petrol,Thane,Great Price,14929,Honda,City  ,
+925,1195000.0,2012,63906,Petrol,Thane,Great Price,,Mercedes-Benz,E-Class  ,
+926,499000.0,2013,65302,Diesel,Thane,No Tag,8286,Maruti Suzuki,Swift  ,
+927,675000.0,2016,64727,Petrol,Thane,No Tag,11209,Maruti Suzuki,Ciaz  ,
+928,845000.0,2018,62420,Diesel,Thane,No Tag,14032,Maruti Suzuki,Vitara Brezza,
+929,339000.0,2018,49797,CNG,Thane,No Tag,5629,Maruti Suzuki,Alto  ,
+930,595000.0,2014,46200,Petrol,Thane,No Tag,9880,Honda,City  ,
+931,430000.0,2015,55360,CNG,Thane,No Tag,7140,Maruti Suzuki,Celerio  ,
+932,265000.0,2014,44760,Petrol,Thane,No Tag,4400,Datsun,GO  ,
+933,575000.0,2014,60469,Petrol,Thane,No Tag,9548,Maruti Suzuki,Ciaz  ,
+934,620000.0,2016,44433,Petrol,Thane,No Tag,10296,Maruti Suzuki,Ciaz  ,
+935,545000.0,2014,73987,Petrol,Thane,No Tag,9050,Honda,City  ,
+936,495000.0,2015,60564,Petrol,Thane,No Tag,8220,Hyundai,Grand i10,1.2
+937,295000.0,2012,56557,Petrol,Thane,No Tag,,Honda,Brio  ,
+938,645000.0,2015,90252,Petrol,Thane,No Tag,10711,Toyota,Corolla Altis,1.8
+939,545000.0,2014,73987,Petrol,Thane,No Tag,9050,Honda,City  ,
+940,645000.0,2015,90252,Petrol,Thane,No Tag,10711,Toyota,Corolla Altis,1.8
+941,495000.0,2014,45808,Petrol,Thane,No Tag,8220,Hyundai,Xcent  ,1.2
+942,435000.0,2013,68769,Petrol,Thane,No Tag,7223,Volkswagen,Vento  ,
+943,595000.0,2016,53548,Petrol,Thane,No Tag,9880,Hyundai,Grand i10,1.2
+944,345000.0,2012,77273,Petrol,Thane,No Tag,,Volkswagen,Polo  ,1.2
+945,680000.0,2018,42687,Petrol,Thane,No Tag,11292,Hyundai,Elite i20,1.2
+946,415000.0,2019,17265,Petrol,Thane,No Tag,6891,Maruti Suzuki,Alto  ,
+947,325000.0,2011,78300,Petrol,Thane,No Tag,,Honda,City  ,1.5
+948,375000.0,2014,90315,Diesel,Thane,Just Arrived,6227,Hyundai,Xcent  ,
+949,295000.0,2014,72594,CNG,Thane,No Tag,4898,Maruti Suzuki,Alto  ,
+950,375000.0,2012,73700,Petrol,Thane,Great Price,,Honda,City  ,1.5
+951,249000.0,2012,72000,Petrol,Thane,Home Test Drive,,Honda,Brio  ,
+952,249000.0,2012,66000,Diesel,Thane,Home Test Drive,,Ford,Figo  ,1.4
+953,875000.0,2014,82539,Petrol,Thane,No Tag,14530,Skoda,Octavia  ,1.8
+954,1095000.0,2019,43442,Diesel,Thane,No Tag,18184,Mahindra,XUV300  ,1.5
+955,1135000.0,2019,36549,Petrol,Thane,No Tag,18848,Honda,City  ,
+956,265000.0,2010,71660,Petrol,Thane,Great Price,,Maruti Suzuki,SX4  ,
+957,485000.0,2011,83728,Diesel,Thane,No Tag,,Hyundai,Verna  ,1.6
+958,645000.0,2016,64959,Petrol,Thane,No Tag,10711,Skoda,Rapid  ,1.6
+959,520000.0,2015,42099,Petrol,Thane,No Tag,8635,Hyundai,Grand i10,1.2
+960,495000.0,2013,52068,Petrol,Thane,No Tag,8220,Hyundai,Verna  ,1.6
+961,355000.0,2011,60472,Petrol,Thane,No Tag,,Volkswagen,Vento  ,
+962,565000.0,2017,40941,Petrol,Thane,No Tag,9382,Maruti Suzuki,Ignis  ,1.2
+963,565000.0,2017,40941,Petrol,Thane,No Tag,9382,Maruti Suzuki,Ignis  ,1.2
+964,315000.0,2016,3483,Petrol,Thane,Great Price,5231,Datsun,GO  ,
+965,475000.0,2018,41407,Petrol,Thane,Home Test Drive,7888,Tata,Tiago  ,
+966,685000.0,2019,30199,Petrol,Thane,Home Test Drive,11375,Maruti Suzuki,Baleno  ,1.2
+967,555000.0,2019,48264,CNG,Thane,Home Test Drive,9216,Maruti Suzuki,Celerio  ,
+968,575000.0,2019,45447,CNG,Thane,Home Test Drive,9548,Maruti Suzuki,Wagon R,1.0
+969,610000.0,2021,43453,CNG,Thane,Home Test Drive,10130,Maruti Suzuki,Wagon R,1.0
+970,785000.0,2018,32889,Diesel,Thane,Home Test Drive,13036,Maruti Suzuki,Swift  ,
+971,865000.0,2017,66187,Diesel,Thane,No Tag,14364,Maruti Suzuki,Vitara Brezza,
+972,585000.0,2020,31191,CNG,Thane,No Tag,9714,Maruti Suzuki,Wagon R,1.0
+973,625000.0,2016,75685,Petrol,Thane,No Tag,10379,Maruti Suzuki,Ciaz  ,
+974,425000.0,2013,90000,Petrol,Thane,Home Test Drive,7057,Maruti Suzuki,Swift  ,
+975,485000.0,2019,65000,Petrol,Thane,Home Test Drive,8054,Maruti Suzuki,Celerio  ,
+976,390000.0,2015,24000,CNG,Thane,No Tag,6476,Maruti Suzuki,Wagon R,1.0
+977,385000.0,2015,70000,CNG,Thane,No Tag,6393,Maruti Suzuki,Wagon R,1.0
+978,299000.0,2013,69240,Petrol,Thane,Home Test Drive,4965,Maruti Suzuki,Wagon R,1.0
+979,375000.0,2014,75000,CNG,Thane,Home Test Drive,6227,Maruti Suzuki,Wagon R,1.0
+980,440000.0,2017,58000,Petrol,Thane,Home Test Drive,7306,Hyundai,Grand i10,1.2
+981,550000.0,2017,74302,Petrol,Thane,Home Test Drive,9133,Hyundai,Elite i20,1.2
+982,765000.0,2021,28000,CNG,Thane,Home Test Drive,12704,Hyundai,Grand i10,1.2
+983,595000.0,2016,41000,Petrol,Thane,Home Test Drive,9880,Maruti Suzuki,Baleno  ,1.2
+984,585000.0,2015,69000,Petrol,Thane,No Tag,9714,Honda,City  ,
+985,825000.0,2017,51000,Diesel,Thane,Home Test Drive,13700,Maruti Suzuki,Vitara Brezza,
+986,465000.0,2014,43000,Petrol,Thane,Home Test Drive,7722,Maruti Suzuki,Swift  ,
+987,1590000.0,2011,94000,Diesel,Bangalore,No Tag,,Mercedes-Benz,E-Class  ,
+988,4395000.0,2019,25024,Petrol,Bangalore,No Tag,72986,BMW,3 Series,
+989,965000.0,2017,17500,Diesel,Bangalore,No Tag,16025,Maruti Suzuki,Ertiga  ,
+990,790000.0,2014,77000,Diesel,Bangalore,No Tag,13119,Hyundai,Elantra  ,1.6
+991,2400000.0,2015,38000,Petrol,Bangalore,Home Test Drive,39856,Mercedes-Benz,GLA  ,
+992,750000.0,2019,33145,Petrol,Bangalore,No Tag,12454,Hyundai,Elite i20,1.2
+993,1775000.0,2013,33000,Diesel,Bangalore,No Tag,29476,BMW,X1  ,
+994,1655000.0,2019,20936,Diesel,Bangalore,No Tag,27484,Tata,Harrier  ,
+995,1799000.0,2018,64921,Petrol,Bangalore,No Tag,29875,Skoda,Octavia  ,1.8
+996,399000.0,2018,24858,Petrol,Bangalore,No Tag,6626,Maruti Suzuki,Alto  ,
+997,449000.0,2016,25369,Petrol,Bangalore,No Tag,7456,Renault,Kwid  ,1.0
+998,1129000.0,2017,56674,Petrol,Bangalore,Just Arrived,18748,Hyundai,Creta  ,1.6
+999,479000.0,2016,57076,Petrol,Bangalore,No Tag,7954,Maruti Suzuki,Celerio  ,
+1000,769000.0,2019,37957,Petrol,Bangalore,No Tag,12770,Hyundai,Elite i20,1.2
+1001,799000.0,2019,61897,Petrol,Bangalore,No Tag,13268,Hyundai,Elite i20,1.2
+1002,1049000.0,2016,62355,Petrol,Bangalore,No Tag,17420,Hyundai,Creta  ,1.6
+1003,3065000.0,2018,36950,Diesel,Bangalore,No Tag,50899,Audi,Q3  ,
+1004,845000.0,2018,21369,Petrol,Bangalore,No Tag,14032,Maruti Suzuki,Baleno  ,
+1005,1099000.0,2021,27766,Petrol,Bangalore,Great Price,18250,Renault,Duster  ,1.3
+1006,2399000.0,2016,97593,Diesel,Bangalore,No Tag,39839,Ford,Endeavour  ,
+1007,598000.0,2015,34279,Petrol,Bangalore,No Tag,9930,Honda,Jazz  ,
+1008,759000.0,2020,50670,Petrol,Bangalore,No Tag,12604,Maruti Suzuki,Swift  ,
+1009,699000.0,2018,22952,Petrol,Bangalore,No Tag,11608,Maruti Suzuki,Swift  ,
+1010,1449000.0,2019,30753,Petrol,Bangalore,No Tag,,Hyundai,Creta  ,1.6
+1011,639000.0,2020,21160,Petrol,Bangalore,No Tag,10611,Maruti Suzuki,Wagon R,1.2
+1012,1949000.0,2017,27327,Diesel,Bangalore,No Tag,32366,Toyota,Innova  ,
+1013,795000.0,2018,39389,Petrol,Bangalore,No Tag,13202,Hyundai,Elite i20,1.2
+1014,829000.0,2020,16157,Petrol,Bangalore,No Tag,13766,Hyundai,i20  ,1.2
+1015,739000.0,2018,46232,Petrol,Bangalore,No Tag,12272,Maruti Suzuki,Dzire  ,
+1016,539000.0,2017,49504,Petrol,Bangalore,No Tag,8951,Maruti Suzuki,Celerio  ,
+1017,699000.0,2017,52620,Petrol,Bangalore,No Tag,11608,Maruti Suzuki,Swift  ,
+1018,1999000.0,2017,69985,Petrol,Bangalore,No Tag,33196,Skoda,Octavia  ,1.8
+1019,699000.0,2017,52620,Petrol,Bangalore,No Tag,11608,Maruti Suzuki,Swift  ,
+1020,529000.0,2020,13138,Petrol,Bangalore,No Tag,8784,Maruti Suzuki,S-Presso  ,
+1021,499000.0,2016,35514,Petrol,Bangalore,No Tag,8286,Tata,Tiago  ,
+1022,999000.0,2018,48168,Petrol,Bangalore,No Tag,16590,Hyundai,Verna  ,1.6
+1023,679000.0,2017,39688,Petrol,Bangalore,No Tag,11275,Maruti Suzuki,Swift  ,
+1024,599000.0,2020,27425,Petrol,Bangalore,No Tag,9947,Maruti Suzuki,Wagon R,1.2
+1025,1099000.0,2021,14302,Petrol,Bangalore,No Tag,18250,Maruti Suzuki,Ertiga  ,
+1026,729000.0,2015,68655,Diesel,Bangalore,No Tag,12106,Maruti Suzuki,S-Cross  ,1.3
+1027,1099000.0,2022,5822,Petrol,Bangalore,Just Arrived,18250,Toyota,Urban Cruiser,
+1028,579000.0,2022,895,Petrol,Bangalore,Just Arrived,9615,Maruti Suzuki,S-Presso  ,
+1029,599000.0,2016,13161,Petrol,Bangalore,No Tag,,Hyundai,Grand i10,1.2
+1030,1749000.0,2019,31987,Petrol,Bangalore,No Tag,29045,MG,Hector  ,1.5
+1031,999000.0,2020,34108,Petrol,Bangalore,No Tag,,Maruti Suzuki,Vitara Brezza,
+1032,749000.0,2017,60728,Petrol,Bangalore,No Tag,,Renault,Duster  ,
+1033,799000.0,2017,48627,Petrol,Bangalore,No Tag,,Renault,Duster  ,
+1034,579000.0,2015,39225,Petrol,Bangalore,No Tag,9615,Honda,Jazz  ,
+1035,999000.0,2019,17869,Petrol,Bangalore,No Tag,16590,Renault,Duster  ,
+1036,425000.0,2018,22545,Petrol,Bangalore,No Tag,7057,Renault,Kwid  ,1.0
+1037,519000.0,2015,44406,Petrol,Bangalore,No Tag,8618,Hyundai,Grand i10,1.2
+1038,1149000.0,2020,13032,Petrol,Bangalore,No Tag,19081,Kia,Sonet  ,1.0
+1039,569000.0,2018,40679,Petrol,Bangalore,No Tag,9449,Tata,Tiago  ,
+1040,849000.0,2020,4714,Petrol,Bangalore,No Tag,14099,Hyundai,Elite i20,1.2
+1041,1049000.0,2020,35699,Petrol,Bangalore,No Tag,17420,Tata,Nexon  ,
+1042,799000.0,2016,53407,Petrol,Bangalore,Just Arrived,13268,Hyundai,Verna  ,1.6
+1043,999000.0,2018,53598,Diesel,Bangalore,Just Arrived,16590,Ford,EcoSport  ,1.5
+1044,519000.0,2015,44406,Petrol,Bangalore,No Tag,8618,Hyundai,Grand i10,1.2
+1045,1849000.0,2016,71410,Diesel,Bangalore,No Tag,30705,Toyota,Innova  ,
+1046,1199000.0,2020,36330,Petrol,Bangalore,No Tag,19911,Kia,Seltos  ,1.5
+1047,1049000.0,2020,35699,Petrol,Bangalore,No Tag,17420,Tata,Nexon  ,
+1048,579000.0,2016,39825,Petrol,Bangalore,No Tag,9615,Hyundai,Grand i10,1.2
+1049,1599000.0,2021,17753,Petrol,Bangalore,No Tag,26554,Volkswagen,Taigun  ,1.0
+1050,999000.0,2018,49469,Diesel,Bangalore,No Tag,16590,Mahindra,Marazzo  ,
+1051,679000.0,2020,17817,Petrol,Bangalore,No Tag,11275,Tata,Tiago  ,
+1052,449000.0,2013,24396,Petrol,Bangalore,No Tag,7456,Hyundai,Grand i10,1.2
+1053,699000.0,2020,16187,Petrol,Bangalore,No Tag,11608,Maruti Suzuki,Swift  ,
+1054,549000.0,2019,50748,Petrol,Bangalore,No Tag,9117,Maruti Suzuki,Wagon R,1.2
+1055,599000.0,2014,45996,Petrol,Bangalore,No Tag,9947,Hyundai,i20  ,1.2
+1056,589000.0,2018,32426,Petrol,Bangalore,No Tag,9781,Tata,Tiago  ,
+1057,1069000.0,2020,51617,Petrol,Bangalore,Home Test Drive,17752,Maruti Suzuki,XL6  ,
+1058,565000.0,2013,37000,Petrol,Bangalore,No Tag,9382,Volkswagen,Polo  ,1.2
+1059,539000.0,2016,28400,Petrol,Bangalore,No Tag,8951,Maruti Suzuki,Celerio  ,
+1060,5695000.0,2022,9113,Petrol,Bangalore,No Tag,94575,Mercedes-Benz,AMG  ,
+1061,2785000.0,2017,72630,Diesel,Bangalore,No Tag,46249,Audi,A4  ,
+1062,2399000.0,2014,24321,Diesel,Bangalore,No Tag,39839,Audi,A6  ,2.0
+1063,2285000.0,2012,44724,Petrol,Bangalore,No Tag,,Mercedes-Benz,R-Class  ,
+1064,3775000.0,2018,9090,Diesel,Bangalore,No Tag,62690,Jaguar,XE  ,
+1065,2878000.0,2016,31283,Diesel,Bangalore,No Tag,47794,Mercedes-Benz,C-Class  ,
+1066,565000.0,2013,37000,Petrol,Bangalore,No Tag,9382,Volkswagen,Polo  ,1.2
+1067,539000.0,2016,28400,Petrol,Bangalore,No Tag,8951,Maruti Suzuki,Celerio  ,
+1068,2785000.0,2017,72630,Diesel,Bangalore,No Tag,46249,Audi,A4  ,
+1069,385000.0,2012,63251,Diesel,Bangalore,No Tag,,Renault,Pulse  ,
+1070,5695000.0,2022,9113,Petrol,Bangalore,No Tag,94575,Mercedes-Benz,AMG  ,
+1071,1099000.0,2019,85500,Diesel,Bangalore,Just Arrived,18250,Hyundai,Venue  ,1.4
+1072,659000.0,2017,51400,Petrol,Bangalore,Just Arrived,10943,Maruti Suzuki,Swift  ,
+1073,349000.0,2013,20200,Petrol,Bangalore,Just Arrived,5795,Ford,Figo  ,1.2
+1074,365000.0,2012,65612,Petrol,Bangalore,No Tag,,Honda,Brio  ,
+1075,795000.0,2020,21800,Petrol,Bangalore,No Tag,13202,Maruti Suzuki,Swift  ,
+1076,549000.0,2018,18642,Petrol,Bangalore,Just Arrived,9117,Maruti Suzuki,Ignis  ,1.2
+1077,5000000.0,2018,39000,Diesel,Bangalore,Home Test Drive,83033,BMW,6 Series,
+1078,2575000.0,2016,62702,Diesel,Bangalore,Great Price,42762,Mercedes-Benz,E-Class  ,
+1079,3775000.0,2018,9090,Diesel,Bangalore,No Tag,62690,Jaguar,XE  ,
+1080,2878000.0,2016,31283,Diesel,Bangalore,No Tag,47794,Mercedes-Benz,C-Class  ,
+1081,479000.0,2015,60300,Petrol,Bangalore,No Tag,7954,Hyundai,Grand i10,1.2
+1082,975000.0,2018,90000,Diesel,Bangalore,Home Test Drive,16191,Ford,EcoSport  ,1.5
+1083,295000.0,2010,82287,Petrol,Bangalore,Great Price,,Maruti Suzuki,SX4  ,
+1084,2050000.0,2020,19000,Petrol,Bangalore,Home Test Drive,34043,MG,Hector  ,1.5
+1085,1775000.0,2014,91284,Diesel,Bangalore,No Tag,29476,Toyota,Fortuner  ,
+1086,3055000.0,2019,33394,Diesel,Bangalore,No Tag,50733,Audi,A3  ,
+1087,4975000.0,2018,59362,Diesel,Bangalore,No Tag,82618,Audi,Q5  ,
+1088,18500000.0,2018,66000,Diesel,Bangalore,No Tag,3.07 L,Lexus,LX  ,
+1089,7200000.0,2021,15000,Petrol,Bangalore,No Tag,1.2 L,Land,Rover  ,
+1090,1695000.0,2019,47082,Diesel,Bangalore,No Tag,28148,Tata,Harrier  ,
+1091,1049000.0,2021,4400,Petrol,Bangalore,No Tag,17420,Hyundai,i20  ,1.2
+1092,3300000.0,2014,123000,Diesel,Bangalore,Home Test Drive,54802,BMW,X5  ,
+1093,6900000.0,2018,37000,Diesel,Bangalore,Home Test Drive,1.15 L,Volvo,XC90  ,
+1094,3225000.0,2018,41217,Petrol,Bangalore,No Tag,53556,Skoda,Octavia  ,
+1095,679000.0,2017,54061,Petrol,Bangalore,No Tag,11275,Maruti Suzuki,Baleno  ,1.2
+1096,1125000.0,2018,48140,Petrol,Bangalore,No Tag,18682,Honda,City  ,
+1097,1375000.0,2015,51736,Petrol,Bangalore,No Tag,22834,Skoda,Octavia  ,1.8
+1098,18500000.0,2018,66000,Diesel,Bangalore,No Tag,3.07 L,Lexus,LX  ,
+1099,7200000.0,2021,15000,Petrol,Bangalore,No Tag,1.2 L,Land,Rover  ,
+1100,3055000.0,2019,33394,Diesel,Bangalore,No Tag,50733,Audi,A3  ,
+1101,1475000.0,2018,76000,Diesel,Bangalore,No Tag,24494,Hyundai,Creta  ,1.6
+1102,1790000.0,2018,37000,Diesel,Bangalore,No Tag,29725,Mahindra,XUV500  ,
+1103,4195000.0,2019,26000,Diesel,Bangalore,No Tag,69665,BMW,3 Series,
+1104,1075000.0,2018,80000,Diesel,Bangalore,Home Test Drive,17852,Hyundai,Verna  ,1.6
+1105,1550000.0,2014,135000,Diesel,Bangalore,Home Test Drive,25740,Toyota,Innova  ,
+1106,4500000.0,2018,42000,Diesel,Bangalore,Home Test Drive,74730,Jaguar,F-Pace  ,
+1107,4600000.0,2018,29000,Diesel,Bangalore,Home Test Drive,76390,BMW,5 Series,
+1108,529000.0,2017,72900,Petrol,Bangalore,Just Arrived,8784,Ford,Aspire  ,1.2
+1109,5800000.0,2020,29000,Diesel,Bangalore,Home Test Drive,96318,Land,Rover  ,
+1110,3399000.0,2020,13219,Diesel,Bangalore,Just Arrived,56446,Kia,Carnival  ,
+1111,735000.0,2013,96349,Petrol,Bangalore,No Tag,12205,Honda,Accord  ,
+1112,8800000.0,2014,150000,Diesel,Bangalore,Home Test Drive,1.46 L,Toyota,Land  ,
+1113,4500000.0,2018,26074,Diesel,Bangalore,No Tag,74730,Mercedes-Benz,GLC  ,
+1114,4500000.0,2018,26074,Diesel,Bangalore,No Tag,74730,Mercedes-Benz,GLC  ,
+1115,495000.0,2015,63000,Diesel,Bangalore,No Tag,8220,Ford,Figo  ,1.5
+1116,1125000.0,2020,26000,Petrol,Bangalore,No Tag,18682,Volkswagen,Polo  ,
+1117,795000.0,2020,33386,Petrol,Bangalore,No Tag,13202,Maruti Suzuki,Dzire  ,
+1118,3749000.0,2015,64711,Diesel,Bangalore,No Tag,62258,Land,Rover  ,
+1119,4995000.0,2019,17878,Petrol,Bangalore,No Tag,82950,Mercedes-Benz,GLC  ,
+1120,3495000.0,2019,27635,Diesel,Bangalore,No Tag,58040,Ford,Endeavour  ,
+1121,3775000.0,2019,28256,Petrol,Bangalore,No Tag,62690,Jaguar,XE  ,
+1122,1169000.0,2019,51119,Diesel,Bangalore,No Tag,19413,Mahindra,XUV300  ,1.5
+1123,3499000.0,2017,19800,Diesel,Bangalore,No Tag,58106,Mercedes-Benz,C-Class  ,
+1124,4199000.0,2020,13999,Diesel,Bangalore,No Tag,69731,BMW,X1  ,
+1125,639000.0,2017,41800,Petrol,Bangalore,No Tag,10611,Maruti Suzuki,Swift  ,
+1126,8600000.0,2020,13000,Petrol,Bangalore,Home Test Drive,1.43 L,BMW,X5  ,
+1127,10500000.0,2021,24300,Diesel,Bangalore,No Tag,1.74 L,BMW,X5  ,
+1128,5100000.0,2019,37000,Diesel,Bangalore,Home Test Drive,84694,Land,Rover  ,
+1129,1299000.0,2018,59999,Petrol,Bangalore,Great Price,21572,Hyundai,Elantra  ,2.0
+1130,3100000.0,2018,56307,Diesel,Bangalore,No Tag,51480,BMW,X1  ,
+1131,2995000.0,2016,62410,Diesel,Bangalore,No Tag,49737,Audi,A6  ,
+1132,939000.0,2018,38200,Petrol,Bangalore,Just Arrived,15593,Hyundai,Verna  ,1.6
+1133,729000.0,2022,8990,Petrol,Bangalore,Just Arrived,12106,Maruti Suzuki,Swift  ,
+1134,1995000.0,2021,7358,Petrol,Bangalore,Newly Launched,33130,Kia,Seltos  ,1.4
+1135,2475000.0,2016,70000,Diesel,Bangalore,Home Test Drive,41101,Audi,A4  ,
+1136,4550000.0,2019,50000,Diesel,Bangalore,Home Test Drive,75560,Mercedes-Benz,GLC  ,
+1137,3975000.0,2020,40000,Diesel,Bangalore,Home Test Drive,66011,Ford,Endeavour  ,2.0
+1138,2995000.0,2016,62410,Diesel,Bangalore,No Tag,49737,Audi,A6  ,
+1139,939000.0,2018,38200,Petrol,Bangalore,Just Arrived,15593,Hyundai,Verna  ,1.6
+1140,729000.0,2022,8990,Petrol,Bangalore,Just Arrived,12106,Maruti Suzuki,Swift  ,
+1141,3650000.0,2017,79000,Diesel,Bangalore,Home Test Drive,60614,BMW,3 Series,
+1142,825000.0,2016,42071,Diesel,Bangalore,No Tag,13700,Ford,EcoSport  ,1.5
+1143,2850000.0,2020,28000,Diesel,Bangalore,Home Test Drive,,Toyota,Innova  ,
+1144,1195000.0,2021,10530,Petrol,Bangalore,No Tag,19844,Hyundai,i20  ,1.0
+1145,375000.0,2014,81122,Petrol,Bangalore,No Tag,6227,Honda,Brio  ,
+1146,975000.0,2018,87000,Diesel,Bangalore,Home Test Drive,16191,Maruti Suzuki,Vitara Brezza,
+1147,519000.0,2015,47238,Petrol,Bangalore,No Tag,8618,Hyundai,Grand i10,1.2
+1148,5295000.0,2018,25259,Diesel,Bangalore,No Tag,87932,Land,Rover  ,
+1149,2350000.0,2019,149000,Diesel,Bangalore,No Tag,,Toyota,Innova  ,
+1150,2575000.0,2016,69737,Diesel,Bangalore,No Tag,42762,BMW,X1  ,
+1151,1695000.0,2017,67970,Diesel,Bangalore,No Tag,28148,Isuzu,D-Max  ,
+1152,569000.0,2018,28300,Petrol,Bangalore,No Tag,9449,Maruti Suzuki,Celerio  ,
+1153,869000.0,2020,57166,Petrol,Bangalore,No Tag,14431,Volkswagen,Polo  ,1.0
+1154,775000.0,2019,19418,Petrol,Bangalore,No Tag,12870,Hyundai,Elite i20,1.2
+1155,1400000.0,2018,5000,Diesel,Bangalore,Home Test Drive,23249,Mahindra,Marazzo  ,
+1156,6995000.0,2018,37648,Diesel,Bangalore,No Tag,1.16 L,Audi,Q7  ,
+1157,1025000.0,2019,111000,Diesel,Bangalore,No Tag,17021,Skoda,Rapid  ,1.6
+1158,775000.0,2020,41300,Petrol,Bangalore,No Tag,12870,Tata,Altroz  ,
+1159,1250000.0,2011,139000,Diesel,Bangalore,Home Test Drive,,Toyota,Fortuner  ,
+1160,690000.0,2016,113000,Diesel,Bangalore,Home Test Drive,11458,Mahindra,TUV300  ,
+1161,575000.0,2012,98000,Diesel,Bangalore,Home Test Drive,,Hyundai,Verna  ,1.6
+1162,690000.0,2016,113000,Diesel,Bangalore,Home Test Drive,11458,Mahindra,TUV300  ,
+1163,450000.0,2011,103000,Petrol,Bangalore,No Tag,,Honda,Civic  ,1.8
+1164,700000.0,2015,82000,Petrol,Bangalore,Home Test Drive,11624,Hyundai,Verna  ,1.6
+1165,1195000.0,2020,21986,Petrol,Bangalore,No Tag,19844,Maruti Suzuki,Vitara Brezza,
+1166,775000.0,2015,94931,Diesel,Bangalore,No Tag,12870,Renault,Duster  ,
+1167,925000.0,2017,58019,Petrol,Bangalore,Great Price,15361,Honda,City  ,
+1168,2199000.0,2021,23500,Electric,Bangalore,No Tag,36518,MG,ZS  ,
+1169,1045000.0,2013,27000,Petrol,Bangalore,Home Test Drive,17353,Hyundai,Sonata  ,
+1170,1850000.0,2016,38000,Diesel,Bangalore,Home Test Drive,30722,Toyota,Innova  ,
+1171,3595000.0,2019,29221,Diesel,Bangalore,No Tag,59701,BMW,X1  ,
+1172,5150000.0,2016,27000,Diesel,Bangalore,Home Test Drive,85524,Audi,A8  ,
+1173,1099000.0,2018,45999,Petrol,Bangalore,No Tag,18250,Hyundai,Creta  ,1.6
+1174,1125000.0,2016,56877,Diesel,Bangalore,No Tag,18682,Mahindra,XUV500  ,
+1175,1750000.0,2021,5438,Petrol,Bangalore,No Tag,29061,Mahindra,Thar  ,
+1176,1925000.0,2021,23402,Petrol,Bangalore,No Tag,31967,Skoda,Kushaq  ,1.5
+1177,699000.0,2015,50900,Diesel,Bangalore,No Tag,11608,Hyundai,i20  ,1.4
+1178,729000.0,2018,23400,Petrol,Bangalore,No Tag,12106,Volkswagen,Polo  ,1.0
+1179,1695000.0,2021,23000,Diesel,Bangalore,No Tag,28148,Mahindra,Thar  ,
+1180,1075000.0,2019,30672,Petrol,Bangalore,No Tag,17852,Maruti Suzuki,Ciaz  ,1.5
+1181,910000.0,2021,16000,Petrol,Bangalore,Home Test Drive,15112,Hyundai,Venue  ,1.2
+1182,4175000.0,2019,21000,Diesel,Bangalore,Home Test Drive,69332,Mercedes-Benz,C-Class  ,
+1183,675000.0,2007,115000,Diesel,Bangalore,Home Test Drive,,Toyota,Innova  ,
+1184,3050000.0,2017,28000,Diesel,Bangalore,Home Test Drive,50650,Audi,A4  ,
+1185,3375000.0,2020,49000,Diesel,Bangalore,Home Test Drive,56047,Kia,Carnival  ,
+1186,1725000.0,2020,22000,Diesel,Bangalore,Home Test Drive,28646,Mahindra,Thar  ,
+1187,1349000.0,2019,27200,Petrol,Bangalore,No Tag,22402,Hyundai,Creta  ,1.6
+1188,629000.0,2014,29856,Petrol,Bangalore,No Tag,10445,Hyundai,Verna  ,1.6
+1189,1585000.0,2020,6832,Petrol,Bangalore,No Tag,26321,Kia,Seltos  ,1.5
+1190,999000.0,2019,5694,Petrol,Bangalore,Great Price,16590,Volkswagen,Vento  ,1.2
+1191,685000.0,2014,48330,Diesel,Bangalore,No Tag,11375,Renault,Duster  ,
+1192,1250000.0,2019,37026,Petrol,Bangalore,No Tag,20758,Hyundai,Creta  ,1.6
+1193,1099000.0,2019,25320,Petrol,Bangalore,No Tag,18250,Mahindra,XUV300  ,1.2
+1194,299000.0,2013,63707,Petrol,Bangalore,Great Price,4965,Hyundai,Eon  ,
+1195,2499000.0,2016,22602,Diesel,Bangalore,Just Arrived,41500,Mercedes-Benz,GLA  ,
+1196,579000.0,2017,25501,Petrol,Bangalore,Just Arrived,9615,Volkswagen,Polo  ,1.2
+1197,1429000.0,2020,28400,Electric,Bangalore,Just Arrived,23730,Tata,Nexon  ,
+1198,529000.0,2016,40962,Petrol,Bangalore,No Tag,8784,Maruti Suzuki,Celerio  ,
+1199,1450000.0,2013,83000,Diesel,Bangalore,Home Test Drive,24079,Audi,A4  ,2.0
+1200,539000.0,2018,57847,Petrol,Bangalore,No Tag,8951,Hyundai,Grand i10,1.2
+1201,1695000.0,2010,65000,Diesel,Bangalore,No Tag,,BMW,5 Series,
+1202,2250000.0,2015,62366,Diesel,Bangalore,No Tag,37365,Audi,A6  ,2.0
+1203,4599000.0,2021,15681,Petrol,Bangalore,No Tag,76374,MINI,Cooper  ,
+1204,5149000.0,2017,44987,Diesel,Bangalore,No Tag,85507,Land,Rover  ,
+1205,3100000.0,2013,76000,Diesel,Bangalore,Home Test Drive,51480,Porsche,Cayenne  ,
+1206,899000.0,2016,35208,Diesel,Bangalore,No Tag,14929,Renault,Duster  ,
+1207,1549000.0,2018,44600,Petrol,Bangalore,No Tag,25723,Skoda,Octavia  ,1.4
+1208,929000.0,2018,35537,Diesel,Bangalore,No Tag,15427,Maruti Suzuki,S-Cross  ,1.3
+1209,565000.0,2012,86593,Petrol,Bangalore,No Tag,,Honda,City  ,1.5
+1210,2299000.0,2016,36627,Diesel,Bangalore,No Tag,38178,Audi,A3  ,
+1211,849000.0,2019,44512,Diesel,Bangalore,No Tag,14099,Tata,Nexon  ,
+1212,699000.0,2015,57372,Petrol,Bangalore,No Tag,11608,Honda,City  ,
+1213,4200000.0,2018,26000,Diesel,Bangalore,Home Test Drive,69748,Volvo,S90  ,
+1214,5475000.0,2018,11380,Petrol,Bangalore,Just Arrived,90921,Lexus,NX  ,
+1215,3900000.0,2015,23000,Petrol,Bangalore,Home Test Drive,64766,Mercedes-Benz,GLA  ,
+1216,295000.0,2009,60669,Petrol,Bangalore,Great Price,,Maruti Suzuki,SX4  ,
+1217,4000000.0,2020,70000,Diesel,Bangalore,Home Test Drive,66426,Toyota,Fortuner  ,
+1218,1649000.0,2020,35200,Petrol,Bangalore,No Tag,27384,MG,Hector  ,1.5
+1219,1375000.0,2016,75811,Diesel,Bangalore,No Tag,22834,Mahindra,XUV500  ,
+1220,1049000.0,2015,43560,Diesel,Bangalore,No Tag,17420,Mahindra,XUV500  ,
+1221,639000.0,2017,37012,Petrol,Bangalore,No Tag,10611,Maruti Suzuki,Swift  ,
+1222,3649000.0,2019,39800,Diesel,Bangalore,No Tag,60597,Ford,Endeavour  ,
+1223,1750000.0,2021,16000,Petrol,Bangalore,No Tag,29061,Mahindra,Thar  ,
+1224,749000.0,2016,46725,Diesel,Bangalore,No Tag,12438,Mahindra,TUV300  ,
+1225,1699000.0,2020,14627,Petrol,Bangalore,No Tag,28214,MG,Hector  ,1.5
+1226,649000.0,2017,39858,Petrol,Bangalore,No Tag,10777,Honda,Jazz  ,
+1227,849000.0,2015,26762,Petrol,Bangalore,No Tag,14099,Fiat,Abarth  ,1.4
+1228,349000.0,2017,44031,Electric,Bangalore,Great Price,,Mahindra,e2o  ,
+1229,1129000.0,2021,16421,Petrol,Bangalore,No Tag,18748,Maruti Suzuki,S-Cross  ,
+1230,615000.0,2016,24245,Petrol,Bangalore,No Tag,10213,Hyundai,Grand i10,1.2
+1231,325000.0,2009,71861,Petrol,Bangalore,No Tag,,Maruti Suzuki,Swift  ,
+1232,10000000.0,2022,7000,Mild Hybrid(Electric + Petrol),Bangalore,Home Test Drive,1.66 L,Volvo,XC90  ,
+1233,2799000.0,2017,30489,Diesel,Bangalore,No Tag,46482,BMW,X1  ,
+1234,1000000.0,2016,85000,Diesel,Hyderabad,No Tag,16606,Hyundai,Creta  ,1.6
+1235,600000.0,2011,137849,Diesel,Hyderabad,No Tag,,Skoda,Yeti  ,
+1236,430000.0,2019,58006,Petrol,Hyderabad,No Tag,7140,Maruti Suzuki,Alto  ,
+1237,500000.0,2011,67158,Diesel,Hyderabad,Home Test Drive,,Tata,Safari  ,
+1238,5900000.0,2019,25000,Diesel,Hyderabad,No Tag,,BMW,X3  ,
+1239,700000.0,2013,89989,Diesel,Hyderabad,No Tag,11624,Hyundai,Verna  ,1.6
+1240,4600000.0,2014,17000,Petrol,Hyderabad,No Tag,,BMW,Z4  ,
+1241,700000.0,2015,46852,Diesel,Hyderabad,No Tag,11624,Skoda,Rapid  ,1.5
+1242,1000000.0,2019,66662,Diesel,Hyderabad,Home Test Drive,16606,Maruti Suzuki,S-Cross  ,1.3
+1243,575000.0,2015,19742,Petrol,Hyderabad,Home Test Drive,9548,Nissan,Micra  ,
+1244,925000.0,2019,61126,Diesel,Hyderabad,Home Test Drive,15361,Skoda,Rapid  ,1.6
+1245,1700000.0,2019,51757,Diesel,Hyderabad,Home Test Drive,28231,Tata,Harrier  ,
+1246,2100000.0,2016,73337,Diesel,Hyderabad,No Tag,34874,Toyota,Innova  ,
+1247,2100000.0,2020,39741,Petrol,Hyderabad,No Tag,34874,Volkswagen,T-Roc  ,1.5
+1248,1450000.0,2016,61625,Diesel,Hyderabad,No Tag,24079,Mahindra,XUV500  ,
+1249,2000000.0,2014,69446,Petrol,Hyderabad,No Tag,33213,MINI,Cooper  ,
+1250,1850000.0,2021,52370,Diesel,Hyderabad,No Tag,30722,Kia,Seltos  ,1.5
+1251,525000.0,2013,85285,Diesel,Hyderabad,No Tag,8718,Maruti Suzuki,Swift  ,
+1252,1900000.0,2017,66962,Diesel,Hyderabad,Great Price,,Volvo,V40  ,
+1253,3300000.0,2018,37161,Diesel,Hyderabad,No Tag,54802,Audi,Q3  ,
+1254,2100000.0,2018,23160,Petrol,Hyderabad,No Tag,34874,Skoda,Octavia  ,1.8
+1255,900000.0,2018,56640,Diesel,Hyderabad,No Tag,14946,Honda,Amaze  ,1.5
+1256,770000.0,2018,67405,Petrol,Hyderabad,Home Test Drive,12787,Hyundai,Elite i20,1.2
+1257,2100000.0,2013,81469,Diesel,Hyderabad,No Tag,34874,BMW,X3  ,
+1258,650000.0,2013,80470,Diesel,Hyderabad,No Tag,10794,Hyundai,Verna  ,1.6
+1259,775000.0,2017,52942,Diesel,Hyderabad,No Tag,12870,Maruti Suzuki,S-Cross  ,1.3
+1260,1600000.0,2021,72346,Diesel,Hyderabad,Home Test Drive,26570,Hyundai,Creta  ,1.5
+1261,580000.0,2017,104817,Diesel,Hyderabad,No Tag,9631,Maruti Suzuki,Swift  ,
+1262,1800000.0,2021,37407,Diesel,Hyderabad,No Tag,,Mahindra,Thar  ,
+1263,2150000.0,2019,97638,Diesel,Hyderabad,Great Price,35704,Isuzu,MU-X  ,
+1264,1080000.0,2016,74531,Diesel,Hyderabad,No Tag,17935,Hyundai,Creta  ,1.4
+1265,1200000.0,2020,12312,Petrol,Hyderabad,No Tag,19928,Honda,City  ,
+1266,1200000.0,2020,12312,Petrol,Hyderabad,No Tag,19928,Honda,City  ,
+1267,800000.0,2018,100000,Diesel,Hyderabad,No Tag,13285,Honda,Jazz  ,
+1268,1550000.0,2016,88349,Diesel,Hyderabad,No Tag,25740,Mitsubishi,Pajero  ,
+1269,7000000.0,2008,19506,Petrol,Hyderabad,Great Price,,Bentley,Continental  ,
+1270,4500000.0,2018,88496,Diesel,Hyderabad,No Tag,74730,Mercedes-Benz,E-Class  ,
+1271,1400000.0,2014,117192,Petrol,Hyderabad,No Tag,23249,Honda,CR-V  ,
+1272,1400000.0,2014,109295,Diesel,Hyderabad,No Tag,23249,Hyundai,Santa  ,
+1273,2600000.0,2016,82807,Diesel,Hyderabad,No Tag,43177,Volvo,XC60  ,
+1274,1650000.0,2016,78660,Petrol,Hyderabad,Great Price,,Skoda,Superb  ,
+1275,4600000.0,2019,53841,Diesel,Hyderabad,No Tag,76390,Mercedes-Benz,C-Class  ,
+1276,4100000.0,2016,69499,Diesel,Hyderabad,Home Test Drive,68087,BMW,X3  ,
+1277,3400000.0,2022,5236,Diesel,Hyderabad,No Tag,,Jeep,Compass Model,
+1278,870000.0,2021,12034,Petrol,Hyderabad,No Tag,14447,Hyundai,Elite i20,1.2
+1279,990000.0,2022,2928,Petrol,Hyderabad,Home Test Drive,16440,Maruti Suzuki,Baleno  ,1.2
+1280,850000.0,2018,37983,Petrol,Hyderabad,Home Test Drive,14115,Volkswagen,Polo  ,
+1281,480000.0,2015,73070,Petrol,Hyderabad,Great Price,7971,Honda,Jazz  ,
+1282,320000.0,2018,44713,Petrol,Hyderabad,No Tag,5314,Maruti Suzuki,Alto  ,
+1283,735000.0,2018,111500,Diesel,Hyderabad,No Tag,12205,Maruti Suzuki,Swift  ,
+1284,779000.0,2018,20504,Petrol,Hyderabad,No Tag,12936,Renault,Duster  ,
+1285,1250000.0,2020,31546,Petrol,Hyderabad,No Tag,20758,Nissan,Kicks  ,1.3
+1286,949000.0,2020,26682,Petrol,Hyderabad,No Tag,15759,Ford,EcoSport  ,1.5
+1287,750000.0,2017,45108,Petrol,Hyderabad,No Tag,12455,Maruti Suzuki,Baleno  ,1.0
+1288,895000.0,2020,35046,Diesel,Hyderabad,No Tag,14862,Maruti Suzuki,Swift  ,
+1289,925000.0,2019,52965,Petrol,Hyderabad,No Tag,15361,Volkswagen,Polo  ,
+1290,790000.0,2020,38129,Petrol,Hyderabad,Home Test Drive,13119,Maruti Suzuki,Baleno  ,1.2
+1291,750000.0,2019,69639,Diesel,Hyderabad,Home Test Drive,12455,Maruti Suzuki,Swift  ,
+1292,950000.0,2018,48441,Diesel,Hyderabad,Home Test Drive,15776,Maruti Suzuki,S-Cross  ,1.3
+1293,760000.0,2018,87357,Diesel,Hyderabad,Home Test Drive,12621,Maruti Suzuki,Swift  ,
+1294,1225000.0,2018,18199,Petrol,Hyderabad,Home Test Drive,20343,Hyundai,Creta  ,1.6
+1295,1275000.0,2018,69472,Petrol,Hyderabad,Home Test Drive,21173,Hyundai,Creta  ,1.6
+1296,580000.0,2016,38073,Diesel,Hyderabad,Home Test Drive,9631,Hyundai,Grand i10,
+1297,920000.0,2018,100281,Diesel,Hyderabad,Home Test Drive,15278,Honda,WR-V  ,
+1298,650000.0,2015,92016,Diesel,Hyderabad,No Tag,10794,Hyundai,Elite i20,1.4
+1299,2090000.0,2018,84555,Diesel,Hyderabad,No Tag,34707,Toyota,Innova  ,
+1300,939000.0,2020,24344,Diesel,Hyderabad,No Tag,15593,Ford,EcoSport  ,1.5
+1301,1850000.0,2022,2476,Petrol,Hyderabad,No Tag,30722,Volkswagen,Taigun  ,1.0
+1302,560000.0,2015,76042,Diesel,Hyderabad,No Tag,9299,Honda,Amaze  ,1.5
+1303,990000.0,2018,98821,Diesel,Hyderabad,Home Test Drive,16440,Maruti Suzuki,Vitara Brezza,
+1304,475000.0,2015,24800,Petrol,Hyderabad,Home Test Drive,7888,Maruti Suzuki,Celerio  ,
+1305,920000.0,2020,39145,Petrol,Hyderabad,No Tag,15278,Hyundai,Elite i20,1.2
+1306,790000.0,2018,43879,Petrol,Hyderabad,Home Test Drive,13119,Hyundai,Elite i20,1.2
+1307,1250000.0,2019,33816,Petrol,Hyderabad,No Tag,20758,Hyundai,Creta  ,1.6
+1308,799000.0,2020,35865,Petrol,Hyderabad,No Tag,13268,Hyundai,Elite i20,1.2
+1309,1995000.0,2017,35794,Diesel,Hyderabad,No Tag,33130,Skoda,Octavia  ,2.0
+1310,2150000.0,2022,6300,Petrol,Hyderabad,Home Test Drive,35704,MG,Hector  ,1.5
+1311,765000.0,2020,41400,Petrol,Hyderabad,No Tag,12704,Maruti Suzuki,Baleno  ,1.2
+1312,595000.0,2012,76500,Diesel,Hyderabad,No Tag,,Hyundai,Elantra  ,1.6
+1313,3900000.0,2020,22000,Diesel,Hyderabad,No Tag,64766,MG,Gloster  ,2.0
+1314,3400000.0,2016,76200,Diesel,Hyderabad,Just Arrived,56462,Land,Rover  ,
+1315,1600000.0,2014,95000,Diesel,Hyderabad,Just Arrived,26570,Audi,A3  ,
+1316,1600000.0,2013,155291,Diesel,Hyderabad,No Tag,26570,Toyota,Fortuner  ,
+1317,3500000.0,2021,27000,Diesel,Hyderabad,No Tag,58123,Citroen,C5  ,
+1318,3895000.0,2021,34000,Diesel,Hyderabad,No Tag,64683,Ford,Endeavour  ,2.0
+1319,1450000.0,2013,86830,Diesel,Hyderabad,No Tag,24079,Audi,A4  ,2.0
+1320,1600000.0,2020,36268,Petrol,Hyderabad,Great Price,26570,MG,Hector  ,1.5
+1321,920000.0,2018,111133,Diesel,Hyderabad,Home Test Drive,15278,Maruti Suzuki,Vitara Brezza,
+1322,5300000.0,2022,25000,Diesel,Hyderabad,No Tag,88015,Toyota,Fortuner  ,
+1323,1300000.0,2018,95150,Diesel,Hyderabad,Great Price,21588,Jeep,Compass Longitude,2.0
+1324,700000.0,2017,50000,Petrol,Hyderabad,Just Arrived,11624,Maruti Suzuki,Swift  ,
+1325,3600000.0,2014,64500,Diesel,Hyderabad,No Tag,59784,BMW,X5  ,
+1326,360000.0,2011,85314,Diesel,Hyderabad,No Tag,,Maruti Suzuki,Swift  ,
+1327,2500000.0,2015,62645,Diesel,Hyderabad,No Tag,41516,Jaguar,XF  ,
+1328,400000.0,2019,23468,Petrol,Hyderabad,Home Test Drive,6642,Maruti Suzuki,Omni  ,
+1329,250000.0,2008,43278,Petrol,Hyderabad,Home Test Drive,,Hyundai,i10  ,
+1330,590000.0,2017,82366,Diesel,Hyderabad,Home Test Drive,9797,Maruti Suzuki,Swift  ,
+1331,290000.0,2011,61555,Diesel,Hyderabad,Home Test Drive,,Ford,Figo  ,1.4
+1332,1550000.0,2021,11500,Petrol,Hyderabad,Great Price,25740,Mahindra,Thar  ,
+1333,625000.0,2019,43481,Petrol,Hyderabad,Just Arrived,10379,Hyundai,Xcent  ,1.2
+1334,1775000.0,2020,89300,Diesel,Hyderabad,No Tag,29476,Kia,Seltos  ,1.5
+1335,1395000.0,2013,120000,Diesel,Hyderabad,No Tag,23166,Mercedes-Benz,C-Class  ,
+1336,345000.0,2013,73380,LPG,Hyderabad,Home Test Drive,5729,Hyundai,i10  ,
+1337,620000.0,2015,95240,Diesel,Hyderabad,Home Test Drive,10296,Ford,EcoSport  ,1.5
+1338,3095000.0,2018,177734,Diesel,Hyderabad,No Tag,51397,Toyota,Fortuner  ,
+1339,470000.0,2017,125139,Diesel,Hyderabad,Home Test Drive,7805,Hyundai,Xcent  ,
+1340,1050000.0,2013,72150,Diesel,Hyderabad,No Tag,17437,Skoda,Octavia  ,2.0
+1341,3700000.0,2013,68096,Petrol,Hyderabad,No Tag,61444,Hyundai,i20  ,1.2
+1342,290000.0,2012,103688,Diesel,Hyderabad,Home Test Drive,,Chevrolet,Beat  ,
+1343,4800000.0,2021,29395,Petrol,Hyderabad,No Tag,79712,Audi,A4  ,
+1344,1950000.0,2018,72123,Petrol,Hyderabad,No Tag,32383,Skoda,Superb  ,
+1345,2450000.0,2014,69542,Diesel,Hyderabad,Home Test Drive,40686,BMW,5 Series,
+1346,950000.0,2019,69810,Diesel,Hyderabad,No Tag,15776,Tata,Nexon  ,
+1347,3250000.0,2018,45000,Diesel,Hyderabad,Just Arrived,53971,BMW,3 Series,
+1348,260000.0,2012,99203,Petrol,Hyderabad,No Tag,,Maruti Suzuki,Alto  ,
+1349,260000.0,2010,45735,Petrol,Hyderabad,Home Test Drive,,Hyundai,i10  ,
+1350,695000.0,2019,46027,Petrol,Hyderabad,No Tag,11541,Maruti Suzuki,Swift  ,
+1351,870000.0,2015,92420,Diesel,Hyderabad,Home Test Drive,14447,Hyundai,Creta  ,1.4
+1352,1675000.0,2017,37430,Diesel,Hyderabad,No Tag,27816,Jeep,Compass Limited,2.0
+1353,330000.0,2012,94723,Diesel,Hyderabad,No Tag,,Volkswagen,Polo  ,1.2
+1354,750000.0,2019,53000,Petrol,Hyderabad,No Tag,12455,Maruti Suzuki,Baleno  ,
+1355,825000.0,2017,123000,Diesel,Hyderabad,No Tag,13700,Skoda,Rapid  ,1.5
+1356,870000.0,2018,64194,Diesel,Hyderabad,No Tag,14447,Maruti Suzuki,Dzire  ,
+1357,490000.0,2016,48833,Petrol,Hyderabad,Home Test Drive,8137,Maruti Suzuki,Wagon R,1.0
+1358,1495000.0,2013,104264,Diesel,Hyderabad,No Tag,24826,BMW,3 Series,
+1359,3450000.0,2018,31000,Diesel,Hyderabad,No Tag,57293,Jaguar,XE  ,
+1360,1750000.0,2021,30600,Diesel,Hyderabad,No Tag,29061,Mahindra,Thar  ,
+1361,18000000.0,2021,7600,Petrol,Hyderabad,No Tag,2.99 L,Mercedes-Benz,C-Coupe  ,
+1362,1695000.0,2018,57624,Diesel,Hyderabad,No Tag,28148,Jeep,Compass Limited,2.0
+1363,985000.0,2019,20440,Petrol,Hyderabad,No Tag,16357,Maruti Suzuki,Ciaz  ,1.5
+1364,895000.0,2012,94000,Petrol,Hyderabad,Great Price,,Mercedes-Benz,B-Class  ,
+1365,1625000.0,2020,38500,Diesel,Hyderabad,No Tag,26985,Mahindra,Thar  ,
+1366,945000.0,2022,18900,Petrol,Hyderabad,No Tag,15693,Tata,Nexon  ,
+1367,745000.0,2016,117048,Diesel,Hyderabad,No Tag,12371,Skoda,Rapid  ,1.6
+1368,695000.0,2016,96100,Diesel,Hyderabad,Home Test Drive,11541,Renault,Duster  ,
+1369,1195000.0,2017,120000,Diesel,Hyderabad,No Tag,19844,Hyundai,Creta  ,1.6
+1370,475000.0,2016,21378,Petrol,Hyderabad,No Tag,7888,Hyundai,i10  ,
+1371,420000.0,2012,76148,Diesel,Hyderabad,Home Test Drive,,Hyundai,i20  ,1.4
+1372,6900000.0,2018,50000,Diesel,Hyderabad,No Tag,1.15 L,Volvo,XC90  ,
+1373,665000.0,2021,30532,CNG,Hyderabad,Quality Report,11043,Maruti Suzuki,Wagon R,1.0
+1374,473000.0,2014,63875,Petrol,Hyderabad,Quality Report,7854,Hyundai,Xcent  ,1.2
+1375,381000.0,2021,13338,Petrol,Hyderabad,No Tag,6327,Maruti Suzuki,Alto  ,
+1376,458000.0,2018,45053,Petrol,Hyderabad,No Tag,7605,Maruti Suzuki,Wagon R,1.0
+1377,335000.0,2018,25237,Petrol,Hyderabad,Quality Report,5569,Maruti Suzuki,Alto  ,
+1378,240000.0,2014,69091,Petrol,Hyderabad,No Tag,3985,Maruti Suzuki,Alto  ,
+1379,359000.0,2012,73928,Petrol,Hyderabad,No Tag,,Honda,Brio  ,
+1380,357000.0,2010,54057,Petrol,Hyderabad,Home Test Drive,,Maruti Suzuki,Swift  ,1.2
+1381,346000.0,2013,76600,Petrol,Hyderabad,Home Test Drive,5745,Honda,City  ,
+1382,352000.0,2017,27805,Petrol,Hyderabad,No Tag,5845,Maruti Suzuki,Alto  ,
+1383,519000.0,2017,30387,Petrol,Hyderabad,No Tag,8618,Hyundai,Grand i10,1.2
+1384,473000.0,2019,42833,Petrol,Hyderabad,Great Price,7854,Hyundai,Santro  ,
+1385,874000.0,2019,18093,Diesel,Hyderabad,Home Test Drive,14514,Mahindra,Thar  ,
+1386,560000.0,2018,28565,Petrol,Hyderabad,Home Test Drive,9299,Hyundai,Elite i20,1.2
+1387,356000.0,2017,27413,Petrol,Hyderabad,Home Test Drive,5911,Maruti Suzuki,Alto  ,
+1388,285000.0,2014,81971,Petrol,Hyderabad,Home Test Drive,4732,Honda,Brio  ,
+1389,890000.0,2020,26954,Petrol,Hyderabad,No Tag,14779,Volkswagen,Polo  ,1.0
+1390,601000.0,2016,57845,Petrol,Hyderabad,No Tag,9987,Maruti Suzuki,Ciaz  ,
+1391,901000.0,2020,2738,Petrol,Hyderabad,Home Test Drive,14960,Toyota,Yaris  ,
+1392,188000.0,2011,48891,Petrol,Hyderabad,Home Test Drive,,Maruti Suzuki,Alto  ,
+1393,696000.0,2020,61264,Petrol,Hyderabad,Home Test Drive,11558,Hyundai,Elite i20,1.2
+1394,583000.0,2015,55138,Petrol,Hyderabad,Home Test Drive,9681,Maruti Suzuki,Baleno  ,1.2
+1395,268000.0,2012,29302,CNG,Hyderabad,Home Test Drive,,Maruti Suzuki,Wagon R,1.0
+1396,605000.0,2018,74227,Petrol,Hyderabad,Great Price,10047,Maruti Suzuki,Dzire  ,
+1397,277000.0,2012,75639,Petrol,Hyderabad,Home Test Drive,,Hyundai,i20  ,1.2
+1398,254000.0,2012,51796,Petrol,Hyderabad,Home Test Drive,,Hyundai,Eon  ,
+1399,571000.0,2020,21959,Petrol,Hyderabad,Quality Report,9482,Maruti Suzuki,Wagon R,1.0
+1400,489000.0,2015,44897,Petrol,Hyderabad,Home Test Drive,8125,Maruti Suzuki,Baleno  ,1.2
+1401,762000.0,2021,5895,Petrol,Hyderabad,Home Test Drive,12654,Maruti Suzuki,Baleno  ,1.2
+1402,726000.0,2016,80732,Diesel,Hyderabad,Home Test Drive,12056,Maruti Suzuki,S-Cross  ,1.3
+1403,194000.0,2011,19821,Petrol,Hyderabad,Home Test Drive,,Maruti Suzuki,Alto  ,
+1404,220000.0,2013,28052,Petrol,Hyderabad,Home Test Drive,3653,Maruti Suzuki,Alto  ,
+1405,248000.0,2012,49001,Petrol,Hyderabad,Great Price,,Maruti Suzuki,Wagon R,1.0
+1406,346000.0,2020,14674,Petrol,Hyderabad,No Tag,5745,Maruti Suzuki,Alto  ,
+1407,717000.0,2020,7221,Petrol,Hyderabad,Home Test Drive,11911,Tata,Altroz  ,
+1408,339000.0,2014,73173,Petrol,Hyderabad,Home Test Drive,5629,Maruti Suzuki,Celerio  ,
+1409,341000.0,2010,83657,Petrol,Hyderabad,Home Test Drive,,Honda,City  ,1.5
+1410,290000.0,2013,38343,Petrol,Hyderabad,Home Test Drive,4812,Maruti Suzuki,Wagon R,1.0
+1411,261000.0,2011,69159,Petrol,Hyderabad,Home Test Drive,,Maruti Suzuki,Wagon R,1.0
+1412,216000.0,2011,33235,Petrol,Hyderabad,Home Test Drive,,Hyundai,i10  ,
+1413,232000.0,2012,50199,Petrol,Hyderabad,Home Test Drive,,Maruti Suzuki,Alto  ,
+1414,346000.0,2013,33140,Petrol,Hyderabad,Home Test Drive,5745,Hyundai,Grand i10,1.2
+1415,340000.0,2014,41635,Petrol,Hyderabad,Home Test Drive,5639,Maruti Suzuki,Celerio  ,
+1416,686000.0,2016,63355,Diesel,Hyderabad,Home Test Drive,11397,Maruti Suzuki,Vitara Brezza,
+1417,848000.0,2014,91679,Diesel,Hyderabad,Quality Report,14082,Mahindra,XUV500  ,
+1418,278000.0,2011,81979,Petrol,Hyderabad,Quality Report,,Maruti Suzuki,Wagon R,1.0
+1419,290000.0,2016,73101,Petrol,Hyderabad,Great Price,4815,Renault,Kwid  ,
+1420,760000.0,2017,55502,Diesel,Hyderabad,Home Test Drive,12626,Honda,WR-V  ,
+1421,446000.0,2012,53287,Petrol,Hyderabad,Quality Report,,Maruti Suzuki,Swift  ,
+1422,384000.0,2012,69913,Diesel,Hyderabad,Home Test Drive,,Maruti Suzuki,Swift  ,
+1423,377000.0,2018,77977,Petrol,Hyderabad,Home Test Drive,6260,Maruti Suzuki,Celerio  ,
+1424,597000.0,2018,62620,Petrol,Hyderabad,Quality Report,9914,Maruti Suzuki,Baleno  ,1.2
+1425,489000.0,2018,54821,Petrol,Hyderabad,Quality Report,8120,Maruti Suzuki,Ignis  ,1.2
+1426,235000.0,2013,63263,Petrol,Hyderabad,Home Test Drive,3900,Hyundai,Eon  ,
+1427,406000.0,2011,70043,Petrol,Hyderabad,Home Test Drive,,Honda,City  ,1.5
+1428,392000.0,2013,36944,Petrol,Hyderabad,Home Test Drive,6516,Maruti Suzuki,Swift  ,
+1429,623000.0,2018,30744,Petrol,Hyderabad,Home Test Drive,10345,Maruti Suzuki,Baleno  ,1.2
+1430,252000.0,2011,44829,Petrol,Hyderabad,Home Test Drive,,Maruti Suzuki,Wagon R,1.0
+1431,355000.0,2013,85986,Petrol,Hyderabad,Home Test Drive,5898,Maruti Suzuki,Swift  ,
+1432,705000.0,2015,54081,Diesel,Hyderabad,No Tag,11707,Maruti Suzuki,S-Cross  ,1.3
+1433,460000.0,2014,54501,Diesel,Hyderabad,Home Test Drive,7647,Ford,EcoSport  ,1.5
+1434,516000.0,2018,79506,Petrol,Hyderabad,Home Test Drive,8572,Maruti Suzuki,Baleno  ,1.2
+1435,323000.0,2012,43953,Petrol,Hyderabad,Home Test Drive,,Toyota,Etios  ,
+1436,311000.0,2012,85753,Petrol,Hyderabad,Home Test Drive,,Maruti Suzuki,Swift  ,
+1437,738000.0,2015,68107,Diesel,Hyderabad,Home Test Drive,12255,Mahindra,XUV500  ,
+1438,290000.0,2014,90446,CNG,Hyderabad,Home Test Drive,4815,Maruti Suzuki,Wagon R,1.0
+1439,486000.0,2016,45487,Petrol,Hyderabad,Home Test Drive,8070,Maruti Suzuki,Baleno  ,1.2
+1440,487000.0,2016,28225,Petrol,Hyderabad,Home Test Drive,8087,Maruti Suzuki,Baleno  ,1.2
+1441,744000.0,2013,74570,Diesel,Hyderabad,Home Test Drive,12355,Mahindra,XUV500  ,
+1442,267000.0,2012,47085,Petrol,Hyderabad,Home Test Drive,,Maruti Suzuki,Wagon R,1.0
+1443,220000.0,2014,74067,Petrol,Hyderabad,Home Test Drive,3651,Hyundai,Eon  ,
+1444,354000.0,2013,69147,Petrol,Hyderabad,Home Test Drive,5879,Maruti Suzuki,Swift  ,
+1445,392000.0,2012,136082,Diesel,Hyderabad,Home Test Drive,,Maruti Suzuki,Swift  ,
+1446,586000.0,2016,75012,Petrol,Hyderabad,Home Test Drive,9733,Hyundai,i20  ,1.2
+1447,314000.0,2011,23874,Petrol,Hyderabad,Home Test Drive,,Maruti Suzuki,Swift  ,
+1448,649000.0,2018,80908,Diesel,Hyderabad,No Tag,10777,Maruti Suzuki,Baleno  ,1.3
+1449,435000.0,2017,38240,Petrol,Hyderabad,Quality Report,7223,Maruti Suzuki,Swift  ,
+1450,306000.0,2016,48698,Petrol,Hyderabad,No Tag,5081,Renault,Kwid  ,
+1451,273000.0,2011,85968,Petrol,Hyderabad,Home Test Drive,,Hyundai,i20  ,1.2
+1452,180000.0,2010,19216,Petrol,Hyderabad,Home Test Drive,,Maruti Suzuki,Alto  ,
+1453,380000.0,2016,53713,Petrol,Hyderabad,Home Test Drive,6305,Tata,Tiago  ,
+1454,161000.0,2009,30867,Petrol,Hyderabad,Home Test Drive,,Maruti Suzuki,Alto  ,
+1455,569000.0,2019,8748,Petrol,Hyderabad,Home Test Drive,9457,Renault,Triber  ,
+1456,218000.0,2013,49015,Petrol,Hyderabad,Home Test Drive,3625,Hyundai,Eon  ,1.0
+1457,217000.0,2012,42481,Petrol,Hyderabad,Home Test Drive,,Hyundai,Eon  ,1.0
+1458,212000.0,2011,76088,Petrol,Hyderabad,Home Test Drive,,Hyundai,i10  ,
+1459,291000.0,2012,59849,Petrol,Hyderabad,Home Test Drive,,Honda,Brio  ,
+1460,241000.0,2014,19915,Petrol,Hyderabad,Home Test Drive,4003,Maruti Suzuki,Alto  ,
+1461,267000.0,2012,82089,Petrol,Hyderabad,Home Test Drive,,Honda,Brio  ,
+1462,321000.0,2020,40668,Petrol,Hyderabad,Quality Report,5330,Maruti Suzuki,Alto  ,
+1463,329000.0,2011,93357,Petrol,Hyderabad,Quality Report,,Hyundai,i20  ,1.2
+1464,421000.0,2014,71803,Petrol,Hyderabad,Home Test Drive,6991,Hyundai,Xcent  ,1.2
+1465,237000.0,2013,11528,Petrol,Hyderabad,Home Test Drive,3935,Maruti Suzuki,Alto  ,
+1466,714000.0,2016,50469,Diesel,Hyderabad,Home Test Drive,11857,Nissan,Terrano  ,
+1467,737000.0,2021,16558,Petrol,Hyderabad,Home Test Drive,12239,Maruti Suzuki,Baleno  ,1.2
+1468,536000.0,2015,38510,Petrol,Hyderabad,Home Test Drive,8901,Hyundai,i20  ,1.2
+1469,417000.0,2018,40952,Petrol,Hyderabad,Home Test Drive,6924,Renault,Kwid  ,
+1470,409000.0,2017,92890,Petrol,Hyderabad,Quality Report,6792,Maruti Suzuki,Wagon R,1.0
+1471,421000.0,2013,40106,Petrol,Hyderabad,Quality Report,6991,Toyota,Etios  ,
+1472,798000.0,2018,23583,Diesel,Hyderabad,Home Test Drive,13252,Mahindra,Thar  ,
+1473,791000.0,2016,46460,Diesel,Hyderabad,Home Test Drive,13140,Mahindra,Thar  ,
+1474,440000.0,2012,86435,Petrol,Hyderabad,Home Test Drive,,Honda,City  ,
+1475,295000.0,2012,52874,Petrol,Hyderabad,Home Test Drive,,Hyundai,i20  ,1.2
+1476,476000.0,2019,32112,Petrol,Hyderabad,Quality Report,7904,Maruti Suzuki,Eeco  ,
+1477,628000.0,2015,43454,Diesel,Hyderabad,Home Test Drive,10433,Maruti Suzuki,Ciaz  ,
+1478,557000.0,2018,26489,Petrol,Hyderabad,Quality Report,9249,Honda,Jazz  ,
+1479,295000.0,2011,92497,Diesel,Hyderabad,Quality Report,,Maruti Suzuki,Ritz  ,
+1480,398000.0,2012,37769,Petrol,Hyderabad,Home Test Drive,,Maruti Suzuki,Swift  ,
+1481,544000.0,2020,64109,CNG,Hyderabad,Home Test Drive,9034,Maruti Suzuki,Wagon R,1.0
+1482,395000.0,2014,65636,Petrol,Pune,Home Test Drive,6559,Honda,Amaze  ,1.2
+1483,2585000.0,2014,71272,Diesel,Pune,Home Test Drive,42928,Mercedes-Benz,E-Class  ,
+1484,1950000.0,2015,42000,Diesel,Pune,Home Test Drive,32383,Jaguar,XF  ,
+1485,1060000.0,2019,12382,Petrol,Pune,Home Test Drive,17603,Honda,City  ,
+1486,3090000.0,2020,24000,Diesel,Pune,No Tag,51314,Volkswagen,Tiguan  ,
+1487,2375000.0,2021,4170,Diesel,Pune,No Tag,39440,Mahindra,Scorpio  ,
+1488,4800000.0,2018,63584,Diesel,Pune,Home Test Drive,79712,BMW,X3  ,
+1489,1950000.0,2019,108000,Diesel,Pune,No Tag,32383,Toyota,Innova  ,
+1490,550000.0,2014,79649,Diesel,Pune,Home Test Drive,9133,Hyundai,Verna  ,1.6
+1491,870000.0,2019,44091,Diesel,Pune,Home Test Drive,14447,Maruti Suzuki,Vitara Brezza,
+1492,1150000.0,2019,14941,Diesel,Pune,Home Test Drive,19097,Hyundai,Creta  ,1.4
+1493,475000.0,2018,89739,CNG,Pune,Home Test Drive,7888,Maruti Suzuki,Wagon R,1.0
+1494,425000.0,2013,51602,Petrol,Pune,Home Test Drive,7057,Toyota,Etios  ,
+1495,595000.0,2022,12290,Petrol,Pune,Home Test Drive,9880,Maruti Suzuki,Celerio  ,
+1496,690000.0,2018,74290,Diesel,Pune,Home Test Drive,11458,Volkswagen,Ameo  ,1.5
+1497,625000.0,2015,74993,Diesel,Pune,Home Test Drive,10379,Maruti Suzuki,Swift  ,
+1498,550000.0,2015,47839,Petrol,Pune,Home Test Drive,9133,Maruti Suzuki,Swift  ,
+1499,415000.0,2014,50882,Petrol,Pune,Home Test Drive,6891,Maruti Suzuki,Ritz  ,
+1500,615000.0,2016,42279,Petrol,Pune,Home Test Drive,10213,Maruti Suzuki,Swift  ,
+1501,700000.0,2017,34580,Petrol,Pune,Home Test Drive,11624,Tata,Nexon  ,
+1502,675000.0,2017,33769,Petrol,Pune,Home Test Drive,11209,Hyundai,Elite i20,1.2
+1503,850000.0,2017,73478,Diesel,Pune,Home Test Drive,14115,Honda,WR-V  ,
+1504,1850000.0,2020,49486,Diesel,Pune,Home Test Drive,30722,Kia,Seltos  ,1.5
+1505,725000.0,2017,3166,Petrol,Pune,Home Test Drive,12039,Maruti Suzuki,Baleno  ,1.2
+1506,524000.0,2017,37227,Petrol,Pune,Home Test Drive,8701,Volkswagen,Ameo  ,1.2
+1507,1090000.0,2019,41059,Petrol,Pune,No Tag,18101,Toyota,Yaris  ,
+1508,1650000.0,2018,25914,Petrol,Pune,Home Test Drive,27401,Toyota,Corolla Altis,
+1509,1875000.0,2018,40916,Diesel,Pune,Home Test Drive,31137,Hyundai,Elantra  ,1.6
+1510,650000.0,2016,33726,Petrol,Pune,Home Test Drive,10794,Maruti Suzuki,Baleno  ,1.2
+1511,13500000.0,2022,10000,Diesel,Pune,Home Test Drive,2.24 L,BMW,X7  ,
+1512,1000000.0,2020,4783,Petrol,Pune,Home Test Drive,16606,Skoda,Rapid  ,1.6
+1513,3490000.0,2021,47000,Petrol,Pune,Home Test Drive,57957,Skoda,Superb  ,
+1514,8500000.0,2022,10000,Diesel,Pune,Home Test Drive,1.41 L,Mercedes-Benz,GLC  ,
+1515,1150000.0,2017,88661,Diesel,Pune,Home Test Drive,19097,Mahindra,Scorpio  ,
+1516,725000.0,2016,71300,Diesel,Pune,Home Test Drive,12039,Maruti Suzuki,Ciaz  ,
+1517,13500000.0,2022,12000,Diesel,Pune,No Tag,2.24 L,Mercedes-Benz,GLS  ,
+1518,650000.0,2012,37796,Diesel,Pune,Home Test Drive,,Toyota,Corolla Altis,
+1519,14800000.0,2020,53000,Petrol,Pune,Home Test Drive,2.46 L,Mercedes-Benz,S-Class  ,
+1520,685000.0,2019,22000,Petrol,Pune,Home Test Drive,11375,Honda,Amaze  ,1.2
+1521,550000.0,2019,69480,CNG,Pune,Home Test Drive,9133,Maruti Suzuki,Celerio  ,
+1522,3300000.0,2019,22000,Diesel,Pune,Home Test Drive,54802,Mercedes-Benz,CLA  ,
+1523,425000.0,2014,74050,Petrol,Pune,No Tag,7057,Hyundai,i20  ,1.2
+1524,525000.0,2017,39200,Petrol,Pune,Home Test Drive,8718,Hyundai,Grand i10,1.2
+1525,3190000.0,2019,18000,Diesel,Pune,Home Test Drive,52975,Mercedes-Benz,CLA  ,
+1526,4190000.0,2021,19000,Petrol,Pune,Home Test Drive,,BMW,X1  ,
+1527,600000.0,2015,123155,Diesel,Pune,No Tag,9964,Mahindra,TUV300  ,
+1528,1050000.0,2018,39000,Petrol,Pune,No Tag,17437,Honda,City  ,
+1529,510000.0,2019,78600,CNG,Pune,No Tag,8469,Hyundai,Santro  ,
+1530,1035000.0,2019,43000,Diesel,Pune,No Tag,17187,Ford,EcoSport  ,1.5
+1531,8600000.0,2020,34000,Diesel,Pune,Home Test Drive,1.43 L,Mercedes-Benz,GLE  ,
+1532,725000.0,2017,86000,Diesel,Pune,No Tag,12039,Maruti Suzuki,Swift  ,
+1533,620000.0,2016,43447,Petrol,Pune,No Tag,10296,Hyundai,Elite i20,1.2
+1534,1070000.0,2018,21346,Petrol,Pune,No Tag,17769,Hyundai,Verna  ,1.6
+1535,2225000.0,2019,130050,Diesel,Pune,No Tag,36949,Toyota,Innova  ,
+1536,455000.0,2015,75678,Petrol,Pune,No Tag,7556,Maruti Suzuki,Swift  ,
+1537,1450000.0,2018,47000,Diesel,Pune,No Tag,24079,Jeep,Compass Limited,2.0
+1538,1450000.0,2018,47000,Diesel,Pune,No Tag,24079,Jeep,Compass Limited,2.0
+1539,975000.0,2021,8000,Petrol,Pune,No Tag,16191,Hyundai,Venue  ,1.0
+1540,5000000.0,2018,42000,Diesel,Pune,Home Test Drive,83033,Mercedes-Benz,GLE  ,
+1541,345000.0,2014,76256,CNG,Pune,No Tag,5729,Maruti Suzuki,Wagon R,1.0
+1542,635000.0,2015,97000,Petrol,Pune,No Tag,10545,Honda,City  ,
+1543,405000.0,2012,84110,Diesel,Pune,No Tag,,Volkswagen,Vento  ,
+1544,200000.0,2010,86010,Petrol,Pune,No Tag,,Maruti Suzuki,A-Star  ,
+1545,250000.0,2011,88997,Diesel,Pune,Home Test Drive,,Tata,Manza  ,
+1546,7400000.0,2021,3800,Petrol,Pune,Home Test Drive,1.23 L,BMW,5 Series,
+1547,4190000.0,2019,40000,Diesel,Pune,Home Test Drive,69582,Audi,A6  ,
+1548,6200000.0,2019,50000,Diesel,Pune,Home Test Drive,1.03 L,BMW,X5  ,
+1549,1425000.0,2020,21077,Diesel,Pune,No Tag,23664,Mahindra,XUV300  ,1.5
+1550,5800000.0,2021,2000,Petrol,Pune,Home Test Drive,96318,BMW,3 Series,
+1551,5200000.0,2017,48000,Diesel,Pune,Home Test Drive,,Audi,Q7  ,
+1552,395000.0,2014,39209,Diesel,Pune,Home Test Drive,6559,Skoda,Fabia  ,1.2
+1553,645000.0,2017,22887,Petrol,Pune,No Tag,10711,Maruti Suzuki,Baleno  ,1.0
+1554,9500000.0,2022,3200,Electric,Pune,Home Test Drive,1.58 L,Mercedes-Benz,EQC  ,
+1555,3490000.0,2021,14500,Petrol,Pune,Home Test Drive,57957,Skoda,Superb  ,
+1556,250000.0,2012,23360,Petrol,Pune,Home Test Drive,,Maruti Suzuki,Alto  ,
+1557,3490000.0,2019,54000,Diesel,Pune,Home Test Drive,57957,Mercedes-Benz,C-Class  ,
+1558,1750000.0,2015,74000,Diesel,Pune,Home Test Drive,29061,Audi,A4  ,
+1559,1700000.0,2016,89292,Diesel,Pune,Home Test Drive,28231,Hyundai,Tucson  ,
+1560,580000.0,2021,6800,Petrol,Pune,No Tag,9631,Maruti Suzuki,Wagon R,1.2
+1561,5200000.0,2021,1700,Petrol,Pune,Home Test Drive,86354,Mercedes-Benz,AMG  ,
+1562,5200000.0,2021,1700,Petrol,Pune,Home Test Drive,86354,Mercedes-Benz,AMG  ,
+1563,500000.0,2016,63819,Petrol,Pune,No Tag,8303,Ford,Aspire  ,1.5
+1564,2400000.0,2019,70000,Diesel,Pune,Home Test Drive,39856,Mercedes-Benz,CLA  ,
+1565,785000.0,2019,59569,Diesel,Pune,Home Test Drive,13036,Honda,Amaze  ,1.5
+1566,3400000.0,2018,53181,Diesel,Pune,No Tag,56462,MINI,Countryman  ,
+1567,1925000.0,2017,75400,Diesel,Pune,Home Test Drive,31967,Hyundai,Tucson  ,
+1568,425000.0,2016,29482,Petrol,Pune,No Tag,7057,Maruti Suzuki,Wagon R,1.0
+1569,180000.0,2008,83920,Petrol,Pune,Great Price,,Honda,City  ,
+1570,325000.0,2012,95000,Diesel,Pune,No Tag,,Volkswagen,Polo  ,1.2
+1571,1050000.0,2021,287,Diesel,Pune,No Tag,17437,Mahindra,Bolero  ,
+1572,3650000.0,2021,41086,Diesel,Pune,No Tag,,Ford,Endeavour  ,2.0
+1573,2800000.0,2011,70662,Petrol,Pune,No Tag,,Jaguar,XJ  ,
+1574,305000.0,2014,79638,Petrol,Pune,No Tag,5065,Ford,Figo  ,1.2
+1575,1900000.0,2014,45440,Petrol,Pune,No Tag,,Mercedes-Benz,E-Class  ,
+1576,2750000.0,2018,60539,Diesel,Pune,Great Price,,BMW,3 Series,
+1577,385000.0,2014,97555,Petrol,Pune,Home Test Drive,6393,Maruti Suzuki,Swift  ,
+1578,415000.0,2015,19812,CNG,Pune,Home Test Drive,6891,Maruti Suzuki,Wagon R,1.0
+1579,1700000.0,2020,25344,Diesel,Pune,No Tag,28231,Mahindra,Thar  ,
+1580,425000.0,2015,55779,Petrol,Pune,Great Price,7057,Hyundai,Xcent  ,1.2
+1581,545000.0,2018,45111,Petrol,Pune,Home Test Drive,9050,Hyundai,Elite i20,1.2
+1582,780000.0,2019,35799,Petrol,Pune,Home Test Drive,12953,Tata,Nexon  ,
+1583,245000.0,2012,45667,Petrol,Pune,Great Price,,Hyundai,i10  ,1.2
+1584,250000.0,2015,58889,Petrol,Pune,Great Price,4151,Hyundai,Eon  ,
+1585,2400000.0,2021,3661,Diesel,Pune,No Tag,39856,Mahindra,Scorpio  ,
+1586,2400000.0,2021,3661,Diesel,Pune,No Tag,39856,Mahindra,Scorpio  ,
+1587,990000.0,2021,1680,Petrol,Pune,Home Test Drive,16440,Mahindra,XUV300  ,1.2
+1588,575000.0,2020,72367,CNG,Pune,No Tag,,Maruti Suzuki,Eeco  ,
+1589,827000.0,2018,58981,Petrol,Pune,Quality Report,13733,Maruti Suzuki,Ciaz  ,1.4
+1590,404000.0,2013,84919,Petrol,Pune,No Tag,6709,Maruti Suzuki,Swift  ,
+1591,477000.0,2014,16584,Petrol,Pune,No Tag,7921,Hyundai,Grand i10,1.2
+1592,272000.0,2011,75443,Petrol,Pune,No Tag,,Maruti Suzuki,Wagon R,1.0
+1593,432000.0,2017,44992,CNG,Pune,No Tag,7174,Maruti Suzuki,Wagon R,1.0
+1594,764000.0,2020,24368,Petrol,Pune,No Tag,12687,Maruti Suzuki,Swift  ,
+1595,1410000.0,2017,97050,Diesel,Pune,No Tag,23415,Skoda,Octavia  ,2.0
+1596,523000.0,2016,28646,Petrol,Pune,No Tag,8685,Hyundai,Xcent  ,1.2
+1597,737000.0,2021,30581,Petrol,Pune,No Tag,12239,Toyota,Glanza  ,
+1598,407000.0,2017,12048,Petrol,Pune,No Tag,6758,Renault,Kwid  ,1.0
+1599,272000.0,2016,95790,Petrol,Pune,No Tag,4517,Maruti Suzuki,Alto  ,
+1600,452000.0,2017,36980,CNG,Pune,No Tag,7506,Maruti Suzuki,Wagon R,1.0
+1601,600000.0,2015,92507,Petrol,Pune,No Tag,9964,Honda,City  ,
+1602,396000.0,2014,69826,Petrol,Pune,No Tag,6576,Honda,Amaze  ,1.2
+1603,855000.0,2019,28582,Petrol,Pune,No Tag,14198,Honda,WR-V  ,
+1604,506000.0,2018,44382,Petrol,Pune,No Tag,8402,Tata,Tiago  ,
+1605,395000.0,2014,59130,CNG,Pune,No Tag,6559,Maruti Suzuki,Wagon R,1.0
+1606,434000.0,2015,51874,Petrol,Pune,No Tag,7207,Hyundai,Xcent  ,1.2
+1607,532000.0,2017,34946,Petrol,Pune,No Tag,8834,Volkswagen,Ameo  ,1.2
+1608,682000.0,2016,37824,Petrol,Pune,No Tag,11325,Maruti Suzuki,Ciaz  ,
+1609,262000.0,2013,19759,Petrol,Pune,No Tag,4350,Hyundai,Eon  ,
+1610,1016000.0,2018,39299,Petrol,Pune,No Tag,16872,Toyota,Yaris  ,
+1611,547000.0,2015,45382,Petrol,Pune,No Tag,9083,Hyundai,i20  ,1.2
+1612,519000.0,2021,50404,CNG,Pune,No Tag,8618,Maruti Suzuki,S-Presso  ,
+1613,501000.0,2015,55586,Petrol,Pune,No Tag,8319,Volkswagen,Polo  ,1.2
+1614,285000.0,2017,54923,Petrol,Pune,No Tag,4732,Maruti Suzuki,Alto  ,
+1615,534000.0,2019,60143,Petrol,Pune,No Tag,,Volkswagen,Polo  ,1.0
+1616,600000.0,2017,35247,Petrol,Pune,No Tag,9964,Hyundai,Elite i20,1.2
+1617,551000.0,2017,10531,Petrol,Pune,No Tag,9150,Hyundai,Grand i10,1.2
+1618,668000.0,2020,26222,Petrol,Pune,No Tag,11093,Maruti Suzuki,Swift  ,
+1619,742000.0,2019,11798,Petrol,Pune,No Tag,12322,Toyota,Glanza  ,
+1620,315000.0,2016,49015,Petrol,Pune,No Tag,5231,Renault,Kwid  ,
+1621,660000.0,2018,50933,Petrol,Pune,No Tag,10960,Hyundai,Elite i20,1.2
+1622,488000.0,2018,52744,Petrol,Pune,No Tag,8104,Hyundai,Grand i10,1.2
+1623,185000.0,2011,65759,Petrol,Pune,No Tag,,Hyundai,Santro  ,
+1624,735000.0,2021,43051,Petrol,Pune,No Tag,12200,Toyota,Glanza  ,
+1625,933000.0,2019,29264,Diesel,Pune,No Tag,15494,Tata,Nexon  ,
+1626,554000.0,2019,89495,CNG,Pune,No Tag,9200,Maruti Suzuki,Celerio  ,
+1627,450000.0,2017,60962,CNG,Pune,No Tag,7473,Maruti Suzuki,Wagon R,1.0
+1628,707000.0,2019,37659,Petrol,Pune,No Tag,,Hyundai,Elite i20,1.2
+1629,403000.0,2014,32139,Petrol,Pune,No Tag,6692,Hyundai,Grand i10,1.2
+1630,617000.0,2018,30882,Petrol,Pune,No Tag,10246,Maruti Suzuki,Dzire  ,
+1631,336000.0,2018,35371,Petrol,Pune,No Tag,,Maruti Suzuki,Alto  ,
+1632,352000.0,2013,54790,CNG,Pune,No Tag,,Maruti Suzuki,Wagon R,1.0
+1633,624000.0,2018,58938,Petrol,Pune,No Tag,,Maruti Suzuki,Swift  ,
+1634,298000.0,2016,65509,Petrol,Pune,No Tag,4948,Renault,Kwid  ,
+1635,1129000.0,2019,8556,Petrol,Pune,No Tag,18748,Ford,EcoSport  ,1.5
+1636,969000.0,2018,31726,Petrol,Pune,No Tag,16091,Hyundai,Verna  ,1.6
+1637,890000.0,2020,20850,Petrol,Pune,No Tag,14779,Skoda,Rapid  ,1.6
+1638,514000.0,2014,24818,Petrol,Pune,No Tag,8535,Maruti Suzuki,Swift  ,
+1639,621000.0,2021,10571,Petrol,Pune,No Tag,10312,Renault,Triber  ,
+1640,221000.0,2011,91793,Petrol,Pune,No Tag,,Maruti Suzuki,Wagon R,1.0
+1641,1033000.0,2021,23097,Petrol,Pune,No Tag,17154,Maruti Suzuki,Ciaz  ,1.5
+1642,1272000.0,2020,17622,Petrol,Pune,No Tag,,Honda,City  ,
+1643,364000.0,2015,64616,CNG,Pune,No Tag,6044,Maruti Suzuki,Wagon R,1.0
+1644,546000.0,2020,16139,Petrol,Pune,No Tag,9067,Maruti Suzuki,Celerio  ,
+1645,767000.0,2018,28753,Petrol,Pune,No Tag,12737,Toyota,Yaris  ,
+1646,422000.0,2015,84123,Petrol,Pune,No Tag,7008,Maruti Suzuki,Celerio  ,
+1647,319000.0,2012,36703,Petrol,Pune,No Tag,,Maruti Suzuki,Wagon R,1.0
+1648,493000.0,2018,73344,CNG,Pune,No Tag,8187,Hyundai,Santro  ,
+1649,875000.0,2020,29260,Petrol,Pune,No Tag,14530,Skoda,Rapid  ,1.6
+1650,493000.0,2017,37503,Petrol,Pune,No Tag,8187,Maruti Suzuki,Ignis  ,1.2
+1651,316000.0,2015,45789,Petrol,Pune,No Tag,5247,Maruti Suzuki,Alto  ,
+1652,354000.0,2013,40973,Petrol,Pune,No Tag,5878,Maruti Suzuki,Ritz  ,
+1653,603000.0,2014,56562,Petrol,Pune,No Tag,10013,Honda,City  ,1.5
+1654,536000.0,2017,45552,Petrol,Pune,No Tag,8901,Maruti Suzuki,Swift  ,
+1655,1623000.0,2021,10493,Petrol,Pune,No Tag,26952,Mahindra,Thar  ,
+1656,489000.0,2015,61768,Petrol,Pune,No Tag,8120,Maruti Suzuki,Swift  ,
+1657,382000.0,2015,49749,Petrol,Pune,No Tag,6343,Maruti Suzuki,Wagon R,1.0
+1658,434000.0,2018,84104,Petrol,Pune,No Tag,7207,Maruti Suzuki,Wagon R,1.0
+1659,324000.0,2016,48115,Petrol,Pune,No Tag,,Maruti Suzuki,Alto  ,
+1660,306000.0,2012,73157,Petrol,Pune,No Tag,,Maruti Suzuki,Wagon R,1.0
+1661,558000.0,2017,29565,Petrol,Pune,No Tag,9266,Honda,Jazz  ,
+1662,441000.0,2017,84382,CNG,Pune,No Tag,7323,Maruti Suzuki,Wagon R,1.0
+1663,427000.0,2013,40091,Petrol,Pune,No Tag,,Hyundai,Grand i10,1.2
+1664,546000.0,2019,28767,CNG,Pune,No Tag,9067,Maruti Suzuki,Celerio  ,
+1665,908000.0,2018,43897,Diesel,Pune,No Tag,15078,Tata,Nexon  ,
+1666,246000.0,2013,84402,Petrol,Pune,No Tag,4085,Hyundai,Eon  ,
+1667,664000.0,2019,57987,Petrol,Pune,No Tag,11026,Volkswagen,Polo  ,1.0
+1668,584000.0,2016,47796,Petrol,Pune,No Tag,9698,Maruti Suzuki,Ciaz  ,
+1669,333000.0,2018,19233,Petrol,Pune,No Tag,5530,Maruti Suzuki,Alto  ,
+1670,925000.0,2017,49583,Petrol,Pune,No Tag,15361,Hyundai,Verna  ,1.6
+1671,444000.0,2021,51606,CNG,Pune,No Tag,7373,Maruti Suzuki,Alto  ,
+1672,657000.0,2019,31935,Petrol,Pune,No Tag,10910,Renault,Triber  ,
+1673,496000.0,2016,37269,Petrol,Pune,No Tag,8236,Honda,Amaze  ,1.2
+1674,647000.0,2018,31404,Petrol,Pune,No Tag,10744,Maruti Suzuki,Swift  ,
+1675,669000.0,2018,14895,Petrol,Pune,No Tag,11109,Maruti Suzuki,Dzire  ,
+1676,299000.0,2012,32013,Petrol,Pune,No Tag,,Maruti Suzuki,Wagon R,1.0
+1677,650000.0,2017,50391,Petrol,Pune,No Tag,10794,Maruti Suzuki,Dzire  ,
+1678,503000.0,2020,77051,Petrol,Pune,Quality Report,8353,Maruti Suzuki,Wagon R,1.2
+1679,180000.0,2010,34792,Petrol,Pune,Quality Report,,Maruti Suzuki,Estilo  ,
+1680,731000.0,2021,8183,Petrol,Pune,Quality Report,12139,Maruti Suzuki,Celerio  ,
+1681,371000.0,2017,57019,Petrol,Pune,Quality Report,6161,Hyundai,Eon  ,
+1682,1172000.0,2021,8155,Petrol,Pune,No Tag,19463,Renault,Duster  ,1.3
+1683,1121000.0,2015,90272,Petrol,Pune,No Tag,18616,Toyota,Camry  ,
+1684,1120000.0,2020,20444,Petrol,Pune,Quality Report,18599,Maruti Suzuki,XL6  ,
+1685,195000.0,2012,84366,Petrol,Pune,Great Price,,Maruti Suzuki,Alto  ,
+1686,1350000.0,2019,27913,Petrol,Pune,No Tag,22419,Hyundai,Creta  ,1.6
+1687,865000.0,2018,81352,Diesel,Pune,No Tag,14364,Maruti Suzuki,Vitara Brezza,
+1688,792000.0,2021,22601,Petrol,Pune,No Tag,13152,Toyota,Glanza  ,
+1689,677000.0,2019,37535,Petrol,Pune,No Tag,11242,Hyundai,Elite i20,1.2
+1690,1123000.0,2018,87478,Diesel,Pune,No Tag,18649,Jeep,Compass Sport,2.0
+1691,618000.0,2015,62005,Diesel,Pune,No Tag,10262,Hyundai,Elite i20,1.4
+1692,358000.0,2014,85535,Petrol,Pune,No Tag,5945,Maruti Suzuki,Celerio  ,
+1693,532000.0,2020,47417,CNG,Pune,No Tag,8834,Maruti Suzuki,S-Presso  ,
+1694,612000.0,2015,47145,Petrol,Pune,No Tag,10163,Honda,City  ,
+1695,873000.0,2016,70887,Diesel,Pune,No Tag,14497,Maruti Suzuki,Ertiga  ,
+1696,272000.0,2012,64343,Petrol,Pune,No Tag,,Honda,Brio  ,
+1697,412000.0,2017,8583,Petrol,Pune,No Tag,6841,Renault,Kwid  ,1.0
+1698,1674000.0,2020,29047,Petrol,Pune,No Tag,27799,Kia,Seltos  ,1.4
+1699,370000.0,2014,81081,CNG,Pune,No Tag,6144,Maruti Suzuki,Wagon R,1.0
+1700,598000.0,2017,35203,Petrol,Pune,No Tag,9930,Volkswagen,Polo  ,1.2
+1701,985000.0,2020,15009,Petrol,Pune,No Tag,16357,Volkswagen,Vento  ,1.0
+1702,508000.0,2017,30233,Petrol,Pune,No Tag,8436,Hyundai,Xcent  ,
+1703,331000.0,2014,82449,Diesel,Pune,No Tag,5496,Maruti Suzuki,Ritz  ,
+1704,599000.0,2014,86964,Diesel,Pune,No Tag,9947,Hyundai,Elite i20,1.4
+1705,1105000.0,2020,43688,CNG,Pune,No Tag,18350,Maruti Suzuki,Ertiga  ,
+1706,373000.0,2019,41398,Petrol,Pune,No Tag,6194,Maruti Suzuki,Alto  ,
+1707,400000.0,2017,20307,Petrol,Pune,No Tag,6642,Maruti Suzuki,Alto  ,
+1708,425000.0,2016,53806,CNG,Pune,No Tag,7057,Maruti Suzuki,Wagon R,1.0
+1709,523000.0,2015,94761,Diesel,Pune,No Tag,8685,Renault,Duster  ,
+1710,412000.0,2017,8583,Petrol,Pune,No Tag,6841,Renault,Kwid  ,1.0
+1711,370000.0,2014,81081,CNG,Pune,No Tag,6144,Maruti Suzuki,Wagon R,1.0
+1712,1674000.0,2020,29047,Petrol,Pune,No Tag,27799,Kia,Seltos  ,1.4
+1713,508000.0,2017,30233,Petrol,Pune,No Tag,8436,Hyundai,Xcent  ,
+1714,575000.0,2016,48994,Petrol,Pune,No Tag,9548,Hyundai,Elite i20,1.2
+1715,598000.0,2017,35203,Petrol,Pune,No Tag,9930,Volkswagen,Polo  ,1.2
+1716,985000.0,2020,15009,Petrol,Pune,No Tag,16357,Volkswagen,Vento  ,1.0
+1717,504000.0,2018,31802,CNG,Pune,No Tag,8369,Maruti Suzuki,Wagon R,1.0
+1718,599000.0,2014,86964,Diesel,Pune,No Tag,9947,Hyundai,Elite i20,1.4
+1719,1105000.0,2020,43688,CNG,Pune,No Tag,18350,Maruti Suzuki,Ertiga  ,
+1720,331000.0,2014,82449,Diesel,Pune,No Tag,5496,Maruti Suzuki,Ritz  ,
+1721,716000.0,2016,85230,Petrol,Pune,No Tag,11890,Honda,City  ,
+1722,449000.0,2016,51967,Petrol,Pune,No Tag,7456,Maruti Suzuki,Celerio  ,
+1723,311000.0,2011,39508,Petrol,Pune,No Tag,,Toyota,Etios  ,
+1724,442000.0,2012,76460,Petrol,Pune,No Tag,,Maruti Suzuki,Swift  ,
+1725,433000.0,2017,81725,Petrol,Pune,No Tag,7190,Tata,Tiago  ,
+1726,1005000.0,2021,7601,Petrol,Pune,No Tag,16689,Honda,Jazz  ,
+1727,483000.0,2017,66595,Petrol,Pune,No Tag,8021,Hyundai,Grand i10,1.2
+1728,229000.0,2012,15740,Petrol,Pune,No Tag,,Maruti Suzuki,Alto  ,
+1729,254000.0,2010,27562,Petrol,Pune,No Tag,,Maruti Suzuki,Wagon R,1.0
+1730,390000.0,2014,78000,Diesel,Ahmedabad,No Tag,6476,Hyundai,Grand i10,
+1731,365000.0,2014,57000,Petrol,Ahmedabad,No Tag,6061,Hyundai,i10  ,1.2
+1732,1025000.0,2017,69620,Diesel,Ahmedabad,No Tag,17021,Hyundai,Verna  ,1.6
+1733,925000.0,2020,42800,Diesel,Ahmedabad,No Tag,15361,Hyundai,Venue  ,1.5
+1734,1150000.0,2019,70300,Diesel,Ahmedabad,No Tag,19097,Hyundai,Creta  ,1.4
+1735,3175000.0,2022,12008,Diesel,Ahmedabad,No Tag,52726,Toyota,Innova  ,
+1736,387000.0,2021,10186,Petrol,Ahmedabad,Quality Report,6426,Maruti Suzuki,Alto  ,
+1737,890000.0,2016,88000,Diesel,Ahmedabad,No Tag,14779,Hyundai,Creta  ,1.6
+1738,1400000.0,2020,41070,Petrol,Ahmedabad,No Tag,23249,Kia,Seltos  ,1.5
+1739,635000.0,2017,51173,Petrol,Ahmedabad,No Tag,10545,Honda,Jazz  ,
+1740,925000.0,2020,27490,Petrol,Ahmedabad,No Tag,15361,Hyundai,Venue  ,1.0
+1741,800000.0,2017,56468,Petrol,Ahmedabad,Great Price,13285,Honda,City  ,
+1742,820000.0,2017,104739,Diesel,Ahmedabad,No Tag,13617,Maruti Suzuki,Ertiga  ,
+1743,625000.0,2017,23798,Petrol,Ahmedabad,Great Price,10379,Honda,WR-V  ,
+1744,450000.0,2014,66280,Petrol,Ahmedabad,No Tag,7473,Hyundai,Grand i10,1.2
+1745,675000.0,2017,13760,Petrol,Ahmedabad,No Tag,,Hyundai,Elite i20,1.2
+1746,2590000.0,2020,23801,Diesel,Ahmedabad,No Tag,43011,Toyota,Innova  ,
+1747,1625000.0,2022,6861,Petrol,Ahmedabad,No Tag,26985,Kia,Carens  ,1.4
+1748,2350000.0,2023,9158,Diesel,Ahmedabad,No Tag,39025,Tata,Harrier  ,
+1749,875000.0,2018,10625,Petrol,Ahmedabad,No Tag,14530,Honda,BR-V  ,
+1750,1150000.0,2021,25140,Petrol,Ahmedabad,No Tag,19097,Maruti Suzuki,XL6  ,
+1751,625000.0,2017,45759,Petrol,Ahmedabad,No Tag,10379,Honda,Amaze  ,1.2
+1752,790000.0,2017,22217,Petrol,Ahmedabad,Home Test Drive,13119,Maruti Suzuki,Ciaz  ,1.4
+1753,925000.0,2017,61219,Petrol,Ahmedabad,Home Test Drive,15361,Hyundai,Creta  ,1.6
+1754,350000.0,2015,51963,Petrol,Ahmedabad,No Tag,5812,Honda,Brio  ,
+1755,1550000.0,2020,8264,Petrol,Ahmedabad,No Tag,25740,Kia,Seltos  ,1.4
+1756,775000.0,2018,30679,Petrol,Ahmedabad,No Tag,12870,Honda,Jazz  ,
+1757,590000.0,2019,23676,Petrol,Ahmedabad,No Tag,9797,Hyundai,Grand i10,1.2
+1758,775000.0,2018,58573,Diesel,Ahmedabad,No Tag,12870,Maruti Suzuki,Vitara Brezza,
+1759,2250000.0,2019,24357,Diesel,Ahmedabad,No Tag,37365,Hyundai,Tucson  ,
+1760,1090000.0,2020,21634,Petrol,Ahmedabad,Home Test Drive,18101,Mahindra,XUV300  ,1.2
+1761,990000.0,2021,37805,Petrol,Ahmedabad,Home Test Drive,16440,Maruti Suzuki,Vitara Brezza,
+1762,825000.0,2020,24524,Petrol,Ahmedabad,Home Test Drive,13700,Honda,WR-V  ,
+1763,850000.0,2022,13479,Petrol,Ahmedabad,No Tag,14115,Maruti Suzuki,Baleno  ,
+1764,1790000.0,2020,6608,Petrol,Ahmedabad,No Tag,29725,MG,Hector  ,1.5
+1765,590000.0,2019,26028,Petrol,Ahmedabad,No Tag,9797,Hyundai,Grand i10,1.2
+1766,1350000.0,2018,30292,Petrol,Ahmedabad,No Tag,22419,Hyundai,Creta  ,1.6
+1767,1690000.0,2020,16502,Petrol,Ahmedabad,No Tag,28065,Hyundai,Creta  ,1.4
+1768,720000.0,2021,23487,Petrol,Ahmedabad,No Tag,11956,Maruti Suzuki,Swift  ,
+1769,1090000.0,2018,37508,Petrol,Ahmedabad,No Tag,18101,Hyundai,Creta  ,1.6
+1770,1950000.0,2022,471,Petrol,Ahmedabad,No Tag,32383,Volkswagen,Taigun  ,1.5
+1771,1690000.0,2020,22658,Petrol,Ahmedabad,No Tag,28065,Hyundai,Creta  ,1.4
+1772,950000.0,2016,77451,Diesel,Ahmedabad,No Tag,15776,Hyundai,Creta  ,1.6
+1773,2390000.0,2022,15008,Diesel,Ahmedabad,No Tag,39689,Toyota,Innova  ,
+1774,1375000.0,2021,24082,Petrol,Ahmedabad,No Tag,22834,Honda,City  ,
+1775,1225000.0,2022,7670,Petrol,Ahmedabad,No Tag,20343,MG,Astor  ,1.5
+1776,990000.0,2020,8479,Petrol,Ahmedabad,No Tag,16440,Maruti Suzuki,Vitara Brezza,
+1777,1950000.0,2021,22617,Diesel,Ahmedabad,Home Test Drive,32383,Mahindra,XUV500  ,
+1778,790000.0,2017,60126,Diesel,Ahmedabad,Home Test Drive,13119,Ford,EcoSport  ,1.5
+1779,790000.0,2018,51425,Petrol,Ahmedabad,No Tag,13119,Honda,WR-V  ,
+1780,950000.0,2020,26000,Diesel,Ahmedabad,Great Price,15776,Nissan,Kicks  ,1.5
+1781,4800000.0,2017,28000,Diesel,Ahmedabad,No Tag,79712,BMW,X5  ,
+1782,1090000.0,2017,73000,Petrol,Ahmedabad,No Tag,18101,Jeep,Compass Limited,1.4
+1783,790000.0,2020,71500,Diesel,Ahmedabad,No Tag,13119,Honda,Amaze  ,1.5
+1784,790000.0,2020,71500,Diesel,Ahmedabad,No Tag,13119,Honda,Amaze  ,1.5
+1785,2290000.0,2022,16000,Diesel,Ahmedabad,No Tag,38029,Tata,Harrier  ,
+1786,690000.0,2016,83000,Diesel,Ahmedabad,No Tag,11458,Ford,EcoSport  ,1.5
+1787,2790000.0,2020,19000,Diesel,Ahmedabad,No Tag,46332,Kia,Carnival  ,
+1788,690000.0,2018,45000,Petrol,Ahmedabad,No Tag,11458,Hyundai,Elite i20,1.2
+1789,750000.0,2016,70600,Diesel,Ahmedabad,No Tag,12455,Hyundai,Verna  ,1.6
+1790,1690000.0,2015,48000,Diesel,Ahmedabad,No Tag,28065,Audi,A4  ,2.0
+1791,490000.0,2018,53834,Petrol,Ahmedabad,No Tag,8137,Maruti Suzuki,Wagon R,1.0
+1792,6400000.0,2021,8500,Petrol,Ahmedabad,No Tag,1.06 L,Land,Rover  ,
+1793,4300000.0,2019,62700,Diesel,Ahmedabad,No Tag,71408,BMW,5 Series,
+1794,1075000.0,2019,21000,Petrol,Ahmedabad,No Tag,17852,Maruti Suzuki,XL6  ,
+1795,525000.0,2018,9500,Petrol,Ahmedabad,Just Arrived,8718,Hyundai,Santro  ,
+1796,550000.0,2020,30000,Petrol + 1,Ahmedabad,Just Arrived,9133,Hyundai,Santro  ,
+1797,890000.0,2016,117000,Diesel,Ahmedabad,No Tag,14779,Mahindra,XUV500  ,
+1798,1050000.0,2013,67500,Petrol,Ahmedabad,No Tag,17437,Toyota,Camry  ,
+1799,1550000.0,2019,60300,Diesel,Ahmedabad,No Tag,25740,Jeep,Compass Limited,
+1800,3800000.0,2019,61000,Diesel,Ahmedabad,Great Price,63105,BMW,5 Series,
+1801,990000.0,2017,62000,Petrol,Ahmedabad,No Tag,16440,Hyundai,Creta  ,1.6
+1802,1690000.0,2015,90000,Diesel,Ahmedabad,No Tag,28065,Audi,Q3  ,
+1803,990000.0,2017,80900,Diesel,Ahmedabad,No Tag,16440,Hyundai,Creta  ,1.6
+1804,675000.0,2021,24000,Petrol,Ahmedabad,No Tag,11209,Renault,Triber  ,
+1805,1190000.0,2020,67800,Diesel,Ahmedabad,No Tag,19761,Hyundai,Creta  ,1.6
+1806,975000.0,2016,146600,Diesel,Ahmedabad,No Tag,16191,Hyundai,Creta  ,1.6
+1807,2250000.0,2021,9535,Diesel,Ahmedabad,No Tag,37365,Tata,Harrier  ,
+1808,990000.0,2017,80900,Diesel,Ahmedabad,No Tag,16440,Hyundai,Creta  ,1.6
+1809,1190000.0,2019,37500,Diesel,Ahmedabad,Just Arrived,19761,Mahindra,XUV300  ,1.5
+1810,890000.0,2018,40000,Petrol,Ahmedabad,No Tag,14779,Volkswagen,Vento  ,1.2
+1811,675000.0,2017,58000,Petrol,Ahmedabad,Great Price,11209,Ford,EcoSport  ,1.5
+1812,360000.0,2014,80000,Petrol,Ahmedabad,No Tag,5978,Honda,Brio  ,
+1813,290000.0,2012,73000,Diesel,Ahmedabad,No Tag,,Nissan,Micra  ,
+1814,575000.0,2017,36000,Petrol,Ahmedabad,Just Arrived,9548,Honda,Amaze  ,1.2
+1815,450000.0,2019,109000,Petrol,Ahmedabad,Great Price,7473,Tata,Tigor  ,
+1816,550000.0,2015,97000,Diesel,Ahmedabad,No Tag,9133,Honda,Mobilio  ,
+1817,550000.0,2019,23000,Petrol,Ahmedabad,Just Arrived,9133,Tata,Tiago  ,
+1818,375000.0,2014,63000,Petrol + 1,Ahmedabad,No Tag,6227,Hyundai,i10  ,
+1819,390000.0,2014,73700,Petrol + 1,Ahmedabad,No Tag,6476,Hyundai,i10  ,
+1820,490000.0,2017,61000,Petrol,Ahmedabad,No Tag,8137,Volkswagen,Ameo  ,1.2
+1821,425000.0,2017,45200,Petrol,Ahmedabad,No Tag,7057,Maruti Suzuki,Wagon R,1.0
+1822,490000.0,2018,57300,Petrol + 1,Ahmedabad,Just Arrived,8137,Maruti Suzuki,Wagon R,1.0
+1823,525000.0,2018,23800,Petrol,Ahmedabad,No Tag,8718,Maruti Suzuki,Wagon R,1.0
+1824,475000.0,2015,40500,Diesel,Ahmedabad,No Tag,7888,Honda,Amaze  ,1.5
+1825,460000.0,2018,56200,Petrol,Ahmedabad,Just Arrived,7639,Maruti Suzuki,Wagon R,1.0
+1826,590000.0,2019,28000,Petrol,Ahmedabad,No Tag,9797,Volkswagen,Ameo  ,1.0
+1827,350000.0,2017,26700,Petrol,Ahmedabad,No Tag,5812,Hyundai,Eon  ,
+1828,460000.0,2018,42800,Petrol,Ahmedabad,No Tag,7639,Maruti Suzuki,Wagon R,1.0
+1829,550000.0,2017,40000,Petrol + 1,Ahmedabad,Just Arrived,9133,Volkswagen,Ameo  ,1.2
+1830,570000.0,2014,121000,Diesel,Ahmedabad,No Tag,9465,Nissan,Terrano  ,
+1831,425000.0,2018,24400,Petrol,Ahmedabad,No Tag,7057,Mahindra,KUV100  ,
+1832,325000.0,2015,52800,Petrol,Ahmedabad,Just Arrived,5397,Ford,Figo  ,1.2
+1833,540000.0,2017,65000,Petrol,Ahmedabad,No Tag,8967,Hyundai,Grand i10,1.2
+1834,590000.0,2013,56000,Diesel,Ahmedabad,No Tag,9797,Chevrolet,Cruze  ,
+1835,975000.0,2016,82600,Diesel,Ahmedabad,No Tag,16191,Hyundai,Creta  ,1.6
+1836,1250000.0,2009,35000,Diesel,Ahmedabad,Great Price,,BMW,7 Series,
+1837,2290000.0,2020,21000,Electric,Ahmedabad,No Tag,38029,MG,ZS  ,
+1838,490000.0,2012,66800,Diesel,Ahmedabad,No Tag,,Hyundai,Verna  ,1.6
+1839,790000.0,2014,48800,Petrol,Ahmedabad,No Tag,13119,Hyundai,Elantra  ,1.8
+1840,5900000.0,2019,18400,Diesel,Ahmedabad,Just Arrived,97979,Mercedes-Benz,GLE  ,
+1841,3290000.0,2019,19500,Diesel,Ahmedabad,Just Arrived,54635,Toyota,Fortuner  ,
+1842,690000.0,2017,84300,Diesel,Ahmedabad,No Tag,11458,Hyundai,Elite i20,1.4
+1843,890000.0,2019,57000,Petrol,Ahmedabad,No Tag,14779,Honda,City  ,
+1844,550000.0,2018,34200,Petrol,Ahmedabad,No Tag,9133,Hyundai,Grand i10,1.2
+1845,490000.0,2015,38800,Petrol,Ahmedabad,No Tag,8137,Hyundai,Xcent  ,1.2
+1846,790000.0,2017,56204,Diesel,Ahmedabad,Home Test Drive,13119,Ford,EcoSport  ,1.5
+1847,725000.0,2017,33000,Petrol,Ahmedabad,No Tag,12039,Honda,City  ,
+1848,2690000.0,2017,35800,Diesel,Ahmedabad,Great Price,44671,Audi,A6  ,
+1849,625000.0,2014,77000,Diesel,Ahmedabad,No Tag,,Nissan,Terrano  ,
+1850,640000.0,2019,57340,Petrol,Ahmedabad,Home Test Drive,10628,Honda,Jazz  ,
+1851,1290000.0,2019,54517,Petrol,Ahmedabad,Home Test Drive,21422,Toyota,Corolla Altis,
+1852,450000.0,2016,21996,Petrol,Ahmedabad,Home Test Drive,7473,Honda,Brio  ,
+1853,601000.0,2019,32832,Petrol,Ahmedabad,Quality Report,9980,Maruti Suzuki,Baleno  ,1.2
+1854,887000.0,2020,49664,Diesel,Ahmedabad,Quality Report,14730,Ford,EcoSport  ,1.5
+1855,1011000.0,2017,85727,Diesel,Ahmedabad,No Tag,16789,Hyundai,Elantra  ,1.6
+1856,473000.0,2015,73694,Petrol,Ahmedabad,No Tag,7854,Honda,Jazz  ,
+1857,1204000.0,2020,13414,Petrol,Ahmedabad,No Tag,19994,Honda,City  ,
+1858,642000.0,2020,54364,Petrol,Ahmedabad,No Tag,10661,Maruti Suzuki,Swift  ,
+1859,610000.0,2021,3251,Petrol,Ahmedabad,Quality Report,10130,Maruti Suzuki,Celerio  ,
+1860,512000.0,2017,36329,Petrol,Ahmedabad,Quality Report,8502,Hyundai,Grand i10,1.2
+1861,1083000.0,2020,23565,Diesel,Ahmedabad,No Tag,17985,Maruti Suzuki,S-Cross  ,1.3
+1862,309000.0,2013,99157,Petrol,Ahmedabad,No Tag,5131,Honda,Brio  ,
+1863,497000.0,2015,63150,Petrol,Ahmedabad,No Tag,8261,Maruti Suzuki,Baleno  ,1.2
+1864,351000.0,2014,54486,Petrol,Ahmedabad,No Tag,5825,Maruti Suzuki,Celerio  ,
+1865,476000.0,2015,17015,Petrol,Ahmedabad,Great Price,7901,Ford,EcoSport  ,1.5
+1866,804000.0,2020,26656,Petrol,Ahmedabad,No Tag,13350,Hyundai,Venue  ,1.2
+1867,847000.0,2022,4044,Petrol,Ahmedabad,No Tag,14065,Renault,Kiger  ,
+1868,369000.0,2013,66137,Petrol,Ahmedabad,Home Test Drive,6122,Honda,Amaze  ,1.2
+1869,383000.0,2021,12793,Petrol,Ahmedabad,No Tag,6360,Maruti Suzuki,Alto  ,
+1870,596000.0,2018,96692,Petrol,Ahmedabad,Home Test Drive,9897,Maruti Suzuki,Baleno  ,1.2
+1871,618000.0,2019,41880,Petrol,Ahmedabad,Home Test Drive,10262,Maruti Suzuki,Baleno  ,1.2
+1872,574000.0,2017,48212,Petrol,Ahmedabad,Home Test Drive,9538,Maruti Suzuki,Dzire  ,
+1873,661000.0,2019,34973,Petrol,Ahmedabad,Home Test Drive,10975,Tata,Nexon  ,
+1874,520000.0,2014,22123,Petrol,Ahmedabad,No Tag,8635,Volkswagen,Vento  ,
+1875,901000.0,2016,40871,Petrol,Ahmedabad,Home Test Drive,,Volkswagen,Vento  ,
+1876,1183000.0,2016,58145,Diesel,Ahmedabad,Home Test Drive,,Mahindra,XUV500  ,
+1877,598000.0,2015,45963,Petrol,Ahmedabad,Home Test Drive,,Hyundai,Verna  ,1.6
+1878,505000.0,2013,90128,Petrol,Ahmedabad,Home Test Drive,8389,Honda,City  ,1.5
+1879,298000.0,2016,23531,Petrol,Ahmedabad,Quality Report,4948,Hyundai,Eon  ,
+1880,298000.0,2016,23531,Petrol,Ahmedabad,Quality Report,4948,Hyundai,Eon  ,
+1881,375000.0,2013,66950,Petrol,Ahmedabad,No Tag,6227,Maruti Suzuki,Swift  ,
+1882,385000.0,2011,49034,Diesel,Ahmedabad,No Tag,,Maruti Suzuki,Swift  ,
+1883,370000.0,2014,46057,Petrol,Ahmedabad,Home Test Drive,6142,Hyundai,Grand i10,1.2
+1884,340000.0,2013,29449,Diesel,Ahmedabad,Home Test Drive,5647,Maruti Suzuki,Swift  ,
+1885,1175000.0,2019,25086,Petrol,Ahmedabad,Home Test Drive,19509,Kia,Seltos  ,1.5
+1886,369000.0,2014,81145,Petrol,Ahmedabad,Home Test Drive,6127,Hyundai,Grand i10,1.2
+1887,494000.0,2016,23375,Petrol,Ahmedabad,Home Test Drive,8207,Maruti Suzuki,Baleno  ,1.2
+1888,559000.0,2015,35907,Petrol,Ahmedabad,Home Test Drive,9276,Hyundai,i20  ,1.2
+1889,492000.0,2016,28805,Petrol,Ahmedabad,Home Test Drive,8170,Maruti Suzuki,Swift  ,
+1890,707000.0,2020,18025,Petrol,Ahmedabad,Quality Report,11740,Maruti Suzuki,Baleno  ,1.2
+1891,726000.0,2017,17117,Petrol,Ahmedabad,Home Test Drive,12054,Honda,WR-V  ,
+1892,687000.0,2017,61500,Diesel,Ahmedabad,Home Test Drive,11403,Maruti Suzuki,Vitara Brezza,
+1893,337000.0,2010,48252,Petrol,Ahmedabad,Home Test Drive,,Maruti Suzuki,Swift  ,
+1894,506000.0,2013,39755,Petrol,Ahmedabad,Home Test Drive,8397,Honda,City  ,1.5
+1895,411000.0,2010,111856,Petrol,Ahmedabad,No Tag,,Volkswagen,Vento  ,
+1896,328000.0,2012,60647,Diesel,Ahmedabad,No Tag,,Volkswagen,Polo  ,1.2
+1897,386000.0,2014,67635,Petrol,Ahmedabad,Home Test Drive,6416,Maruti Suzuki,Swift  ,
+1898,310000.0,2012,57363,Petrol,Ahmedabad,Home Test Drive,,Maruti Suzuki,Wagon R,1.0
+1899,298000.0,2010,29450,Petrol,Ahmedabad,Home Test Drive,,Maruti Suzuki,Wagon R,1.0
+1900,430000.0,2014,51235,Petrol,Ahmedabad,Home Test Drive,7135,Hyundai,Xcent  ,1.2
+1901,384000.0,2011,42351,Petrol,Ahmedabad,Home Test Drive,,Maruti Suzuki,Swift  ,
+1902,270000.0,2011,38851,Diesel,Ahmedabad,Home Test Drive,,Maruti Suzuki,Swift  ,
+1903,699000.0,2017,77611,Diesel,Ahmedabad,Home Test Drive,11608,Honda,WR-V  ,
+1904,333000.0,2011,93313,Petrol,Ahmedabad,Home Test Drive,,Maruti Suzuki,Swift  ,
+1905,332000.0,2013,79969,Petrol,Ahmedabad,Home Test Drive,5513,Maruti Suzuki,Swift  ,
+1906,895000.0,2014,87763,Diesel,Ahmedabad,Home Test Drive,14862,Mahindra,XUV500  ,
+1907,211000.0,2012,37009,Petrol,Ahmedabad,Home Test Drive,,Hyundai,i10  ,1.2
+1908,265000.0,2011,73262,Petrol,Ahmedabad,Home Test Drive,,Hyundai,i10  ,
+1909,286000.0,2013,45175,Petrol,Ahmedabad,Home Test Drive,4752,Maruti Suzuki,Wagon R,1.0
+1910,714000.0,2017,36607,Diesel,Ahmedabad,Great Price,11853,Honda,WR-V  ,
+1911,322000.0,2019,19862,Petrol,Ahmedabad,Home Test Drive,5352,Maruti Suzuki,Alto  ,
+1912,262000.0,2011,41065,Petrol,Ahmedabad,No Tag,,Maruti Suzuki,Wagon R,1.0
+1913,388000.0,2015,45428,Petrol,Ahmedabad,No Tag,6443,Maruti Suzuki,Swift  ,
+1914,433000.0,2018,11586,Petrol,Ahmedabad,Home Test Drive,7189,Maruti Suzuki,Eeco  ,
+1915,363000.0,2018,29552,Petrol,Ahmedabad,Home Test Drive,6028,Renault,Kwid  ,1.0
+1916,446000.0,2011,84188,Diesel,Ahmedabad,Home Test Drive,,Hyundai,Verna  ,1.6
+1917,199000.0,2011,2147483647,Petrol,Ahmedabad,No Tag,,Maruti Suzuki,Alto  ,
+1918,198000.0,2010,28525,Petrol,Ahmedabad,No Tag,,Maruti Suzuki,Alto  ,
+1919,348000.0,2013,84226,Petrol,Ahmedabad,Home Test Drive,5782,Maruti Suzuki,Swift  ,
+1920,347000.0,2012,59831,Petrol,Ahmedabad,Home Test Drive,,Maruti Suzuki,Swift  ,
+1921,267000.0,2011,41505,Petrol,Ahmedabad,Home Test Drive,,Hyundai,i10  ,1.2
+1922,291000.0,2014,55825,Petrol,Ahmedabad,Home Test Drive,4832,Maruti Suzuki,Wagon R,1.0
+1923,581000.0,2015,34159,Petrol,Ahmedabad,Home Test Drive,9648,Maruti Suzuki,Ciaz  ,
+1924,469000.0,2015,50277,Petrol,Ahmedabad,Quality Report,7788,Maruti Suzuki,Swift  ,
+1925,458000.0,2018,11949,Petrol,Ahmedabad,Home Test Drive,7605,Maruti Suzuki,Ignis  ,1.2
+1926,414000.0,2015,70490,Diesel,Ahmedabad,Home Test Drive,6881,Hyundai,Xcent  ,
+1927,384000.0,2013,59030,Petrol,Ahmedabad,Home Test Drive,6373,Maruti Suzuki,Swift  ,
+1928,604000.0,2018,41040,Petrol,Ahmedabad,Home Test Drive,10030,Maruti Suzuki,Dzire  ,
+1929,209000.0,2012,51229,Petrol,Ahmedabad,Home Test Drive,,Hyundai,i10  ,
+1930,205000.0,2010,97784,Petrol,Ahmedabad,Home Test Drive,,Hyundai,i10  ,1.2
+1931,372000.0,2015,76868,Petrol,Ahmedabad,Home Test Drive,6171,Hyundai,Grand i10,1.2
+1932,719000.0,2021,13147,Petrol,Ahmedabad,Quality Report,11940,Maruti Suzuki,Baleno  ,1.2
+1933,438000.0,2011,43208,Petrol,Ahmedabad,Home Test Drive,,Honda,City  ,1.5
+1934,435000.0,2012,97771,Petrol,Ahmedabad,Home Test Drive,,Honda,City  ,1.5
+1935,476000.0,2017,42678,Petrol,Ahmedabad,Quality Report,7904,Maruti Suzuki,Swift  ,
+1936,299000.0,2016,29588,Petrol,Ahmedabad,Home Test Drive,4965,Maruti Suzuki,Alto  ,
+1937,234000.0,2014,18106,Petrol,Ahmedabad,Home Test Drive,3894,Maruti Suzuki,Alto  ,
+1938,234000.0,2015,35260,Petrol,Ahmedabad,Home Test Drive,3885,Maruti Suzuki,Alto  ,
+1939,233000.0,2012,15314,Petrol,Ahmedabad,Home Test Drive,,Maruti Suzuki,Alto  ,
+1940,363000.0,2013,58099,Petrol,Ahmedabad,Home Test Drive,6028,Honda,Amaze  ,1.2
+1941,260000.0,2011,95053,Petrol,Ahmedabad,Home Test Drive,,Hyundai,i20  ,1.2
+1942,362000.0,2014,68160,Petrol,Ahmedabad,Home Test Drive,6011,Honda,Amaze  ,1.2
+1943,644000.0,2016,85486,Diesel,Ahmedabad,Home Test Drive,10694,Maruti Suzuki,Vitara Brezza,
+1944,208000.0,2010,49822,Petrol,Ahmedabad,Home Test Drive,,Hyundai,i10  ,1.2
+1945,295000.0,2012,14030,Petrol,Ahmedabad,Home Test Drive,,Maruti Suzuki,Wagon R,1.0
+1946,749000.0,2020,10477,Petrol,Ahmedabad,No Tag,12446,Tata,Altroz  ,
+1947,345000.0,2013,76088,Petrol,Ahmedabad,No Tag,5729,Maruti Suzuki,Swift  ,
+1948,845000.0,2022,3656,Petrol,Ahmedabad,Home Test Drive,14032,Honda,Amaze  ,1.2
+1949,497000.0,2019,21973,Petrol,Ahmedabad,Home Test Drive,8253,Maruti Suzuki,Wagon R,1.0
+1950,565000.0,2019,12541,Petrol,Ahmedabad,Home Test Drive,9382,Hyundai,Santro  ,
+1951,516000.0,2018,20974,Petrol,Ahmedabad,Home Test Drive,8569,Hyundai,Grand i10,1.2
+1952,243000.0,2011,69212,Petrol,Ahmedabad,Home Test Drive,,Hyundai,i10  ,1.2
+1953,1042000.0,2017,79448,Petrol,Ahmedabad,Home Test Drive,17304,Hyundai,Creta  ,1.6
+1954,362000.0,2015,37085,Petrol,Ahmedabad,Home Test Drive,6011,Hyundai,i10  ,
+1955,467000.0,2015,37736,Petrol,Ahmedabad,Home Test Drive,7755,Honda,Jazz  ,
+1956,372000.0,2014,95868,Petrol,Ahmedabad,Home Test Drive,6184,Hyundai,Grand i10,1.2
+1957,440000.0,2013,71893,Petrol,Ahmedabad,Home Test Drive,7306,Honda,City  ,1.5
+1958,416000.0,2011,36819,Petrol,Ahmedabad,Home Test Drive,,Honda,City  ,1.5
+1959,484000.0,2015,46924,Petrol,Ahmedabad,Home Test Drive,8035,Honda,Jazz  ,
+1960,630000.0,2017,39167,Petrol,Ahmedabad,Home Test Drive,10457,Honda,WR-V  ,
+1961,492000.0,2020,33114,Petrol,Ahmedabad,No Tag,8170,Maruti Suzuki,Eeco  ,
+1962,628000.0,2018,45309,Petrol,Ahmedabad,Quality Report,10428,Honda,Amaze  ,1.2
+1963,505000.0,2017,84496,Petrol,Ahmedabad,Quality Report,8386,Maruti Suzuki,Ignis  ,1.2
+1964,190000.0,2010,49447,Petrol,Ahmedabad,Home Test Drive,,Hyundai,i10  ,1.2
+1965,581000.0,2019,28387,Petrol,Ahmedabad,Home Test Drive,9643,Renault,Triber  ,
+1966,461000.0,2018,58866,Petrol,Ahmedabad,Home Test Drive,7655,Maruti Suzuki,Ignis  ,1.2
+1967,745000.0,2021,20107,Petrol,Ahmedabad,Home Test Drive,12371,Toyota,Glanza  ,
+1968,2159000.0,2021,3044,Petrol,Ahmedabad,Home Test Drive,35862,Hyundai,Alcazar  ,2.0
+1969,807000.0,2022,2792,Petrol,Ahmedabad,Home Test Drive,13403,Hyundai,Aura  ,1.2
+1970,545000.0,2015,43222,Petrol,Ahmedabad,No Tag,9048,Maruti Suzuki,Ciaz  ,
+1971,580000.0,2019,10149,Petrol,Ahmedabad,Home Test Drive,9631,Renault,Triber  ,
+1972,497000.0,2015,56772,Petrol,Ahmedabad,No Tag,8256,Maruti Suzuki,Baleno  ,1.2
+1973,724000.0,2020,89,Petrol,Ahmedabad,Home Test Drive,12031,Toyota,Glanza  ,
+1974,210000.0,2009,21473,Petrol,Ahmedabad,Great Price,,Hyundai,i10  ,
+1975,482000.0,2015,55894,Petrol,Ahmedabad,Home Test Drive,8002,Honda,Jazz  ,
+1976,580000.0,2018,28851,Diesel,Kolkata,No Tag,9631,Maruti Suzuki,Swift  ,
+1977,1200000.0,2015,50965,Diesel,Kolkata,Great Price,19928,Volvo,V40  ,
+1978,799000.0,2019,28224,Petrol,Kolkata,No Tag,13268,Hyundai,Venue  ,1.0
+1979,215000.0,2014,53000,Petrol,Kolkata,No Tag,3570,Ford,Fiesta  ,1.6
+1980,500000.0,2018,50000,Petrol,Kolkata,Home Test Drive,8303,Honda,WR-V  ,
+1981,650000.0,2017,76810,Diesel,Kolkata,No Tag,10794,Skoda,Rapid  ,1.5
+1982,700000.0,2018,47200,Petrol,Kolkata,No Tag,11624,Honda,City  ,
+1983,700000.0,2018,64212,Diesel,Kolkata,No Tag,11624,Tata,Hexa  ,
+1984,820000.0,2019,47147,Petrol,Kolkata,Home Test Drive,13617,Hyundai,Venue  ,1.0
+1985,440000.0,2018,23894,Petrol,Kolkata,Home Test Drive,7306,Honda,Jazz  ,
+1986,1200000.0,2019,11193,Petrol,Kolkata,Home Test Drive,19928,Jeep,Compass Sport,1.4
+1987,900000.0,2018,78294,Diesel,Kolkata,Home Test Drive,14946,Jeep,Compass Sport,2.0
+1988,1050000.0,2019,21751,Diesel,Kolkata,Home Test Drive,17437,Mahindra,XUV300  ,1.5
+1989,245000.0,2018,38863,Petrol,Kolkata,Home Test Drive,4068,Maruti Suzuki,Alto  ,
+1990,770000.0,2020,29859,Petrol,Kolkata,Great Price,12787,Tata,Nexon  ,
+1991,750000.0,2018,60040,Petrol,Kolkata,Great Price,12455,Hyundai,Creta  ,1.6
+1992,920000.0,2019,65094,Diesel,Kolkata,Home Test Drive,15278,Hyundai,Verna  ,1.6
+1993,320000.0,2016,97745,Petrol,Kolkata,Home Test Drive,5314,Maruti Suzuki,Wagon R,1.0
+1994,150000.0,2014,38863,Petrol,Kolkata,Home Test Drive,2491,Hyundai,Eon  ,
+1995,330000.0,2016,38000,Petrol,Kolkata,No Tag,5480,Hyundai,i10  ,
+1996,600000.0,2019,24182,Diesel,Kolkata,Great Price,9964,Maruti Suzuki,Ciaz  ,1.3
+1997,90000.0,2003,50250,Petrol,Kolkata,Just Arrived,,Hyundai,Santro  ,
+1998,360000.0,2015,86866,Petrol,Kolkata,Home Test Drive,5978,Maruti Suzuki,Wagon R,1.0
+1999,870000.0,2019,27095,Diesel,Kolkata,Home Test Drive,14447,Maruti Suzuki,Ciaz  ,1.3
+2000,299000.0,2012,35982,Petrol,Kolkata,No Tag,,Hyundai,i20  ,1.2
+2001,299000.0,2014,44480,Petrol,Kolkata,No Tag,4965,Maruti Suzuki,Wagon R,1.0
+2002,775000.0,2016,66761,Diesel,Kolkata,No Tag,12870,Hyundai,Creta  ,1.6
+2003,575000.0,2017,28233,Petrol,Kolkata,No Tag,9548,Hyundai,Elite i20,1.2
+2004,399000.0,2018,36515,Petrol,Kolkata,No Tag,6626,Hyundai,Grand i10,1.2
+2005,795000.0,2019,19677,Petrol,Kolkata,No Tag,13202,Hyundai,Verna  ,1.6
+2006,975000.0,2015,111000,Diesel,Kolkata,No Tag,16191,Isuzu,MU7  ,
+2007,350000.0,2013,72000,Diesel,Kolkata,No Tag,5812,Skoda,Laura  ,2.0
+2008,450000.0,2015,47000,Diesel,Kolkata,No Tag,7473,Hyundai,Elite i20,1.4
+2009,151000.0,2007,73000,Petrol,Kolkata,No Tag,,Honda,City  ,
+2010,572000.0,2016,108943,Diesel,Kolkata,Home Test Drive,9507,Maruti Suzuki,Vitara Brezza,
+2011,441000.0,2014,74529,Diesel,Kolkata,No Tag,7323,Ford,EcoSport  ,1.5
+2012,605000.0,2016,62778,Diesel,Kolkata,Home Test Drive,10053,Maruti Suzuki,Vitara Brezza,
+2013,680000.0,2021,7354,Petrol,Kolkata,No Tag,11292,Tata,Altroz  ,
+2014,638000.0,2017,69342,Diesel,Kolkata,No Tag,10595,Ford,EcoSport  ,1.5
+2015,184000.0,2010,7956,Petrol,Kolkata,Home Test Drive,,Maruti Suzuki,Alto  ,
+2016,434000.0,2014,73768,Petrol,Kolkata,No Tag,7210,Hyundai,Elite i20,1.2
+2017,1093000.0,2021,6095,Petrol,Kolkata,Home Test Drive,,Kia,Sonet  ,1.0
+2018,787000.0,2016,57220,Petrol,Kolkata,Home Test Drive,13069,Hyundai,Creta  ,1.6
+2019,573000.0,2016,72378,Diesel,Kolkata,Home Test Drive,9515,Maruti Suzuki,Vitara Brezza,
+2020,260000.0,2017,54369,Petrol,Kolkata,Home Test Drive,4321,Renault,Kwid  ,
+2021,212000.0,2012,119903,Petrol,Kolkata,Home Test Drive,,Maruti Suzuki,Alto  ,
+2022,252000.0,2011,41805,Petrol,Kolkata,Home Test Drive,,Maruti Suzuki,Wagon R,1.0
+2023,1190000.0,2020,32237,Petrol,Kolkata,Home Test Drive,19760,Kia,Seltos  ,1.5
+2024,308000.0,2013,83523,Diesel,Kolkata,No Tag,5114,Honda,Amaze  ,1.5
+2025,347000.0,2012,59831,Petrol,Kolkata,Home Test Drive,,Maruti Suzuki,Swift  ,
+2026,1081000.0,2018,79592,Diesel,Kolkata,Home Test Drive,17951,Jeep,Compass Limited,2.0
+2027,278000.0,2012,46633,Petrol + 1,Kolkata,Home Test Drive,,Maruti Suzuki,Wagon R,1.0
+2028,277000.0,2012,61661,CNG,Kolkata,Home Test Drive,,Maruti Suzuki,Wagon R,1.0
+2029,276000.0,2011,48111,Petrol,Kolkata,Home Test Drive,,Toyota,Etios  ,
+2030,722000.0,2016,76581,Diesel,Kolkata,Home Test Drive,11990,Hyundai,Creta  ,1.4
+2031,276000.0,2013,59138,CNG,Kolkata,Home Test Drive,4590,Maruti Suzuki,Wagon R,1.0
+2032,348000.0,2013,84226,Petrol,Kolkata,Home Test Drive,5782,Maruti Suzuki,Swift  ,
+2033,1548000.0,2020,16008,Diesel,Kolkata,Home Test Drive,25700,Mahindra,Scorpio  ,
+2034,681000.0,2012,45780,Diesel,Kolkata,Home Test Drive,,Mahindra,XUV500  ,
+2035,198000.0,2010,28525,Petrol,Kolkata,Home Test Drive,,Maruti Suzuki,Alto  ,
+2036,366000.0,2016,82471,Petrol,Kolkata,Home Test Drive,6078,Tata,Tiago  ,
+2037,232000.0,2012,40295,Petrol,Kolkata,Home Test Drive,,Maruti Suzuki,Alto  ,
+2038,247000.0,2012,50388,CNG,Kolkata,Home Test Drive,,Maruti Suzuki,Wagon R,1.0
+2039,313000.0,2014,88270,Petrol,Kolkata,Home Test Drive,5197,Hyundai,Grand i10,1.2
+2040,232000.0,2014,33499,Petrol,Kolkata,Home Test Drive,3852,Maruti Suzuki,Alto  ,
+2041,185000.0,2011,44341,Petrol,Kolkata,Home Test Drive,,Hyundai,i10  ,
+2042,247000.0,2013,84207,Petrol,Kolkata,Home Test Drive,4101,Maruti Suzuki,Wagon R,1.0
+2043,260000.0,2011,38069,Petrol,Kolkata,Home Test Drive,,Maruti Suzuki,Wagon R,1.0
+2044,233000.0,2014,34031,Petrol,Kolkata,Home Test Drive,3864,Maruti Suzuki,Alto  ,
+2045,228000.0,2014,52836,Petrol,Kolkata,Home Test Drive,3781,Maruti Suzuki,Alto  ,
+2046,227000.0,2013,37249,Petrol,Kolkata,Home Test Drive,3766,Maruti Suzuki,Alto  ,
+2047,494000.0,2013,61100,Diesel,Kolkata,Home Test Drive,8203,Renault,Duster  ,
+2048,408000.0,2012,84870,Petrol,Kolkata,Home Test Drive,,Honda,City  ,1.5
+2049,403000.0,2010,46941,Petrol,Kolkata,Home Test Drive,,Honda,City  ,1.5
+2050,457000.0,2013,96421,Petrol,Kolkata,Home Test Drive,7587,Hyundai,Verna  ,1.6
+2051,684000.0,2020,22688,Petrol,Kolkata,No Tag,11365,Tata,Altroz  ,
+2052,465000.0,2012,62293,Petrol,Kolkata,Home Test Drive,,Hyundai,Verna  ,1.6
+2053,328000.0,2012,67715,Petrol,Kolkata,Home Test Drive,,Maruti Suzuki,Swift  ,
+2054,219000.0,2013,67605,Petrol,Kolkata,Home Test Drive,3645,Maruti Suzuki,Alto  ,
+2055,420000.0,2014,48964,Petrol,Kolkata,Home Test Drive,6974,Hyundai,Xcent  ,1.2
+2056,754000.0,2017,95076,Diesel,Kolkata,Home Test Drive,12521,Hyundai,Creta  ,1.4
+2057,473000.0,2017,63626,Petrol,Kolkata,Home Test Drive,7861,Maruti Suzuki,Baleno  ,1.2
+2058,615000.0,2017,89354,Diesel,Kolkata,Home Test Drive,10213,Ford,EcoSport  ,1.5
+2059,344000.0,2018,34027,Petrol,Kolkata,Quality Report,5712,Maruti Suzuki,Wagon R,1.0
+2060,313000.0,2014,10953,Petrol,Kolkata,Quality Report,5197,Maruti Suzuki,Wagon R,1.0
+2061,188000.0,2014,40350,Petrol,Kolkata,Home Test Drive,3122,Maruti Suzuki,Alto  ,
+2062,290000.0,2016,35053,Petrol,Kolkata,Home Test Drive,4817,Renault,Kwid  ,
+2063,153000.0,2010,34713,Petrol,Kolkata,Home Test Drive,,Maruti Suzuki,Estilo  ,
+2064,365000.0,2013,68818,Diesel,Kolkata,Home Test Drive,6061,Volkswagen,Vento  ,
+2065,384000.0,2013,40457,Diesel,Kolkata,Home Test Drive,6375,Skoda,Rapid  ,1.6
+2066,394000.0,2012,96713,Diesel,Kolkata,Home Test Drive,,Skoda,Rapid  ,1.6
+2067,499000.0,2016,52526,Petrol,Kolkata,Home Test Drive,8286,Maruti Suzuki,Baleno  ,1.2
+2068,502000.0,2016,49965,Petrol,Kolkata,Home Test Drive,8336,Maruti Suzuki,Baleno  ,1.2
+2069,722000.0,2020,8233,Petrol,Kolkata,Quality Report,11990,Maruti Suzuki,Baleno  ,1.2
+2070,276000.0,2017,22017,Petrol,Kolkata,Home Test Drive,4583,Maruti Suzuki,Alto  ,
+2071,494000.0,2013,72216,Diesel,Kolkata,Home Test Drive,8211,Ford,EcoSport  ,1.5
+2072,354000.0,2014,11131,Petrol,Kolkata,Home Test Drive,5880,Hyundai,Grand i10,1.2
+2073,502000.0,2017,63156,Petrol,Kolkata,Home Test Drive,8336,Maruti Suzuki,Baleno  ,1.2
+2074,288000.0,2013,32796,Petrol,Kolkata,Home Test Drive,4776,Maruti Suzuki,Wagon R,1.0
+2075,421000.0,2014,71803,Petrol,Kolkata,Home Test Drive,6991,Hyundai,Xcent  ,1.2
+2076,225000.0,2014,81253,Petrol,Kolkata,Home Test Drive,3736,Maruti Suzuki,Alto  ,
+2077,789000.0,2015,86671,Diesel,Kolkata,Home Test Drive,13107,Hyundai,Creta  ,1.6
+2078,303000.0,2013,35630,Petrol,Kolkata,Home Test Drive,5038,Maruti Suzuki,Wagon R,1.0
+2079,309000.0,2012,90673,Petrol,Kolkata,Home Test Drive,,Maruti Suzuki,Swift  ,
+2080,460000.0,2019,3395,Petrol,Kolkata,Home Test Drive,7637,Maruti Suzuki,Eeco  ,
+2081,203000.0,2012,49705,Petrol,Kolkata,Home Test Drive,,Maruti Suzuki,Alto  ,
+2082,499000.0,2014,54808,Diesel,Kolkata,Home Test Drive,8283,Renault,Duster  ,
+2083,281000.0,2011,58525,Petrol,Kolkata,Home Test Drive,,Maruti Suzuki,Swift  ,
+2084,281000.0,2011,43451,Petrol,Kolkata,Home Test Drive,,Maruti Suzuki,Swift  ,
+2085,350000.0,2014,51313,Petrol,Kolkata,Home Test Drive,5815,Hyundai,Grand i10,1.2
+2086,536000.0,2019,46575,Petrol,Kolkata,Home Test Drive,8901,Maruti Suzuki,Swift  ,
+2087,648000.0,2020,8823,Petrol,Kolkata,No Tag,10761,Maruti Suzuki,Baleno  ,1.2
+2088,563000.0,2019,4277,Petrol,Kolkata,Home Test Drive,9349,Renault,Triber  ,
+2089,430000.0,2014,29856,Petrol,Kolkata,Home Test Drive,7140,Honda,City  ,
+2090,460000.0,2016,31349,Petrol,Kolkata,Home Test Drive,7639,Maruti Suzuki,Ciaz  ,
+2091,313000.0,2014,70443,Petrol,Kolkata,Home Test Drive,5197,Hyundai,Xcent  ,1.2
+2092,544000.0,2020,1290,Petrol,Kolkata,Home Test Drive,9034,Maruti Suzuki,Ignis  ,1.2
+2093,724000.0,2021,9288,Petrol,Kolkata,Home Test Drive,12023,Tata,Altroz  ,
+2094,718000.0,2016,84946,Petrol,Kolkata,Home Test Drive,11923,Hyundai,Creta  ,1.6
+2095,220000.0,2011,18852,Petrol,Kolkata,Home Test Drive,,Hyundai,i20  ,1.2
+2096,603000.0,2017,56272,Petrol,Kolkata,Home Test Drive,10013,Maruti Suzuki,Baleno  ,1.2
+2097,249000.0,2011,39692,CNG,Kolkata,Home Test Drive,,Maruti Suzuki,Wagon R,1.0
+2098,281000.0,2016,47499,Petrol,Kolkata,Home Test Drive,4671,Renault,Kwid  ,1.0
+2099,641000.0,2019,12423,Petrol,Kolkata,Home Test Drive,10644,Maruti Suzuki,Baleno  ,1.2
+2100,806000.0,2021,25111,Petrol,Kolkata,Home Test Drive,13384,Maruti Suzuki,Baleno  ,1.2
+2101,860000.0,2017,12158,Petrol,Kolkata,Home Test Drive,14281,Hyundai,Verna  ,1.6
+2102,319000.0,2010,46402,Petrol,Kolkata,Home Test Drive,,Honda,City  ,1.5
+2103,492000.0,2018,10645,Petrol,Kolkata,Home Test Drive,8170,Hyundai,Xcent  ,1.2
+2104,509000.0,2016,46925,Petrol,Kolkata,Home Test Drive,8451,Maruti Suzuki,Baleno  ,1.2
+2105,198000.0,2010,45622,Petrol,Kolkata,Home Test Drive,,Maruti Suzuki,Estilo  ,
+2106,1077000.0,2019,22773,Petrol,Kolkata,Home Test Drive,17885,Kia,Seltos  ,1.5
+2107,279000.0,2014,65735,Petrol,Kolkata,No Tag,4633,Maruti Suzuki,Wagon R,1.0
+2108,574000.0,2018,50515,Diesel,Kolkata,Home Test Drive,9532,Honda,Amaze  ,1.5
+2109,592000.0,2018,22652,Petrol,Kolkata,Home Test Drive,9831,Hyundai,Elite i20,1.2
+2110,1454000.0,2019,84249,Diesel,Kolkata,Home Test Drive,24146,Mahindra,Scorpio  ,
+2111,246000.0,2015,50876,Petrol,Kolkata,Home Test Drive,4085,Datsun,GO  ,
+2112,291000.0,2019,71129,Petrol,Kolkata,Home Test Drive,4827,Maruti Suzuki,Alto  ,
+2113,394000.0,2013,70100,Petrol,Kolkata,Home Test Drive,6539,Honda,Amaze  ,1.2
+2114,714000.0,2016,94693,Petrol,Kolkata,Home Test Drive,11855,Hyundai,Creta  ,1.6
+2115,428000.0,2014,48746,Petrol,Kolkata,Home Test Drive,7100,Ford,EcoSport  ,1.5
+2116,341000.0,2010,83657,Petrol,Kolkata,Home Test Drive,,Honda,City  ,1.5
+2117,833000.0,2020,28111,Petrol,Kolkata,Home Test Drive,13833,Hyundai,Venue  ,1.2
+2118,450000.0,2016,48377,Petrol,Kolkata,Home Test Drive,7481,Skoda,Rapid  ,1.6
+2119,337000.0,2014,53437,Petrol,Kolkata,Home Test Drive,5603,Maruti Suzuki,Celerio  ,
+2120,349000.0,2014,4317,Petrol,Kolkata,Home Test Drive,5795,Hyundai,Xcent  ,1.2
+2121,311000.0,2013,24914,Petrol,Kolkata,Home Test Drive,5169,Maruti Suzuki,Swift  ,
+2122,460000.0,2019,8628,Petrol,Kolkata,Home Test Drive,7634,Maruti Suzuki,Eeco  ,
+2123,415000.0,2017,37151,Petrol,Kolkata,Home Test Drive,6900,Honda,Amaze  ,1.2
+2124,475000.0,2019,33130,Petrol,Kolkata,Quality Report,7888,Hyundai,Grand i10,1.2
+2125,622000.0,2019,2935,Petrol,Kolkata,Home Test Drive,10329,Hyundai,Grand i10,1.2
+2126,314000.0,2019,29782,Petrol,Kolkata,Home Test Drive,5214,Maruti Suzuki,Alto  ,
+2127,254000.0,2015,33907,Petrol,Kolkata,Home Test Drive,4216,Renault,Kwid  ,
+2128,314000.0,2019,10039,Petrol,Kolkata,Home Test Drive,5207,Maruti Suzuki,Alto  ,
+2129,1436000.0,2018,55798,Diesel,Kolkata,Home Test Drive,23847,Mahindra,Scorpio  ,
+2130,509000.0,2017,38539,Petrol,Kolkata,Home Test Drive,8452,Maruti Suzuki,Baleno  ,1.2
+2131,528000.0,2015,72959,Petrol,Kolkata,No Tag,8768,Ford,EcoSport  ,1.5
+2132,413000.0,2015,68637,Petrol,Kolkata,Home Test Drive,6860,Honda,Jazz  ,
+2133,390000.0,2014,30986,Petrol,Kolkata,Home Test Drive,6483,Hyundai,Xcent  ,1.2
+2134,322000.0,2013,45868,Diesel,Kolkata,Home Test Drive,5353,Maruti Suzuki,Swift  ,
+2135,1205000.0,2017,16326,Petrol,Kolkata,No Tag,20011,Toyota,Corolla Altis,
+2136,508000.0,2016,93590,Diesel,Kolkata,No Tag,8436,Ford,EcoSport  ,1.5
+2137,406000.0,2010,20691,Petrol,Kolkata,Home Test Drive,,Honda,City  ,1.5
+2138,285000.0,2012,80744,Petrol,Kolkata,Home Test Drive,,Maruti Suzuki,Swift  ,
+2139,1061000.0,2018,32683,Diesel,Kolkata,Home Test Drive,17618,Mahindra,Marazzo  ,
+2140,792000.0,2022,5944,Petrol,Kolkata,Home Test Drive,13152,Renault,Kiger  ,
+2141,990000.0,2021,36089,Diesel,Kolkata,Home Test Drive,16440,Mahindra,Marazzo  ,
+2142,961000.0,2018,74762,Diesel,Kolkata,Home Test Drive,15959,Mahindra,Marazzo  ,
+2143,1193000.0,2021,5376,Petrol,Kolkata,Home Test Drive,19803,Kia,Seltos  ,1.5
+2144,802000.0,2021,9299,Petrol,Kolkata,Home Test Drive,13318,Hyundai,Venue  ,1.2
+2145,362000.0,2017,58323,Petrol,Kolkata,Home Test Drive,6011,Mahindra,KUV100  ,
+2146,522000.0,2016,54562,Petrol,Kolkata,Home Test Drive,8668,Hyundai,i20  ,1.2
+2147,517000.0,2015,59259,Petrol,Kolkata,Home Test Drive,8587,Hyundai,i20  ,1.2
+2148,494000.0,2015,47886,Petrol,Kolkata,Home Test Drive,8200,Honda,Jazz  ,
+2149,336000.0,2015,86628,Diesel,Kolkata,Home Test Drive,5574,Hyundai,Grand i10,
+2150,629000.0,2017,63236,Petrol,Kolkata,Home Test Drive,10445,Honda,WR-V  ,
+2151,574000.0,2017,32504,Petrol,Kolkata,Home Test Drive,9530,Maruti Suzuki,Dzire  ,
+2152,574000.0,2018,27656,Petrol,Kolkata,Home Test Drive,9527,Maruti Suzuki,Dzire  ,
+2153,562000.0,2018,52790,Petrol,Kolkata,Home Test Drive,9332,Maruti Suzuki,Dzire  ,
+2154,314000.0,2019,29782,Petrol,Kolkata,Home Test Drive,5214,Maruti Suzuki,Alto  ,
+2155,254000.0,2015,33907,Petrol,Kolkata,Home Test Drive,4216,Renault,Kwid  ,
+2156,314000.0,2019,10039,Petrol,Kolkata,Home Test Drive,5207,Maruti Suzuki,Alto  ,
+2157,1436000.0,2018,55798,Diesel,Kolkata,Home Test Drive,23847,Mahindra,Scorpio  ,
+2158,509000.0,2017,38539,Petrol,Kolkata,Home Test Drive,8452,Maruti Suzuki,Baleno  ,1.2
+2159,528000.0,2015,72959,Petrol,Kolkata,No Tag,8768,Ford,EcoSport  ,1.5
+2160,413000.0,2015,68637,Petrol,Kolkata,Home Test Drive,6860,Honda,Jazz  ,
+2161,390000.0,2014,30986,Petrol,Kolkata,Home Test Drive,6483,Hyundai,Xcent  ,1.2
+2162,322000.0,2013,45868,Diesel,Kolkata,Home Test Drive,5353,Maruti Suzuki,Swift  ,
+2163,1205000.0,2017,16326,Petrol,Kolkata,No Tag,20011,Toyota,Corolla Altis,
+2164,508000.0,2016,93590,Diesel,Kolkata,No Tag,8436,Ford,EcoSport  ,1.5
+2165,406000.0,2010,20691,Petrol,Kolkata,Home Test Drive,,Honda,City  ,1.5
+2166,792000.0,2022,5944,Petrol,Kolkata,Home Test Drive,13152,Renault,Kiger  ,
+2167,990000.0,2021,36089,Diesel,Kolkata,Home Test Drive,16440,Mahindra,Marazzo  ,
+2168,961000.0,2018,74762,Diesel,Kolkata,Home Test Drive,15959,Mahindra,Marazzo  ,
+2169,1193000.0,2021,5376,Petrol,Kolkata,Home Test Drive,19803,Kia,Seltos  ,1.5
+2170,802000.0,2021,9299,Petrol,Kolkata,Home Test Drive,13318,Hyundai,Venue  ,1.2
+2171,362000.0,2017,58323,Petrol,Kolkata,Home Test Drive,6011,Mahindra,KUV100  ,
+2172,522000.0,2016,54562,Petrol,Kolkata,Home Test Drive,8668,Hyundai,i20  ,1.2
+2173,517000.0,2015,59259,Petrol,Kolkata,Home Test Drive,8587,Hyundai,i20  ,1.2
+2174,494000.0,2015,47886,Petrol,Kolkata,Home Test Drive,8200,Honda,Jazz  ,
+2175,336000.0,2015,86628,Diesel,Kolkata,Home Test Drive,5574,Hyundai,Grand i10,
+2176,483000.0,2016,136381,Diesel,Kolkata,Home Test Drive,8021,Hyundai,i20  ,1.4
+2177,427000.0,2012,80246,Diesel,Kolkata,No Tag,,Volkswagen,Vento  ,
+2178,559000.0,2017,72694,Diesel,Kolkata,Home Test Drive,9286,Maruti Suzuki,Ciaz  ,
+2179,209000.0,2013,34418,Petrol,Kolkata,Home Test Drive,3479,Hyundai,Eon  ,
+2180,450000.0,2015,89218,Diesel,Kolkata,Home Test Drive,7473,Maruti Suzuki,Ciaz  ,
+2181,337000.0,2016,35985,Petrol,Kolkata,Home Test Drive,5596,Mahindra,KUV100  ,
+2182,1059000.0,2021,19524,Petrol,Kolkata,Home Test Drive,17586,Honda,City  ,
+2183,288000.0,2014,74046,Petrol,Kolkata,No Tag,4782,Maruti Suzuki,Wagon R,1.0
+2184,718000.0,2016,84946,Petrol,Kolkata,Home Test Drive,11923,Hyundai,Creta  ,1.6
+2185,313000.0,2014,70443,Petrol,Kolkata,Home Test Drive,5197,Hyundai,Xcent  ,1.2
+2186,544000.0,2020,1290,Petrol,Kolkata,Home Test Drive,9034,Maruti Suzuki,Ignis  ,1.2
+2187,641000.0,2019,12423,Petrol,Kolkata,Home Test Drive,10644,Maruti Suzuki,Baleno  ,1.2
+2188,724000.0,2021,9288,Petrol,Kolkata,Home Test Drive,12023,Tata,Altroz  ,
+2189,214000.0,2010,45189,Petrol,Kolkata,Home Test Drive,,Hyundai,i20  ,1.2
+2190,212000.0,2013,84301,Petrol,Kolkata,Home Test Drive,3522,Maruti Suzuki,Alto  ,
+2191,330000.0,2015,51623,Petrol,Kolkata,Home Test Drive,5483,Honda,Amaze  ,1.2
+2192,220000.0,2011,18852,Petrol,Kolkata,Home Test Drive,,Hyundai,i20  ,1.2
+2193,430000.0,2014,29856,Petrol,Kolkata,Home Test Drive,7140,Honda,City  ,
+2194,603000.0,2017,56272,Petrol,Kolkata,Home Test Drive,10013,Maruti Suzuki,Baleno  ,1.2
+2195,460000.0,2016,31349,Petrol,Kolkata,Home Test Drive,7639,Maruti Suzuki,Ciaz  ,
+2196,192000.0,2010,62021,Petrol,Kolkata,Home Test Drive,,Maruti Suzuki,Estilo  ,
+2197,622000.0,2017,17884,Petrol,Kolkata,Home Test Drive,10330,Honda,WR-V  ,
+2198,739000.0,2016,46397,Petrol,Kolkata,Home Test Drive,12272,Hyundai,Creta  ,1.6
+2199,178000.0,2010,48124,Petrol,Kolkata,Home Test Drive,,Hyundai,i10  ,1.2
+2200,441000.0,2014,60556,Diesel,Kolkata,No Tag,7321,Skoda,Rapid  ,1.6
+2201,615000.0,2021,3240,Petrol,Kolkata,Home Test Drive,10208,Hyundai,Grand i10,1.2
+2202,668000.0,2016,84686,Petrol,Kolkata,Home Test Drive,11096,Hyundai,Creta  ,1.6
+2203,614000.0,2019,14547,Petrol,Kolkata,Home Test Drive,10196,Hyundai,Grand i10,1.2
+2204,658000.0,2017,91709,Diesel,Kolkata,Home Test Drive,10927,Honda,WR-V  ,
+2205,656000.0,2017,49841,Petrol,Kolkata,Home Test Drive,10893,Honda,WR-V  ,
+2206,1059000.0,2021,19524,Petrol,Kolkata,Home Test Drive,17586,Honda,City  ,
+2207,1061000.0,2018,32683,Diesel,Kolkata,Home Test Drive,17618,Mahindra,Marazzo  ,
+2208,792000.0,2022,5944,Petrol,Kolkata,Home Test Drive,13152,Renault,Kiger  ,
+2209,990000.0,2021,36089,Diesel,Kolkata,Home Test Drive,16440,Mahindra,Marazzo  ,
+2210,961000.0,2018,74762,Diesel,Kolkata,Home Test Drive,15959,Mahindra,Marazzo  ,
+2211,1193000.0,2021,5376,Petrol,Kolkata,Home Test Drive,19803,Kia,Seltos  ,1.5
+2212,802000.0,2021,9299,Petrol,Kolkata,Home Test Drive,13318,Hyundai,Venue  ,1.2
+2213,362000.0,2017,58323,Petrol,Kolkata,Home Test Drive,6011,Mahindra,KUV100  ,
+2214,522000.0,2016,54562,Petrol,Kolkata,Home Test Drive,8668,Hyundai,i20  ,1.2
+2215,517000.0,2015,59259,Petrol,Kolkata,Home Test Drive,8587,Hyundai,i20  ,1.2
+2216,494000.0,2015,47886,Petrol,Kolkata,Home Test Drive,8200,Honda,Jazz  ,
+2217,336000.0,2015,86628,Diesel,Kolkata,Home Test Drive,5574,Hyundai,Grand i10,
+2218,559000.0,2017,72694,Diesel,Kolkata,Home Test Drive,9286,Maruti Suzuki,Ciaz  ,
+2219,450000.0,2015,89218,Diesel,Kolkata,Home Test Drive,7473,Maruti Suzuki,Ciaz  ,
+2220,276000.0,2011,90795,Petrol,Kolkata,No Tag,,Toyota,Etios  ,
+2221,346000.0,2017,51310,Petrol,Kolkata,Home Test Drive,5744,Mahindra,KUV100  ,
+2222,2900000.0,2017,28000,Diesel,Chennai,No Tag,48159,Mercedes-Benz,CLA  ,
+2223,5750000.0,2021,22600,Diesel,Chennai,No Tag,95488,BMW,3 Series,
+2224,1150000.0,2020,14000,Petrol,Chennai,No Tag,19097,Hyundai,Creta  ,1.5
+2225,4500000.0,2019,43785,Diesel,Chennai,Home Test Drive,74730,Mercedes-Benz,C-Class  ,
+2226,570000.0,2013,39000,Diesel,Chennai,No Tag,9465,Chevrolet,Enjoy  ,1.3
+2227,3500000.0,2016,69000,Diesel,Chennai,No Tag,58123,Land,Rover  ,
+2228,16500000.0,2021,8000,Diesel,Chennai,No Tag,2.74 L,Mercedes-Benz,S-Class  ,
+2229,2875000.0,2012,40000,Diesel,Chennai,No Tag,,Audi,A8  ,
+2230,1850000.0,2021,18000,Petrol,Chennai,No Tag,30722,MG,Hector  ,1.5
+2231,1350000.0,2020,12000,Petrol,Chennai,No Tag,22419,Honda,City  ,
+2232,1350000.0,2022,21000,Diesel,Chennai,No Tag,22419,Mahindra,XUV300  ,1.5
+2233,990000.0,2021,17000,Petrol,Chennai,No Tag,16440,Hyundai,i20  ,1.2
+2234,1175000.0,2021,11000,Petrol,Chennai,No Tag,19512,Hyundai,Venue  ,1.0
+2235,1090000.0,2021,32800,Petrol,Chennai,No Tag,18101,Kia,Sonet  ,1.0
+2236,1050000.0,2019,45731,Petrol,Chennai,No Tag,17437,Nissan,Kicks  ,1.5
+2237,1150000.0,2019,54000,Diesel,Chennai,Great Price,19097,Nissan,Kicks  ,1.5
+2238,1850000.0,2022,11000,Petrol,Chennai,No Tag,30722,Kia,Carens  ,1.4
+2239,675000.0,2020,39900,Petrol,Chennai,Great Price,11209,Hyundai,i20  ,1.2
+2240,1130000.0,2019,30852,Petrol,Chennai,No Tag,18765,Hyundai,Creta  ,1.6
+2241,795000.0,2020,27600,Petrol,Chennai,No Tag,13202,Tata,Altroz  ,
+2242,1590000.0,2018,59700,Diesel,Chennai,No Tag,26404,Jeep,Compass Limited,2.0
+2243,790000.0,2019,30000,Petrol,Chennai,No Tag,13119,Hyundai,Elite i20,1.2
+2244,1190000.0,2020,16600,Petrol,Chennai,Great Price,,Renault,Duster  ,1.3
+2245,1490000.0,2019,57600,Petrol,Chennai,No Tag,24743,Kia,Seltos  ,1.4
+2246,550000.0,2015,101785,Diesel,Chennai,Home Test Drive,9133,Tata,Zest  ,
+2247,375000.0,2016,80375,Petrol,Chennai,No Tag,6227,Nissan,Micra  ,
+2248,350000.0,2014,45260,Petrol,Chennai,No Tag,5812,Maruti Suzuki,Wagon R,1.0
+2249,502000.0,2019,29314,Petrol,Chennai,No Tag,8336,Tata,Tiago  ,
+2250,335000.0,2017,43886,Petrol,Chennai,No Tag,5563,Hyundai,Eon  ,
+2251,612000.0,2016,41329,Petrol,Chennai,No Tag,10163,Hyundai,Elite i20,1.2
+2252,447000.0,2020,47857,Petrol,Chennai,No Tag,7423,Maruti Suzuki,S-Presso  ,
+2253,612000.0,2016,41329,Petrol,Chennai,No Tag,10163,Hyundai,Elite i20,1.2
+2254,347000.0,2015,71769,Petrol,Chennai,No Tag,5762,Hyundai,i10  ,
+2255,853000.0,2020,72255,Petrol,Chennai,No Tag,14165,Maruti Suzuki,Vitara Brezza,
+2256,402000.0,2011,80464,Petrol,Chennai,No Tag,,Toyota,Etios  ,
+2257,827000.0,2019,27321,Petrol,Chennai,No Tag,13733,Honda,Jazz  ,
+2258,457000.0,2020,13209,Petrol,Chennai,No Tag,7589,Maruti Suzuki,Eeco  ,
+2259,646000.0,2015,70858,Diesel,Chennai,No Tag,10727,Maruti Suzuki,Swift  ,
+2260,361000.0,2018,47262,Petrol,Chennai,No Tag,5995,Hyundai,Eon  ,
+2261,362000.0,2014,71856,Petrol,Chennai,No Tag,6011,Maruti Suzuki,Wagon R,1.0
+2262,719000.0,2017,87548,Diesel,Chennai,No Tag,11940,Renault,Duster  ,
+2263,613000.0,2016,77885,Petrol,Chennai,No Tag,10179,Honda,City  ,
+2264,344000.0,2013,60951,Petrol,Chennai,No Tag,5712,Maruti Suzuki,Wagon R,1.0
+2265,660000.0,2019,52695,Petrol,Chennai,No Tag,10960,Renault,Triber  ,
+2266,302000.0,2017,53240,Petrol,Chennai,No Tag,5015,Hyundai,Eon  ,
+2267,439000.0,2016,39987,Petrol,Chennai,No Tag,7290,Hyundai,Grand i10,1.2
+2268,776000.0,2017,33843,Petrol,Chennai,No Tag,12886,Ford,EcoSport  ,1.0
+2269,469000.0,2018,13131,Petrol,Chennai,No Tag,7788,Hyundai,Grand i10,1.2
+2270,533000.0,2016,76865,Petrol,Chennai,No Tag,8851,Volkswagen,Polo  ,1.2
+2271,369000.0,2014,41007,Petrol,Chennai,No Tag,6127,Maruti Suzuki,Wagon R,1.0
+2272,680000.0,2020,19365,Petrol,Chennai,No Tag,11292,Maruti Suzuki,Swift  ,
+2273,597000.0,2021,60539,Petrol,Chennai,No Tag,9914,Maruti Suzuki,Swift  ,
+2274,460000.0,2021,22507,Petrol,Chennai,No Tag,7639,Renault,Kwid  ,
+2275,305000.0,2016,36031,Petrol,Chennai,No Tag,5065,Hyundai,Eon  ,
+2276,886000.0,2020,70402,Petrol,Chennai,No Tag,14713,Volkswagen,Polo  ,1.0
+2277,559000.0,2016,65235,Petrol,Chennai,No Tag,9283,Hyundai,i20  ,1.2
+2278,911000.0,2020,27499,Petrol,Chennai,No Tag,15128,Tata,Nexon  ,
+2279,337000.0,2014,75619,Petrol,Chennai,No Tag,5596,Hyundai,i10  ,1.2
+2280,863000.0,2018,44004,Diesel,Chennai,No Tag,14331,Honda,WR-V  ,
+2281,448000.0,2020,9299,Petrol,Chennai,No Tag,7439,Renault,Kwid  ,1.0
+2282,431000.0,2021,23479,Petrol,Chennai,No Tag,7157,Maruti Suzuki,Alto  ,
+2283,486000.0,2017,56377,Petrol,Chennai,No Tag,8070,Hyundai,Grand i10,1.2
+2284,644000.0,2020,30956,Petrol,Chennai,No Tag,10694,Maruti Suzuki,Swift  ,
+2285,971000.0,2017,55275,Petrol,Chennai,No Tag,16125,Hyundai,Creta  ,1.6
+2286,824000.0,2019,86649,Diesel,Chennai,No Tag,13683,Maruti Suzuki,Vitara Brezza,
+2287,407000.0,2019,26094,Petrol,Chennai,No Tag,,Maruti Suzuki,Alto  ,
+2288,633000.0,2016,83143,Diesel,Chennai,No Tag,10512,Ford,EcoSport  ,1.5
+2289,1150000.0,2021,9335,Petrol,Chennai,No Tag,19097,Mahindra,XUV300  ,1.2
+2290,399000.0,2013,61664,Petrol,Chennai,No Tag,6626,Hyundai,i20  ,1.2
+2291,643000.0,2017,88857,Diesel,Chennai,No Tag,10678,Hyundai,Elite i20,1.4
+2292,634000.0,2020,12814,Petrol,Chennai,No Tag,10528,Maruti Suzuki,Dzire  ,
+2293,323000.0,2017,42748,Petrol,Chennai,No Tag,5363,Hyundai,Eon  ,
+2294,919000.0,2018,44890,Diesel,Chennai,No Tag,15261,Maruti Suzuki,Vitara Brezza,
+2295,336000.0,2019,24166,Petrol,Chennai,No Tag,5579,Maruti Suzuki,Alto  ,
+2296,510000.0,2018,74801,Petrol,Chennai,No Tag,8469,Maruti Suzuki,Ignis  ,1.2
+2297,659000.0,2018,59072,Petrol,Chennai,No Tag,10943,Hyundai,Xcent  ,1.2
+2298,819000.0,2021,29004,Petrol,Chennai,No Tag,13600,Hyundai,i20  ,1.2
+2299,596000.0,2020,17164,Petrol,Chennai,No Tag,9897,Tata,Altroz  ,
+2300,887000.0,2016,64208,Petrol,Chennai,No Tag,14730,Hyundai,Creta  ,1.6
+2301,547000.0,2019,19113,Petrol,Chennai,No Tag,9083,Hyundai,Grand i10,1.2
+2302,648000.0,2020,17816,Petrol,Chennai,No Tag,10761,Maruti Suzuki,Swift  ,
+2303,531000.0,2019,63623,Petrol,Chennai,No Tag,8818,Volkswagen,Ameo  ,1.0
+2304,496000.0,2017,40558,Petrol,Chennai,No Tag,8236,Hyundai,Grand i10,1.2
+2305,440000.0,2016,17866,Petrol,Chennai,No Tag,7306,Maruti Suzuki,Wagon R,1.0
+2306,1199000.0,2019,65187,Diesel,Chennai,No Tag,19911,Kia,Seltos  ,1.5
+2307,336000.0,2014,65203,Diesel,Chennai,No Tag,5579,Maruti Suzuki,Ritz  ,
+2308,748000.0,2019,48266,Petrol,Chennai,No Tag,12421,Tata,Nexon  ,
+2309,1199000.0,2018,46056,Diesel,Chennai,No Tag,19911,Hyundai,Verna  ,1.6
+2310,1270000.0,2021,12441,Petrol,Chennai,No Tag,21090,Renault,Duster  ,1.3
+2311,1281000.0,2017,95103,Diesel,Chennai,No Tag,21273,Jeep,Compass Limited,2.0
+2312,1114000.0,2021,36502,Diesel,Chennai,No Tag,18499,Hyundai,i20  ,1.5
+2313,658000.0,2019,46592,Diesel,Chennai,No Tag,10927,Maruti Suzuki,Swift  ,
+2314,374000.0,2013,45434,Petrol,Chennai,No Tag,6210,Maruti Suzuki,Wagon R,1.0
+2315,782000.0,2017,85977,Diesel,Chennai,No Tag,12986,Ford,EcoSport  ,1.5
+2316,841000.0,2017,88556,Diesel,Chennai,No Tag,13966,Skoda,Rapid  ,1.5
+2317,451000.0,2018,36616,Petrol,Chennai,No Tag,7489,Maruti Suzuki,Wagon R,1.0
+2318,481000.0,2016,73423,Petrol,Chennai,No Tag,7987,Hyundai,Grand i10,1.2
+2319,943000.0,2019,85328,Diesel,Chennai,No Tag,15660,Hyundai,Verna  ,1.6
+2320,525000.0,2016,69152,Petrol,Chennai,No Tag,8718,Ford,EcoSport  ,1.5
+2321,1878000.0,2018,26548,Diesel,Chennai,No Tag,31187,Hyundai,Tucson  ,
+2322,928000.0,2018,49112,Petrol,Chennai,No Tag,15411,Hyundai,Verna  ,1.6
+2323,659000.0,2018,82045,Diesel,Chennai,No Tag,10943,Hyundai,Elite i20,1.4
+2324,898000.0,2018,47436,Petrol,Chennai,No Tag,14912,Hyundai,Verna  ,1.6
+2325,901000.0,2018,57133,Diesel,Chennai,No Tag,14962,Maruti Suzuki,Vitara Brezza,
+2326,925000.0,2018,21302,Petrol,Chennai,No Tag,15361,Hyundai,Verna  ,1.6
+2327,489000.0,2018,16773,Petrol,Chennai,No Tag,8120,Maruti Suzuki,Celerio  ,
+2328,774000.0,2017,44232,Petrol,Chennai,No Tag,12853,Honda,City  ,
+2329,929000.0,2019,58303,Petrol,Chennai,No Tag,,Honda,City  ,
+2330,498000.0,2019,84564,Petrol,Chennai,Quality Report,8270,Datsun,GO  ,
+2331,437000.0,2017,27375,Petrol,Chennai,No Tag,7257,Maruti Suzuki,Wagon R,1.0
+2332,694000.0,2019,26512,Petrol,Chennai,No Tag,11525,Maruti Suzuki,Baleno  ,
+2333,860000.0,2021,85945,Petrol,Chennai,No Tag,14281,Toyota,Glanza  ,
+2334,405000.0,2015,56889,Petrol,Chennai,Great Price,6725,Hyundai,Grand i10,1.2
+2335,550000.0,2015,40838,Petrol,Chennai,No Tag,9133,Volkswagen,Polo  ,1.2
+2336,408000.0,2016,42286,Petrol,Chennai,No Tag,6775,Hyundai,Grand i10,1.2
+2337,1441000.0,2019,78653,Petrol,Chennai,No Tag,23930,Kia,Seltos  ,1.4
+2338,842000.0,2021,27104,Diesel,Chennai,No Tag,13982,Ford,Freestyle  ,1.5
+2339,1112000.0,2020,52483,Petrol,Chennai,No Tag,18466,Kia,Seltos  ,1.5
+2340,434000.0,2018,28769,Petrol,Chennai,No Tag,7207,Renault,Kwid  ,1.0
+2341,596000.0,2017,41485,Petrol,Chennai,No Tag,9897,Hyundai,Elite i20,1.2
+2342,537000.0,2019,21826,Petrol,Chennai,No Tag,8917,Hyundai,Grand i10,1.2
+2343,911000.0,2020,40298,Petrol,Chennai,No Tag,15128,Maruti Suzuki,Vitara Brezza,
+2344,643000.0,2019,31508,Petrol,Chennai,No Tag,10678,Maruti Suzuki,Swift  ,
+2345,775000.0,2019,30767,Petrol,Chennai,No Tag,12870,Hyundai,Elite i20,1.2
+2346,263000.0,2014,53558,Petrol,Chennai,No Tag,4367,Maruti Suzuki,Alto  ,
+2347,1586000.0,2021,10507,Petrol,Chennai,No Tag,26338,Mahindra,Thar  ,
+2348,360000.0,2014,22900,Petrol,Chennai,No Tag,5978,Maruti Suzuki,Wagon R,1.0
+2349,263000.0,2014,53558,Petrol,Chennai,No Tag,4367,Maruti Suzuki,Alto  ,
+2350,482000.0,2018,45592,Petrol,Chennai,No Tag,8004,Maruti Suzuki,Celerio  ,
+2351,534000.0,2017,26095,Petrol,Chennai,No Tag,8867,Maruti Suzuki,Swift  ,
+2352,595000.0,2018,50162,Petrol,Chennai,No Tag,9880,Hyundai,Grand i10,1.2
+2353,516000.0,2017,45043,Petrol,Chennai,No Tag,8569,Hyundai,Grand i10,1.2
+2354,328000.0,2018,36536,Petrol,Chennai,No Tag,5446,Maruti Suzuki,Alto  ,
+2355,637000.0,2018,81454,Petrol,Chennai,No Tag,10578,Volkswagen,Polo  ,1.0
+2356,809000.0,2019,32417,Petrol,Chennai,No Tag,13434,Toyota,Glanza  ,
+2357,750000.0,2018,65529,Diesel,Chennai,No Tag,12455,Hyundai,Elite i20,1.4
+2358,588000.0,2016,74580,Diesel,Chennai,No Tag,9764,Ford,EcoSport  ,1.5
+2359,611000.0,2017,76239,Petrol,Chennai,No Tag,10146,Maruti Suzuki,Dzire  ,
+2360,455000.0,2021,10693,Petrol,Chennai,No Tag,7556,Datsun,redi-GO  ,1.0
+2361,439000.0,2016,61733,Petrol,Chennai,No Tag,7290,Hyundai,Grand i10,1.2
+2362,1617000.0,2021,12987,Diesel,Chennai,No Tag,26853,Tata,Safari  ,
+2363,907000.0,2019,41756,Diesel,Chennai,No Tag,15062,Maruti Suzuki,Vitara Brezza,
+2364,303000.0,2017,9187,Petrol,Chennai,No Tag,5031,Maruti Suzuki,Alto  ,
+2365,326000.0,2014,62854,Petrol,Chennai,No Tag,5413,Maruti Suzuki,Celerio  ,
+2366,565000.0,2017,45374,Petrol,Chennai,No Tag,9382,Hyundai,Grand i10,1.2
+2367,332000.0,2018,50549,Petrol,Chennai,No Tag,5513,Maruti Suzuki,Alto  ,
+2368,339000.0,2018,20827,Petrol,Chennai,No Tag,5629,Maruti Suzuki,Alto  ,
+2369,730000.0,2021,17519,Petrol,Chennai,No Tag,12122,Maruti Suzuki,Dzire  ,
+2370,282000.0,2015,69255,Petrol,Chennai,No Tag,4683,Hyundai,Eon  ,
+2371,519000.0,2016,70563,Petrol,Chennai,No Tag,8618,Maruti Suzuki,Swift  ,
+2372,546000.0,2017,54270,Petrol,Chennai,No Tag,9067,Hyundai,Grand i10,1.2
+2373,856000.0,2020,33163,Diesel,Chennai,No Tag,14215,Skoda,Rapid  ,1.5
+2374,648000.0,2017,58549,Diesel,Chennai,No Tag,10761,Volkswagen,Ameo  ,1.5
+2375,336000.0,2018,34022,Petrol,Chennai,No Tag,5579,Maruti Suzuki,Alto  ,
+2376,430000.0,2013,91701,Petrol,Chennai,No Tag,7140,Maruti Suzuki,Swift  ,
+2377,653000.0,2019,62714,Petrol,Chennai,No Tag,10844,Renault,Triber  ,
+2378,824000.0,2021,14261,Petrol,Chennai,No Tag,13683,Hyundai,i20  ,1.2
+2379,433000.0,2013,51442,Petrol,Chennai,No Tag,7190,Maruti Suzuki,Swift  ,
+2380,318000.0,2012,24045,Petrol,Chennai,No Tag,,Maruti Suzuki,Wagon R,1.0
+2381,691000.0,2016,93378,Diesel,Chennai,No Tag,11475,Renault,Duster  ,
+2382,426000.0,2013,71149,Petrol,Chennai,No Tag,7074,Maruti Suzuki,Swift  ,
+2383,401000.0,2019,7366,Petrol,Chennai,No Tag,6659,Maruti Suzuki,Alto  ,
+2384,797000.0,2022,7630,Petrol,Chennai,No Tag,13235,Renault,Triber  ,
+2385,493000.0,2018,32346,Petrol,Chennai,No Tag,8187,Maruti Suzuki,Celerio  ,
+2386,777000.0,2019,50554,Petrol,Chennai,No Tag,12903,Hyundai,Elite i20,1.2
+2387,515000.0,2016,28264,Petrol,Chennai,No Tag,8552,Volkswagen,Polo  ,1.2
+2388,1454000.0,2020,46978,Diesel,Chennai,No Tag,24146,Kia,Seltos  ,1.5
+2389,732000.0,2020,8223,Petrol,Chennai,No Tag,12156,Maruti Suzuki,Dzire  ,
+2390,254000.0,2015,82600,Petrol,Chennai,No Tag,4218,Maruti Suzuki,Alto  ,
+2391,454000.0,2022,10128,Petrol,Chennai,No Tag,7539,Maruti Suzuki,Alto  ,
+2392,638000.0,2016,74620,Petrol,Chennai,No Tag,10595,Ford,EcoSport  ,1.5
+2393,545000.0,2016,58049,Petrol,Chennai,No Tag,9050,Volkswagen,Ameo  ,1.2
+2394,678000.0,2019,50030,Petrol,Chennai,No Tag,11259,Maruti Suzuki,Dzire  ,
+2395,694000.0,2020,4969,Petrol,Chennai,No Tag,11525,Maruti Suzuki,Swift  ,
+2396,413000.0,2017,79381,Petrol,Chennai,No Tag,6858,Maruti Suzuki,Celerio  ,
+2397,694000.0,2020,4969,Petrol,Chennai,No Tag,11525,Maruti Suzuki,Swift  ,
+2398,638000.0,2016,74620,Petrol,Chennai,No Tag,10595,Ford,EcoSport  ,1.5
+2399,678000.0,2019,50030,Petrol,Chennai,No Tag,11259,Maruti Suzuki,Dzire  ,
+2400,326000.0,2013,79854,Petrol,Chennai,No Tag,5413,Honda,Brio  ,
+2401,625000.0,2020,15626,Petrol,Chennai,No Tag,10379,Hyundai,Santro  ,
+2402,420000.0,2017,82269,Petrol,Chennai,No Tag,6974,Maruti Suzuki,Wagon R,1.0
+2403,416000.0,2020,28867,Petrol,Chennai,No Tag,6908,Maruti Suzuki,Alto  ,
+2404,676000.0,2018,21443,Petrol,Chennai,No Tag,11226,Maruti Suzuki,Dzire  ,
+2405,1126000.0,2020,30800,Petrol,Chennai,No Tag,18699,Kia,Sonet  ,1.0
+2406,615000.0,2017,40368,Petrol,Chennai,No Tag,10213,Hyundai,Elite i20,1.2
+2407,549000.0,2014,71177,Petrol,Chennai,No Tag,9117,Hyundai,Elite i20,1.2
+2408,696000.0,2019,34715,Petrol,Chennai,No Tag,11558,Honda,Amaze  ,1.2
+2409,344000.0,2018,54221,Petrol,Chennai,No Tag,5712,Maruti Suzuki,Alto  ,
+2410,341000.0,2016,28482,Petrol,Chennai,No Tag,5662,Maruti Suzuki,Alto  ,
+2411,374000.0,2014,61551,Petrol,Chennai,No Tag,6210,Maruti Suzuki,Wagon R,1.0
+2412,481000.0,2018,45979,Petrol,Chennai,No Tag,7987,Maruti Suzuki,Celerio  ,
+2413,447000.0,2015,31594,Petrol,Chennai,No Tag,7423,Hyundai,Grand i10,1.2
+2414,688000.0,2019,49982,Petrol,Chennai,No Tag,11425,Renault,Triber  ,
+2415,571000.0,2022,7969,Petrol,Chennai,No Tag,9482,Renault,Kwid  ,1.0
+2416,574000.0,2019,33134,Petrol,Chennai,Just Arrived,9532,Maruti Suzuki,Swift  ,
+2417,880000.0,2018,58060,Diesel,Chennai,No Tag,14613,Renault,Duster  ,
+2418,641000.0,2018,37567,Petrol,Chennai,No Tag,10644,Volkswagen,Polo  ,1.0
+2419,721000.0,2016,99178,Diesel,Chennai,No Tag,11973,Maruti Suzuki,Ciaz  ,
+2420,430000.0,2016,22560,Petrol,Chennai,No Tag,7140,Maruti Suzuki,Wagon R,1.0
+2421,721000.0,2016,99178,Diesel,Chennai,No Tag,11973,Maruti Suzuki,Ciaz  ,
+2422,641000.0,2018,37567,Petrol,Chennai,No Tag,10644,Volkswagen,Polo  ,1.0
+2423,660000.0,2017,13300,Petrol,Chennai,No Tag,10960,Maruti Suzuki,Swift  ,
+2424,347000.0,2014,94231,Petrol,Chennai,No Tag,5762,Hyundai,i10  ,
+2425,325000.0,2014,82202,Petrol,Chennai,No Tag,5397,Maruti Suzuki,Wagon R,1.0
+2426,784000.0,2016,52969,Petrol,Chennai,No Tag,13019,Volkswagen,Vento  ,1.2
+2427,1402000.0,2020,15295,Petrol,Chennai,No Tag,23282,Kia,Seltos  ,1.5
+2428,1631000.0,2019,83004,Petrol,Chennai,No Tag,27085,Kia,Seltos  ,1.4
+2429,433000.0,2018,35368,Petrol,Chennai,No Tag,7190,Honda,Jazz  ,
+2430,414000.0,2019,33111,Petrol,Chennai,No Tag,6875,Maruti Suzuki,Alto  ,
+2431,1480000.0,2021,5710,Petrol,Chennai,No Tag,24577,Mahindra,Thar  ,
+2432,1138000.0,2019,55260,Petrol,Chennai,No Tag,18898,Kia,Seltos  ,1.5
+2433,324000.0,2019,44711,Petrol,Chennai,No Tag,5380,Datsun,redi-GO  ,
+2434,613000.0,2019,25587,Petrol,Chennai,No Tag,10179,Maruti Suzuki,Swift  ,
+2435,427000.0,2014,53184,Petrol,Chennai,No Tag,7091,Maruti Suzuki,Swift  ,
+2436,862000.0,2020,26095,Petrol,Chennai,No Tag,14314,Maruti Suzuki,Vitara Brezza,
+2437,607000.0,2018,63656,Petrol,Chennai,No Tag,10080,Maruti Suzuki,Baleno  ,1.2
+2438,541000.0,2018,29497,Petrol,Chennai,No Tag,8984,Hyundai,Grand i10,1.2
+2439,675000.0,2016,81398,Petrol,Chennai,No Tag,11209,Hyundai,i20  ,1.2
+2440,385000.0,2016,24754,Petrol,Chennai,No Tag,6393,Hyundai,i10  ,
+2441,835000.0,2018,45167,Diesel,Chennai,No Tag,13866,Ford,EcoSport  ,1.5
+2442,412000.0,2014,82339,Petrol,Chennai,No Tag,6841,Honda,Amaze  ,1.2
+2443,620000.0,2018,31690,Petrol,Chennai,No Tag,10296,Hyundai,Elite i20,1.2
+2444,403000.0,2017,31336,Petrol,Chennai,No Tag,6692,Renault,Kwid  ,1.0
+2445,721000.0,2020,42584,Petrol,Chennai,No Tag,11973,Maruti Suzuki,Dzire  ,
+2446,367000.0,2019,21541,Petrol,Chennai,No Tag,6094,Datsun,redi-GO  ,
+2447,665000.0,2017,55768,Petrol,Chennai,No Tag,11043,Honda,Jazz  ,
+2448,690000.0,2021,17118,Petrol,Chennai,No Tag,11458,Maruti Suzuki,Swift  ,
+2449,837000.0,2021,23623,Petrol,Chennai,No Tag,13899,Volkswagen,Polo  ,1.0
+2450,621000.0,2019,44378,Petrol,Chennai,No Tag,10312,Maruti Suzuki,Swift  ,
+2451,617000.0,2017,97912,Petrol,Chennai,No Tag,10246,Volkswagen,Polo  ,1.2
+2452,577000.0,2018,28645,Petrol,Chennai,No Tag,9582,Nissan,Micra  ,
+2453,588000.0,2017,9266,Petrol,Chennai,No Tag,9764,Hyundai,Xcent  ,
+2454,773000.0,2017,65423,Petrol,Chennai,No Tag,12836,Volkswagen,Polo  ,
+2455,503000.0,2016,38123,Petrol,Chennai,No Tag,8353,Maruti Suzuki,Swift  ,
+2456,666000.0,2018,51465,Petrol,Chennai,No Tag,11060,Volkswagen,Polo  ,1.0
+2457,751000.0,2016,43487,Petrol,Chennai,No Tag,12471,Honda,City  ,
+2458,607000.0,2018,91609,Petrol,Chennai,No Tag,10080,Hyundai,Elite i20,1.2
+2459,367000.0,2016,82432,Petrol,Chennai,No Tag,6094,Renault,Pulse  ,
+2460,675000.0,2019,27832,Petrol,Chennai,No Tag,11209,Honda,Amaze  ,1.2
+2461,446000.0,2016,52139,Petrol,Chennai,No Tag,7406,Hyundai,Grand i10,1.2
+2462,814000.0,2020,7432,Petrol,Chennai,No Tag,13517,Hyundai,Venue  ,1.2
+2463,1028000.0,2020,38623,Petrol,Chennai,No Tag,17071,Skoda,Rapid  ,1.6
+2464,1653000.0,2020,10586,Petrol,Chennai,No Tag,27450,Kia,Seltos  ,1.4
+2465,996000.0,2022,2738,Petrol,Chennai,No Tag,16540,Nissan,Magnite  ,
+2466,495000.0,2022,68595,Petrol,Chennai,Home Test Drive,8220,Hyundai,Santro  ,
+2467,674000.0,2019,93651,Petrol,Chennai,Home Test Drive,11192,Honda,Amaze  ,1.2
+2468,846000.0,2018,61153,Petrol,Chennai,Home Test Drive,14054,Skoda,Rapid  ,1.6
